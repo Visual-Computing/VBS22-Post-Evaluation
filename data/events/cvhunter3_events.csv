@@ -1,0 +1,309 @@
+task,team,user,timestamp,elapsed_since_task_start_ms,correct_submission_time_ms,rank_video,rank_shot_margin_0,rank_shot_margin_5,category,type,value,additionals,teamFamily
+vbse001,cvhunter3,3,1668157256442,8075.0,11755.0,2.0,2.0,2.0,TEXT,JointEmbedding,CLIP: A woman holding a steaming mug close to the camera.,{},cvhunter
+vbse001,cvhunter3,3,1668157257647,9280.0,11755.0,2.0,2.0,2.0,TEXT,JointEmbedding,CLIP: A woman holding a steaming mug close to the camera.,{},cvhunter
+vbse002,cvhunter3,3,1668157578151,6177.0,121728.0,136.0,136.0,136.0,TEXT,JointEmbedding,CLIP: Viewer moving fast backwards on railway tracks.,{},cvhunter
+vbse002,cvhunter3,3,1668157579318,7344.0,121728.0,136.0,136.0,136.0,TEXT,JointEmbedding,CLIP: Viewer moving fast backwards on railway tracks.,{},cvhunter
+vbse002,cvhunter3,3,1668157596593,24619.0,121728.0,55.0,55.0,55.0,IMAGE,feedbackModel,Bayes CLIP 15821:2727_592:2281_11887:5949_10199:2396_5284:4072_7119:14670_2697:65222_13471:854_10199:2445_10199:4395_| group:1|16612:962_9853:22695_,{},cvhunter
+vbse002,cvhunter3,3,1668157623948,51974.0,121728.0,151.0,151.0,151.0,TEXT,JointEmbedding,CLIP: Viewer moving fast backwards on double railway tracks.,{},cvhunter
+vbse002,cvhunter3,3,1668157625153,53179.0,121728.0,151.0,151.0,151.0,TEXT,JointEmbedding,CLIP: Viewer moving fast backwards on double railway tracks.,{},cvhunter
+vbse002,cvhunter3,3,1668157647930,75956.0,121728.0,189.0,189.0,189.0,IMAGE,feedbackModel,Bayes CLIP 15821:2727_11887:6054_15092:4496_10592:3364_4858:5348_13471:847_11887:5949_10199:2475_10911:25534_8062:1431_| group:1|4858:285_16612:1000_4768:240_,{},cvhunter
+vbse002,cvhunter3,3,1668157670687,98713.0,121728.0,2.0,2.0,2.0,TEXT,JointEmbedding,CLIP: Viewer moving fast backwards on double railway tracks blurred vision.,{},cvhunter
+vbse002,cvhunter3,3,1668157671898,99924.0,121728.0,2.0,2.0,2.0,TEXT,JointEmbedding,CLIP: Viewer moving fast backwards on double railway tracks blurred vision.,{},cvhunter
+vbse003,cvhunter3,3,1668157950162,7585.0,32523.0,46.0,48.0,48.0,TEXT,JointEmbedding,CLIP: Close-up shot of water waves reflecting the sun.,{},cvhunter
+vbse003,cvhunter3,3,1668157951399,8822.0,32523.0,46.0,48.0,48.0,TEXT,JointEmbedding,CLIP: Close-up shot of water waves reflecting the sun.,{},cvhunter
+vbse004,cvhunter3,3,1668158282779,8192.0,13512.0,3.0,3.0,3.0,TEXT,JointEmbedding,CLIP: A woman having a mobile phone call in bed,{},cvhunter
+vbse004,cvhunter3,3,1668158283801,9214.0,13512.0,3.0,3.0,3.0,TEXT,JointEmbedding,CLIP: A woman having a mobile phone call in bed,{},cvhunter
+vbse005,cvhunter3,3,1668158409447,7634.0,10958.0,2.0,2.0,2.0,TEXT,JointEmbedding,CLIP: A red seaplane on a lake with forests around.,{},cvhunter
+vbse005,cvhunter3,3,1668158410572,8759.0,10958.0,2.0,2.0,2.0,TEXT,JointEmbedding,CLIP: A red seaplane on a lake with forests around.,{},cvhunter
+vbse006,cvhunter3,3,1668158464988,8709.0,107499.0,42.0,105.0,105.0,TEXT,JointEmbedding,CLIP: Woman in yellow shirt standing in a room with a yellow sofa.,{},cvhunter
+vbse006,cvhunter3,3,1668158466317,10038.0,107499.0,42.0,105.0,105.0,TEXT,JointEmbedding,CLIP: Woman in yellow shirt standing in a room with a yellow sofa.,{},cvhunter
+vbse006,cvhunter3,3,1668158484841,28562.0,107499.0,53.0,617.0,617.0,IMAGE,feedbackModel,Bayes CLIP 12521:1065_16753:5419_1362:7097_15731:3456_2191:24973_4077:8844_819:2353_13449:32431_14755:20850_3661:12212_| group:1|13822:5327_5709:41969_,{},cvhunter
+vbse006,cvhunter3,3,1668158518605,62326.0,107499.0,63.0,83.0,83.0,TEXT,JointEmbedding,CLIP: Woman in yellow shirt standing in a room with a yellow sofa. stripped background,{},cvhunter
+vbse006,cvhunter3,3,1668158519667,63388.0,107499.0,63.0,83.0,83.0,TEXT,JointEmbedding,CLIP: Woman in yellow shirt standing in a room with a yellow sofa. stripped background,{},cvhunter
+vbse006,cvhunter3,3,1668158533129,76850.0,107499.0,29.0,29.0,29.0,IMAGE,feedbackModel,Bayes CLIP 13822:5327_10362:28037_14069:281_10362:26906_10362:27468_15886:3680_16323:19293_15886:1858_1362:7097_4628:5898_| group:1|5709:41969_,{},cvhunter
+vbse007,cvhunter3,3,1668158712157,6567.0,11553.0,6.0,6.0,6.0,TEXT,JointEmbedding,CLIP: Four people waving on a mountain summit.,{},cvhunter
+vbse007,cvhunter3,3,1668158713344,7754.0,11553.0,6.0,6.0,6.0,TEXT,JointEmbedding,CLIP: Four people waving on a mountain summit.,{},cvhunter
+vbse008,cvhunter3,3,1668158780210,8271.0,,255.0,4069.0,2746.0,TEXT,JointEmbedding,CLIP: A white van driving between ruins.,{},cvhunter
+vbse008,cvhunter3,3,1668158781307,9368.0,,255.0,4069.0,2746.0,TEXT,JointEmbedding,CLIP: A white van driving between ruins.,{},cvhunter
+vbse008,cvhunter3,3,1668158821034,49095.0,,34.0,1105.0,1105.0,IMAGE,feedbackModel,Bayes CLIP 14123:4856_842:21162_3949:713_4243:6512_3205:6538_9442:300_3949:743_15545:2000_2367:6006_15647:15188_| group:1|14323:15030_6249:21344_,{},cvhunter
+vbse008,cvhunter3,3,1668158874725,102786.0,,287.0,958.0,321.0,TEXT,JointEmbedding,Temporal CLIP: rocky ruins with one large block put sideways >A white van driving between ruins. ,{},cvhunter
+vbse008,cvhunter3,3,1668158876667,104728.0,,287.0,958.0,321.0,TEXT,JointEmbedding,Temporal CLIP: rocky ruins with one large block put sideways >A white van driving between ruins. ,{},cvhunter
+vbse008,cvhunter3,3,1668158916224,144285.0,,370.0,810.0,370.0,TEXT,JointEmbedding,Temporal CLIP: ruins with one large block put sideways >A white van driving between ruins. ,{},cvhunter
+vbse008,cvhunter3,3,1668158918029,146090.0,,370.0,810.0,370.0,TEXT,JointEmbedding,Temporal CLIP: ruins with one large block put sideways >A white van driving between ruins. ,{},cvhunter
+vbse008,cvhunter3,3,1668158953888,181949.0,,51.0,589.0,589.0,IMAGE,feedbackModel,Temporal Bayes CLIP 16009:5681_4077:20006_7397:16862_842:21038_13912:1775_16621:4188_11996:344_16009:1562_9990:2254_14966:9531_| group:1|9162:6138_| group:2|842:21062_,{},cvhunter
+vbse008,cvhunter3,3,1668158983725,211786.0,,1.0,600.0,600.0,IMAGE,feedbackModel,Temporal Bayes CLIP 9162:5750_842:20981_7397:16862_16621:4169_6958:1306_6594:1450_11753:2190_842:20906_9570:931_14966:7500_| group:1|2815:5781_| group:2|6594:1812_,{},cvhunter
+vbse008,cvhunter3,3,1668159035405,263466.0,,283.0,3747.0,1348.0,TEXT,JointEmbedding,Temporal CLIP: ruins with gryish rocks >A white van driving between ruins. ,{},cvhunter
+vbse008,cvhunter3,3,1668159037144,265205.0,,283.0,3747.0,1348.0,TEXT,JointEmbedding,Temporal CLIP: ruins with gryish rocks >A white van driving between ruins. ,{},cvhunter
+vbse008,cvhunter3,3,1668159048745,276806.0,,411.0,3659.0,1246.0,IMAGE,feedbackModel,Temporal Bayes CLIP 6594:1450_4077:19994_14123:3650_13912:1775_8007:5756_7397:16975_11753:6324_16009:5769_280:5994_14966:7312_| group:2|14123:4006_,{},cvhunter
+vbse009,cvhunter3,3,1668159106685,10613.0,21905.0,12.0,12.0,12.0,TEXT,JointEmbedding,CLIP: Two men running backwards up a downwards moving escalator.,{},cvhunter
+vbse009,cvhunter3,3,1668159107790,11718.0,21905.0,12.0,12.0,12.0,TEXT,JointEmbedding,CLIP: Two men running backwards up a downwards moving escalator.,{},cvhunter
+vbse010,cvhunter3,3,1668159233268,6785.0,140238.0,232.0,232.0,232.0,TEXT,JointEmbedding,CLIP: People dancing and drumming on the street at night.,{},cvhunter
+vbse010,cvhunter3,3,1668159234303,7820.0,140238.0,232.0,232.0,232.0,TEXT,JointEmbedding,CLIP: People dancing and drumming on the street at night.,{},cvhunter
+vbse010,cvhunter3,3,1668159282212,55729.0,140238.0,130.0,130.0,130.0,IMAGE,feedbackModel,Bayes CLIP 14591:176_3674:5425_8191:4856_2068:1656_1160:20106_4728:36893_15545:16069_13040:2128_11665:55381_1156:7125_| group:1|5555:36694_6639:33069_,{},cvhunter
+vbse010,cvhunter3,3,1668159300110,73627.0,140238.0,56.0,56.0,56.0,TEXT,JointEmbedding,Temporal CLIP: People dancing and drumming on the street at night > woman in red dress dancing in crowd at night,{},cvhunter
+vbse010,cvhunter3,3,1668159301946,75463.0,140238.0,56.0,56.0,56.0,TEXT,JointEmbedding,Temporal CLIP: People dancing and drumming on the street at night > woman in red dress dancing in crowd at night,{},cvhunter
+vbse012,cvhunter3,3,1668159649575,7383.0,141342.0,100.0,312.0,100.0,TEXT,JointEmbedding,CLIP: View of a volcano with clouds moving in from the right.,{},cvhunter
+vbse012,cvhunter3,3,1668159650737,8545.0,141342.0,100.0,312.0,100.0,TEXT,JointEmbedding,CLIP: View of a volcano with clouds moving in from the right.,{},cvhunter
+vbse012,cvhunter3,3,1668159673005,30813.0,141342.0,86.0,461.0,319.0,IMAGE,feedbackModel,Bayes CLIP 5761:3375_426:2088_309:8269_5761:4050_426:4600_798:4080_6253:6264_948:4688_1288:44236_16750:2612_| group:1|948:4606_3914:2949_13567:2181_,{},cvhunter
+vbse012,cvhunter3,3,1668159709222,67030.0,141342.0,72.0,235.0,72.0,IMAGE,feedbackModel,Bayes CLIP 948:4606_15856:2950_426:619_13567:2112_2865:8107_426:775_6350:3025_1288:38414_10807:531_15537:5085_| group:1|8066:11718_,{},cvhunter
+vbse013,cvhunter3,3,1668160031122,6164.0,259520.0,2039.0,inf,inf,TEXT,JointEmbedding,CLIP: Flashing shots of a man on a bed and in front of a wall.,{},cvhunter
+vbse013,cvhunter3,3,1668160032219,7261.0,259520.0,2039.0,inf,inf,TEXT,JointEmbedding,CLIP: Flashing shots of a man on a bed and in front of a wall.,{},cvhunter
+vbse013,cvhunter3,3,1668160051037,26079.0,259520.0,853.0,8272.0,8272.0,IMAGE,feedbackModel,Bayes CLIP 1025:13650_9979:22058_10824:11631_15491:74288_2561:1100_4162:35906_14830:1896_16540:10425_13050:1112_13050:1438_| group:1|11272:7253_,{},cvhunter
+vbse013,cvhunter3,3,1668160078555,53597.0,259520.0,2.0,905.0,905.0,TEXT,JointEmbedding,Temporal CLIP: Flashing shots of a man on a bed and in front of a wall. >black screen,{},cvhunter
+vbse013,cvhunter3,3,1668160080548,55590.0,259520.0,2.0,905.0,905.0,TEXT,JointEmbedding,Temporal CLIP: Flashing shots of a man on a bed and in front of a wall. >black screen,{},cvhunter
+vbse013,cvhunter3,3,1668160088318,63360.0,259520.0,2.0,2473.0,2473.0,TEXT,JointEmbedding,Temporal CLIP: man on a bed and in front of a wall. >black screen,{},cvhunter
+vbse013,cvhunter3,3,1668160090089,65131.0,259520.0,2.0,2473.0,2473.0,TEXT,JointEmbedding,Temporal CLIP: man on a bed and in front of a wall. >black screen,{},cvhunter
+vbse013,cvhunter3,3,1668160111965,87007.0,259520.0,1.0,851.0,851.0,IMAGE,feedbackModel,Temporal Bayes CLIP 10824:8688_15616:611_7460:8309_1286:10316_583:18690_11917:5040_9773:11284_10824:11775_14830:360_6258:12438_| group:1|6258:12851_| group:2|15616:743_,{},cvhunter
+vbse013,cvhunter3,3,1668160150577,125619.0,259520.0,1.0,899.0,899.0,TEXT,JointEmbedding,Temporal CLIP: black&white man on a bed and in front of a wall. >black screen,{},cvhunter
+vbse013,cvhunter3,3,1668160152357,127399.0,259520.0,1.0,899.0,899.0,TEXT,JointEmbedding,Temporal CLIP: black&white man on a bed and in front of a wall. >black screen,{},cvhunter
+vbse013,cvhunter3,3,1668160186545,161587.0,259520.0,387.0,4611.0,3617.0,TEXT,JointEmbedding,Temporal CLIP: black&white man on a bed and in front of a wall. > man in front of a painted wall,{},cvhunter
+vbse013,cvhunter3,3,1668160188301,163343.0,259520.0,387.0,4611.0,3617.0,TEXT,JointEmbedding,Temporal CLIP: black&white man on a bed and in front of a wall. > man in front of a painted wall,{},cvhunter
+vbse013,cvhunter3,3,1668160201387,176429.0,259520.0,209.0,1809.0,1667.0,TEXT,JointEmbedding,Temporal CLIP: black&white man on a bed and in front of a wall. > black&white man in front of a painted wall,{},cvhunter
+vbse013,cvhunter3,3,1668160203166,178208.0,259520.0,209.0,1809.0,1667.0,TEXT,JointEmbedding,Temporal CLIP: black&white man on a bed and in front of a wall. > black&white man in front of a painted wall,{},cvhunter
+vbse013,cvhunter3,3,1668160212631,187673.0,259520.0,119.0,1493.0,222.0,TEXT,JointEmbedding,Temporal CLIP: black&white man on a bed and in front of a wall. > black&white man in front of a sprayedwall,{},cvhunter
+vbse013,cvhunter3,3,1668160214360,189402.0,259520.0,119.0,1493.0,222.0,TEXT,JointEmbedding,Temporal CLIP: black&white man on a bed and in front of a wall. > black&white man in front of a sprayedwall,{},cvhunter
+vbse014,cvhunter3,3,1668160413831,6314.0,11917.0,3.0,3.0,3.0,TEXT,JointEmbedding,CLIP: A white dress is waving in the wind over the floor.,{},cvhunter
+vbse014,cvhunter3,3,1668160414948,7431.0,11917.0,3.0,3.0,3.0,TEXT,JointEmbedding,CLIP: A white dress is waving in the wind over the floor.,{},cvhunter
+vbse015,cvhunter3,3,1668161589454,6859.0,86183.0,20.0,20.0,20.0,TEXT,JointEmbedding,CLIP: A man lighting at a piano with a flashlight.,{},cvhunter
+vbse015,cvhunter3,3,1668161590539,7944.0,86183.0,20.0,20.0,20.0,TEXT,JointEmbedding,CLIP: A man lighting at a piano with a flashlight.,{},cvhunter
+vbse015,cvhunter3,3,1668161652274,69679.0,86183.0,35.0,35.0,35.0,TEXT,JointEmbedding,CLIP: A man lighting at a piano with a flashlight at dark.,{},cvhunter
+vbse015,cvhunter3,3,1668161653307,70712.0,86183.0,35.0,35.0,35.0,TEXT,JointEmbedding,CLIP: A man lighting at a piano with a flashlight at dark.,{},cvhunter
+vbse016,cvhunter3,3,1668161943145,7333.0,154195.0,26.0,282.0,26.0,TEXT,JointEmbedding,CLIP: Small boats tied in the harbour in front of a cruise ship.,{},cvhunter
+vbse016,cvhunter3,3,1668161944375,8563.0,154195.0,26.0,282.0,26.0,TEXT,JointEmbedding,CLIP: Small boats tied in the harbour in front of a cruise ship.,{},cvhunter
+vbse016,cvhunter3,3,1668161987153,51341.0,154195.0,549.0,549.0,549.0,IMAGE,feedbackModel,Bayes CLIP 883:1569_11586:2731_5918:1791_11163:1409_15045:1581_4089:2506_6911:8208_15798:6825_11227:656_3042:5812_| group:1|6594:18400_14489:1145_13566:7035_10551:1806_,{},cvhunter
+vbse016,cvhunter3,3,1668162058574,122762.0,154195.0,103.0,150.0,103.0,TEXT,JointEmbedding,CLIP: Small  yellow and white boats tied in the harbour in front of a cruise ship.,{},cvhunter
+vbse016,cvhunter3,3,1668162059610,123798.0,154195.0,103.0,150.0,103.0,TEXT,JointEmbedding,CLIP: Small  yellow and white boats tied in the harbour in front of a cruise ship.,{},cvhunter
+vbse017,cvhunter3,3,1668162580276,7814.0,25380.0,28.0,28.0,28.0,TEXT,JointEmbedding,CLIP: A person roasting coffee beans.,{},cvhunter
+vbse017,cvhunter3,3,1668162581375,8913.0,25380.0,28.0,28.0,28.0,TEXT,JointEmbedding,CLIP: A person roasting coffee beans.,{},cvhunter
+vbse018,cvhunter3,3,1668163567229,6552.0,64196.0,19.0,19.0,19.0,TEXT,JointEmbedding,CLIP: A black-haired woman in a red dress walks down stairs.,{},cvhunter
+vbse018,cvhunter3,3,1668163568305,7628.0,64196.0,19.0,19.0,19.0,TEXT,JointEmbedding,CLIP: A black-haired woman in a red dress walks down stairs.,{},cvhunter
+vbse018,cvhunter3,3,1668163614423,53746.0,64196.0,16.0,16.0,16.0,IMAGE,feedbackModel,Bayes CLIP 2837:1244_13904:3761_15825:5053_11960:13625_113:2338_11945:7073_15207:31409_16914:3681_11004:1170_10928:2452_| group:1|10928:2410_10633:2338_13548:3781_,{},cvhunter
+vbse019,cvhunter3,3,1668163686210,6314.0,12564.0,5.0,5.0,5.0,TEXT,JointEmbedding,CLIP: A couple in black clothes kisses outside.,{},cvhunter
+vbse019,cvhunter3,3,1668163687320,7424.0,12564.0,5.0,5.0,5.0,TEXT,JointEmbedding,CLIP: A couple in black clothes kisses outside.,{},cvhunter
+vbse020,cvhunter3,3,1668163903849,6458.0,,450.0,inf,6598.0,TEXT,JointEmbedding,CLIP: Actors in historic costumes celebrate their theater performance.,{},cvhunter
+vbse020,cvhunter3,3,1668163904881,7490.0,,450.0,inf,6598.0,TEXT,JointEmbedding,CLIP: Actors in historic costumes celebrate their theater performance.,{},cvhunter
+vbse020,cvhunter3,3,1668163936751,39360.0,,471.0,inf,678.0,IMAGE,feedbackModel,Bayes CLIP 7252:7725_7065:1334_12694:49350_9065:5275_7323:5769_15724:6294_6128:4850_3013:2733_13392:1844_10606:1369_| group:1|15119:18469_12694:50565_12694:8445_,{},cvhunter
+vbse020,cvhunter3,3,1668163968346,70955.0,,6.0,inf,289.0,TEXT,JointEmbedding,CLIP: backstage footage with historical costumes on a theatre,{},cvhunter
+vbse020,cvhunter3,3,1668163969428,72037.0,,6.0,inf,289.0,TEXT,JointEmbedding,CLIP: backstage footage with historical costumes on a theatre,{},cvhunter
+vbse020,cvhunter3,3,1668163995732,98341.0,,30.0,inf,319.0,TEXT,JointEmbedding,Temporal CLIP: backstage footage with historical costumes on a theatre > woman in yellow long historical dress in front of a bed,{},cvhunter
+vbse020,cvhunter3,3,1668163997591,100200.0,,30.0,inf,319.0,TEXT,JointEmbedding,Temporal CLIP: backstage footage with historical costumes on a theatre > woman in yellow long historical dress in front of a bed,{},cvhunter
+vbse020,cvhunter3,3,1668164027088,129697.0,,36.0,inf,121.0,TEXT,JointEmbedding,Temporal CLIP: dark backstage footage with historical costumes on a theatre > woman in yellow long historical dress in front of a bed,{},cvhunter
+vbse020,cvhunter3,3,1668164028988,131597.0,,36.0,inf,121.0,TEXT,JointEmbedding,Temporal CLIP: dark backstage footage with historical costumes on a theatre > woman in yellow long historical dress in front of a bed,{},cvhunter
+vbse020,cvhunter3,3,1668164086780,189389.0,,1.0,inf,2.0,TEXT,JointEmbedding,Temporal CLIP: dark backstage footage with historical costumes on a theatre > theatre woman in yellow long historical dress in front of a bed,{},cvhunter
+vbse020,cvhunter3,3,1668164088743,191352.0,,1.0,inf,2.0,TEXT,JointEmbedding,Temporal CLIP: dark backstage footage with historical costumes on a theatre > theatre woman in yellow long historical dress in front of a bed,{},cvhunter
+vbse020,cvhunter3,3,1668164177008,279617.0,,1.0,inf,1.0,IMAGE,feedbackModel,Temporal Bayes CLIP 10270:2206_15440:3869_2914:11606_2074:85212_15801:26931_13595:15850_9158:3357_5300:6631_16710:10131_10270:6662_| group:1|10270:2262_10270:2344_,{},cvhunter
+vbse021,cvhunter3,3,1668164277927,6504.0,9489.0,1.0,1.0,1.0,TEXT,JointEmbedding,CLIP: Men cutting and sculpting ice blocks with a chain saw.,{},cvhunter
+vbse021,cvhunter3,3,1668164279021,7598.0,9489.0,1.0,1.0,1.0,TEXT,JointEmbedding,CLIP: Men cutting and sculpting ice blocks with a chain saw.,{},cvhunter
+vbse022,cvhunter3,3,1668164334430,6557.0,20687.0,1.0,1.0,1.0,TEXT,JointEmbedding,CLIP: People playing table tennis in an office space.,{},cvhunter
+vbse022,cvhunter3,3,1668164335571,7698.0,20687.0,1.0,1.0,1.0,TEXT,JointEmbedding,CLIP: People playing table tennis in an office space.,{},cvhunter
+vbse023,cvhunter3,3,1668164512516,8583.0,142438.0,inf,inf,inf,TEXT,JointEmbedding,CLIP: Pan between two motocross tracks with bikers moving from/to the camera.,{},cvhunter
+vbse023,cvhunter3,3,1668164513518,9585.0,142438.0,inf,inf,inf,TEXT,JointEmbedding,CLIP: Pan between two motocross tracks with bikers moving from/to the camera.,{},cvhunter
+vbse023,cvhunter3,3,1668164541314,37381.0,142438.0,inf,inf,inf,IMAGE,feedbackModel,Bayes CLIP ,{},cvhunter
+vbse023,cvhunter3,3,1668164555531,51598.0,142438.0,2.0,764.0,475.0,TEXT,JointEmbedding,CLIP: motocross race on red dirt,{},cvhunter
+vbse023,cvhunter3,3,1668164556705,52772.0,142438.0,2.0,764.0,475.0,TEXT,JointEmbedding,CLIP: motocross race on red dirt,{},cvhunter
+vbse023,cvhunter3,3,1668164615644,111711.0,142438.0,1.0,39.0,39.0,IMAGE,feedbackModel,Bayes CLIP 5255:1388_5255:8725_2198:4488_2198:4518_15912:4525_5255:5319_12850:862_5255:9169_5255:1056_4984:14638_| group:1|4984:5669_4984:4131_4984:4162_4984:11725_,{},cvhunter
+vbse024,cvhunter3,3,1668164834300,6756.0,18705.0,20.0,20.0,20.0,TEXT,JointEmbedding,CLIP: Red oldtimer truck and bride getting in.,{},cvhunter
+vbse024,cvhunter3,3,1668164835474,7930.0,18705.0,20.0,20.0,20.0,TEXT,JointEmbedding,CLIP: Red oldtimer truck and bride getting in.,{},cvhunter
+vbse025,cvhunter3,3,1668164961639,6428.0,118032.0,77.0,77.0,77.0,TEXT,JointEmbedding,CLIP: Aerial shot moving up a parking lot over the trees.,{},cvhunter
+vbse025,cvhunter3,3,1668164962830,7619.0,118032.0,77.0,77.0,77.0,TEXT,JointEmbedding,CLIP: Aerial shot moving up a parking lot over the trees.,{},cvhunter
+vbse025,cvhunter3,3,1668164979634,24423.0,118032.0,249.0,249.0,249.0,IMAGE,feedbackModel,Bayes CLIP 13561:6922_13561:9878_10586:2150_10094:959_13561:9322_10586:3656_13561:6435_13561:1718_10586:4578_10586:4930_| group:1|10586:2585_10586:2420_3425:2525_7279:10085_,{},cvhunter
+vbse025,cvhunter3,3,1668164996982,41771.0,118032.0,288.0,288.0,288.0,IMAGE,feedbackModel,Bayes CLIP 3425:2525_7279:10197_10586:2030_10586:2585_2769:51477_8046:24638_2769:611_13010:2410_6192:2531_10586:2083_| group:1|7279:10085_7279:10130_5392:348_,{},cvhunter
+vbse025,cvhunter3,3,1668165011655,56444.0,118032.0,293.0,293.0,293.0,TEXT,JointEmbedding,Temporal CLIP: Aerial shot moving up a parking lot > aerial shot over the trees.,{},cvhunter
+vbse025,cvhunter3,3,1668165013601,58390.0,118032.0,293.0,293.0,293.0,TEXT,JointEmbedding,Temporal CLIP: Aerial shot moving up a parking lot > aerial shot over the trees.,{},cvhunter
+vbse025,cvhunter3,3,1668165030869,75658.0,118032.0,149.0,149.0,149.0,IMAGE,feedbackModel,Temporal Bayes CLIP 10586:4496_10586:2075_10586:2300_10586:2547_10586:1993_10586:2240_10586:1761_13561:4305_13561:7035_2705:4638_| group:1|7279:10085_| group:2|13102:9845_,{},cvhunter
+vbse025,cvhunter3,3,1668165057071,101860.0,118032.0,56.0,56.0,56.0,IMAGE,feedbackModel,Temporal Bayes CLIP 13102:9321_7279:9988_6721:6961_13102:8631_1020:8544_3425:2656_8046:25125_9843:11141_9312:19980_12735:38306_| group:1|11124:7049_2561:24119_13656:5357_,{},cvhunter
+vbse026,cvhunter3,3,1668165370778,6522.0,140937.0,5.0,182.0,182.0,TEXT,JointEmbedding,CLIP: A man ski touring an pulling a red sledge.,{},cvhunter
+vbse026,cvhunter3,3,1668165372047,7791.0,140937.0,5.0,182.0,182.0,TEXT,JointEmbedding,CLIP: A man ski touring an pulling a red sledge.,{},cvhunter
+vbse026,cvhunter3,3,1668165394485,30229.0,140937.0,45.0,71.0,71.0,IMAGE,feedbackModel,Bayes CLIP 9854:4233_4739:3109_4739:3252_15683:5889_10099:2112_9235:3069_4268:1525_2588:6956_15392:7512_12417:2795_| group:1|4739:4608_4739:4323_4739:3004_9915:3319_4739:4368_,{},cvhunter
+vbse026,cvhunter3,3,1668165484571,120315.0,140937.0,29.0,95.0,95.0,TEXT,JointEmbedding,CLIP: A man ski touring an pulling a red sledge on a snowy plain.,{},cvhunter
+vbse026,cvhunter3,3,1668165485941,121685.0,140937.0,29.0,95.0,95.0,TEXT,JointEmbedding,CLIP: A man ski touring an pulling a red sledge on a snowy plain.,{},cvhunter
+vbse028,cvhunter3,3,1668165752323,7589.0,211539.0,69.0,524.0,524.0,TEXT,JointEmbedding,CLIP: View from a car driving cross country and through a dirty side window.,{},cvhunter
+vbse028,cvhunter3,3,1668165753424,8690.0,211539.0,69.0,524.0,524.0,TEXT,JointEmbedding,CLIP: View from a car driving cross country and through a dirty side window.,{},cvhunter
+vbse028,cvhunter3,3,1668165802927,58193.0,211539.0,423.0,1072.0,1072.0,TEXT,JointEmbedding,CLIP: View from a car with hood visible driving cross country and through a dirty side window.,{},cvhunter
+vbse028,cvhunter3,3,1668165804084,59350.0,211539.0,423.0,1072.0,1072.0,TEXT,JointEmbedding,CLIP: View from a car with hood visible driving cross country and through a dirty side window.,{},cvhunter
+vbse028,cvhunter3,3,1668165820879,76145.0,211539.0,276.0,1908.0,1908.0,TEXT,JointEmbedding,CLIP: View from a car with hood visible driving cross country  with wattered road,{},cvhunter
+vbse028,cvhunter3,3,1668165822030,77296.0,211539.0,276.0,1908.0,1908.0,TEXT,JointEmbedding,CLIP: View from a car with hood visible driving cross country  with wattered road,{},cvhunter
+vbse028,cvhunter3,3,1668165831502,86768.0,211539.0,291.0,3045.0,3045.0,TEXT,JointEmbedding,CLIP: View from a car with hood visible driving cross country,{},cvhunter
+vbse028,cvhunter3,3,1668165832699,87965.0,211539.0,291.0,3045.0,3045.0,TEXT,JointEmbedding,CLIP: View from a car with hood visible driving cross country,{},cvhunter
+vbse028,cvhunter3,3,1668165862968,118234.0,211539.0,107.0,629.0,629.0,TEXT,JointEmbedding,CLIP: frontal View from a car with hood visible driving in grass and trees,{},cvhunter
+vbse028,cvhunter3,3,1668165864303,119569.0,211539.0,107.0,629.0,629.0,TEXT,JointEmbedding,CLIP: frontal View from a car with hood visible driving in grass and trees,{},cvhunter
+vbse028,cvhunter3,3,1668165891318,146584.0,211539.0,3.0,34.0,34.0,IMAGE,feedbackModel,Bayes CLIP 2402:55350_13900:8306_5208:157_11696:10831_17208:4196_10377:33117_3554:1624_4889:1043_11156:7897_12827:3831_| group:1|11090:15585_7633:1731_12309:3282_,{},cvhunter
+vbse029,cvhunter3,3,1668166055122,6637.0,31662.0,12.0,40.0,40.0,TEXT,JointEmbedding,CLIP: Bride getting dressed by three women in front of a mirror.,{},cvhunter
+vbse029,cvhunter3,3,1668166056197,7712.0,31662.0,12.0,40.0,40.0,TEXT,JointEmbedding,CLIP: Bride getting dressed by three women in front of a mirror.,{},cvhunter
+vbse030,cvhunter3,3,1668166385020,7977.0,20020.0,4.0,14.0,14.0,TEXT,JointEmbedding,CLIP: View of two bridges in Venice from the water.,{},cvhunter
+vbse030,cvhunter3,3,1668166386205,9162.0,20020.0,4.0,14.0,14.0,TEXT,JointEmbedding,CLIP: View of two bridges in Venice from the water.,{},cvhunter
+vbse031,cvhunter3,3,1668170072215,6892.0,162487.0,1754.0,3596.0,3596.0,TEXT,JointEmbedding,"CLIP: Close-ups of drum and guitar playing, and shots of people standing by the bushes.",{},cvhunter
+vbse031,cvhunter3,3,1668170073281,7958.0,162487.0,1754.0,3596.0,3596.0,TEXT,JointEmbedding,"CLIP: Close-ups of drum and guitar playing, and shots of people standing by the bushes.",{},cvhunter
+vbse031,cvhunter3,3,1668170118080,52757.0,162487.0,139.0,139.0,139.0,TEXT,JointEmbedding,Temporal CLIP: Close-ups of drum and guitar playing > and shots of people standing by the bushes.,{},cvhunter
+vbse031,cvhunter3,3,1668170119870,54547.0,162487.0,139.0,139.0,139.0,TEXT,JointEmbedding,Temporal CLIP: Close-ups of drum and guitar playing > and shots of people standing by the bushes.,{},cvhunter
+vbse031,cvhunter3,3,1668170142014,76691.0,162487.0,31.0,31.0,31.0,TEXT,JointEmbedding,Temporal CLIP: Close-ups of  guitar playing > and shots of people standing by the bushes.,{},cvhunter
+vbse031,cvhunter3,3,1668170143814,78491.0,162487.0,31.0,31.0,31.0,TEXT,JointEmbedding,Temporal CLIP: Close-ups of  guitar playing > and shots of people standing by the bushes.,{},cvhunter
+vbse031,cvhunter3,3,1668170154574,89251.0,162487.0,14.0,22.0,14.0,TEXT,JointEmbedding,Temporal CLIP: Close-ups of  white guitar playing > and shots of people standing by the bushes.,{},cvhunter
+vbse031,cvhunter3,3,1668170156350,91027.0,162487.0,14.0,22.0,14.0,TEXT,JointEmbedding,Temporal CLIP: Close-ups of  white guitar playing > and shots of people standing by the bushes.,{},cvhunter
+vbse031,cvhunter3,3,1668170167131,101808.0,162487.0,2.0,2.0,2.0,TEXT,JointEmbedding,Temporal CLIP: Close-ups of  white guitar playing > face in the bushthe bushes.,{},cvhunter
+vbse031,cvhunter3,3,1668170169107,103784.0,162487.0,2.0,2.0,2.0,TEXT,JointEmbedding,Temporal CLIP: Close-ups of  white guitar playing > face in the bushthe bushes.,{},cvhunter
+vbse031,cvhunter3,3,1668170173727,108404.0,162487.0,1.0,1.0,1.0,TEXT,JointEmbedding,Temporal CLIP: Close-ups of  white guitar playing > face in the bush,{},cvhunter
+vbse031,cvhunter3,3,1668170175594,110271.0,162487.0,1.0,1.0,1.0,TEXT,JointEmbedding,Temporal CLIP: Close-ups of  white guitar playing > face in the bush,{},cvhunter
+vbse032,cvhunter3,3,1668170418658,7136.0,48503.0,101.0,101.0,101.0,TEXT,JointEmbedding,CLIP: A person interacting with a sound-effects keyboard.,{},cvhunter
+vbse032,cvhunter3,3,1668170419703,8181.0,48503.0,101.0,101.0,101.0,TEXT,JointEmbedding,CLIP: A person interacting with a sound-effects keyboard.,{},cvhunter
+vbse032,cvhunter3,3,1668170449742,38220.0,48503.0,30.0,48.0,48.0,IMAGE,feedbackModel,Bayes CLIP 4105:25_6302:22238_6302:7110_7901:3379_16381:3088_16381:9456_5876:4218_16044:9935_7901:5177_7642:57675_| group:1|4751:4638_4352:1671_,{},cvhunter
+vbse033,cvhunter3,3,1668170951590,6344.0,,342.0,342.0,342.0,TEXT,JointEmbedding,CLIP: Close-ups of ochre rocks with curvy carvings.,{},cvhunter
+vbse033,cvhunter3,3,1668170952840,7594.0,,342.0,342.0,342.0,TEXT,JointEmbedding,CLIP: Close-ups of ochre rocks with curvy carvings.,{},cvhunter
+vbse033,cvhunter3,3,1668170975489,30243.0,,797.0,797.0,797.0,IMAGE,feedbackModel,Bayes CLIP 7732:31304_6604:5525_9203:7238_5904:4233_8541:11184_7626:5027_6604:5212_7116:3439_6604:5612_8541:1554_| group:1|8541:9888_8541:9606_,{},cvhunter
+vbse033,cvhunter3,3,1668171034323,89077.0,,105.0,105.0,105.0,IMAGE,feedbackModel,Bayes CLIP 8541:9888_8541:10758_14967:8026_14967:8062_9203:5844_16726:6869_12064:15037_14967:1109_2415:9231_1427:1648_| group:1|12944:5889_6604:6606_,{},cvhunter
+vbse033,cvhunter3,3,1668171074649,129403.0,,55.0,55.0,55.0,IMAGE,feedbackModel,Bayes CLIP 12944:5889_14967:8050_16993:1109_12170:6754_7384:6412_9203:7238_8758:7133_8541:9606_2609:29603_12815:10606_| group:1|8579:8212_8579:6923_14967:3261_,{},cvhunter
+vbse033,cvhunter3,3,1668171096902,151656.0,,529.0,529.0,529.0,TEXT,JointEmbedding,Temporal CLIP: ochre rocks > Close-ups of ochre rocks with curvy carvings.,{},cvhunter
+vbse033,cvhunter3,3,1668171098674,153428.0,,529.0,529.0,529.0,TEXT,JointEmbedding,Temporal CLIP: ochre rocks > Close-ups of ochre rocks with curvy carvings.,{},cvhunter
+vbse033,cvhunter3,3,1668171106979,161733.0,,321.0,321.0,321.0,TEXT,JointEmbedding,Temporal CLIP: indoor ochre rocks > Close-ups of ochre rocks with curvy carvings.,{},cvhunter
+vbse033,cvhunter3,3,1668171108812,163566.0,,321.0,321.0,321.0,TEXT,JointEmbedding,Temporal CLIP: indoor ochre rocks > Close-ups of ochre rocks with curvy carvings.,{},cvhunter
+vbse033,cvhunter3,3,1668171187023,241777.0,,60.0,60.0,60.0,TEXT,JointEmbedding,Temporal CLIP: indoor ochre rocks > Close-ups of ochre rocks with curvy animal carvings.,{},cvhunter
+vbse033,cvhunter3,3,1668171188883,243637.0,,60.0,60.0,60.0,TEXT,JointEmbedding,Temporal CLIP: indoor ochre rocks > Close-ups of ochre rocks with curvy animal carvings.,{},cvhunter
+vbse034,cvhunter3,3,1668171299832,7619.0,33412.0,59.0,59.0,59.0,TEXT,JointEmbedding,CLIP: A black-and-white video showing a diver moving upwards.,{},cvhunter
+vbse034,cvhunter3,3,1668171301079,8866.0,33412.0,59.0,59.0,59.0,TEXT,JointEmbedding,CLIP: A black-and-white video showing a diver moving upwards.,{},cvhunter
+vbse035,cvhunter3,3,1668171420093,7004.0,251373.0,28.0,1232.0,28.0,TEXT,JointEmbedding,"CLIP: A moving ferris wheel, recorded from the front and below.",{},cvhunter
+vbse035,cvhunter3,3,1668171421334,8245.0,251373.0,28.0,1232.0,28.0,TEXT,JointEmbedding,"CLIP: A moving ferris wheel, recorded from the front and below.",{},cvhunter
+vbse035,cvhunter3,3,1668171441688,28599.0,251373.0,6.0,386.0,6.0,IMAGE,feedbackModel,Bayes CLIP 9536:12950_2122:9853_6699:4344_9536:12906_11653:2700_9536:12981_10199:2640_2122:16671_9259:1776_14043:8407_| group:1|15417:749_10914:1984_,{},cvhunter
+vbse035,cvhunter3,3,1668171478564,65475.0,251373.0,72.0,72.0,72.0,TEXT,JointEmbedding,Temporal CLIP: A moving ferris wheel from below>ferris wheel from side,{},cvhunter
+vbse035,cvhunter3,3,1668171480415,67326.0,251373.0,72.0,72.0,72.0,TEXT,JointEmbedding,Temporal CLIP: A moving ferris wheel from below>ferris wheel from side,{},cvhunter
+vbse035,cvhunter3,3,1668171522682,109593.0,251373.0,12.0,12.0,12.0,IMAGE,feedbackModel,Temporal Bayes CLIP 9536:12888_11653:1319_6821:3700_4424:4588_14376:2838_8875:5979_9536:13244_3239:1512_5723:4674_14428:12262_| group:1|14422:5910_| group:2|15478:623_,{},cvhunter
+vbse035,cvhunter3,3,1668171545986,132897.0,251373.0,13.0,13.0,13.0,IMAGE,feedbackModel,Temporal Bayes CLIP 14422:5766_15478:198_10850:1406_6821:3700_4424:4588_2241:7794_12051:2900_7686:1644_290:2832_10361:2643_| group:2|7409:6350_,{},cvhunter
+vbse035,cvhunter3,3,1668171559310,146221.0,251373.0,10.0,10.0,10.0,TEXT,JointEmbedding,Temporal CLIP: A moving ferris wheel from below with yellow cabin >ferris wheel from side,{},cvhunter
+vbse035,cvhunter3,3,1668171561300,148211.0,251373.0,10.0,10.0,10.0,TEXT,JointEmbedding,Temporal CLIP: A moving ferris wheel from below with yellow cabin >ferris wheel from side,{},cvhunter
+vbse035,cvhunter3,3,1668171595292,182203.0,251373.0,2.0,2.0,2.0,IMAGE,feedbackModel,Temporal Bayes CLIP 4424:4588_11653:1350_9536:12906_14376:2838_6821:3719_14428:12262_290:2892_7630:10190_5723:4692_14428:1938_| group:2|10914:1984_,{},cvhunter
+vbse035,cvhunter3,3,1668171654215,241126.0,251373.0,2.0,2.0,2.0,IMAGE,feedbackModel,Temporal Bayes CLIP 4424:4588_290:2832_6821:3719_10914:1726_14428:12262_11653:1388_12051:3038_14376:2856_9536:12912_15478:462_| group:1|9790:3686_,{},cvhunter
+vbse037,cvhunter3,3,1668171777430,5634.0,10131.0,4.0,4.0,4.0,TEXT,JointEmbedding,CLIP: A group of people paddling in a boat at night.,{},cvhunter
+vbse037,cvhunter3,3,1668171778684,6888.0,10131.0,4.0,4.0,4.0,TEXT,JointEmbedding,CLIP: A group of people paddling in a boat at night.,{},cvhunter
+vbse038,cvhunter3,3,1668172163874,8071.0,86835.0,55.0,6061.0,6061.0,TEXT,JointEmbedding,CLIP: A demonstration of the setup of a metal oven flue through the roof.,{},cvhunter
+vbse038,cvhunter3,3,1668172164963,9160.0,86835.0,55.0,6061.0,6061.0,TEXT,JointEmbedding,CLIP: A demonstration of the setup of a metal oven flue through the roof.,{},cvhunter
+vbse038,cvhunter3,3,1668172204112,48309.0,86835.0,1.0,63.0,63.0,IMAGE,feedbackModel,Bayes CLIP 948:11338_240:6481_12626:5169_4871:8762_6774:2462_240:6436_12924:3369_6592:681_16206:2831_15681:202_| group:1|15681:5057_,{},cvhunter
+vbse039,cvhunter3,3,1668172350436,6025.0,93287.0,inf,inf,inf,TEXT,JointEmbedding,CLIP: A rock carving followed by a picture of a stone/rock sculpture.,{},cvhunter
+vbse039,cvhunter3,3,1668172351444,7033.0,93287.0,inf,inf,inf,TEXT,JointEmbedding,CLIP: A rock carving followed by a picture of a stone/rock sculpture.,{},cvhunter
+vbse039,cvhunter3,3,1668172393477,49066.0,93287.0,inf,inf,inf,TEXT,JointEmbedding,Temporal CLIP: A rock carving > picture of a stone/rock sculpture.,{},cvhunter
+vbse039,cvhunter3,3,1668172395520,51109.0,93287.0,inf,inf,inf,TEXT,JointEmbedding,Temporal CLIP: A rock carving > picture of a stone/rock sculpture.,{},cvhunter
+vbse039,cvhunter3,3,1668172407197,62786.0,93287.0,inf,inf,inf,TEXT,JointEmbedding,Temporal CLIP: carving in grey rock > picture of a stone/rock sculpture.,{},cvhunter
+vbse039,cvhunter3,3,1668172409097,64686.0,93287.0,inf,inf,inf,TEXT,JointEmbedding,Temporal CLIP: carving in grey rock > picture of a stone/rock sculpture.,{},cvhunter
+vbse039,cvhunter3,3,1668172431818,87407.0,93287.0,1.0,1.0,1.0,TEXT,JointEmbedding,Temporal CLIP: carving in greyish rock > stone column in desert,{},cvhunter
+vbse039,cvhunter3,3,1668172434180,89769.0,93287.0,1.0,1.0,1.0,TEXT,JointEmbedding,Temporal CLIP: carving in greyish rock > stone column in desert,{},cvhunter
+vbse040,cvhunter3,3,1668172601088,6724.0,71199.0,656.0,inf,1009.0,TEXT,JointEmbedding,CLIP: A black-dressed woman interviews another black-dressed woman.,{},cvhunter
+vbse040,cvhunter3,3,1668172602182,7818.0,71199.0,656.0,inf,1009.0,TEXT,JointEmbedding,CLIP: A black-dressed woman interviews another black-dressed woman.,{},cvhunter
+vbse040,cvhunter3,3,1668172617258,22894.0,71199.0,887.0,inf,1571.0,IMAGE,feedbackModel,Bayes CLIP 10051:5559_9462:8786_10051:6009_10080:6908_10051:6361_10080:5559_9462:7241_2003:16289_5841:42055_2003:2368_| group:1|2003:13614_8980:2991_,{},cvhunter
+vbse040,cvhunter3,3,1668172652295,57931.0,71199.0,1.0,inf,1.0,TEXT,JointEmbedding,CLIP: A black-dressed woman interviews another black-dressed woman vita sign on background,{},cvhunter
+vbse040,cvhunter3,3,1668172653559,59195.0,71199.0,1.0,inf,1.0,TEXT,JointEmbedding,CLIP: A black-dressed woman interviews another black-dressed woman vita sign on background,{},cvhunter
+vbse041,cvhunter3,3,1668172939174,7057.0,100068.0,701.0,inf,1166.0,TEXT,JointEmbedding,CLIP: A sunrise or sunset at the ocean recorded while paragliding.,{},cvhunter
+vbse041,cvhunter3,3,1668172940315,8198.0,100068.0,701.0,inf,1166.0,TEXT,JointEmbedding,CLIP: A sunrise or sunset at the ocean recorded while paragliding.,{},cvhunter
+vbse041,cvhunter3,3,1668172962341,30224.0,100068.0,39.0,inf,126.0,IMAGE,feedbackModel,Bayes CLIP 15511:4780_2819:14101_16628:7013_10038:3716_11420:4672_2819:11321_13816:588_2819:15847_2819:9013_10038:4001_| group:1|550:14031_10038:1671_,{},cvhunter
+vbse042,cvhunter3,3,1668173276542,6017.0,50785.0,18.0,inf,482.0,TEXT,JointEmbedding,CLIP: A man in a yellow shirt climbing up a rock.,{},cvhunter
+vbse042,cvhunter3,3,1668173277827,7302.0,50785.0,18.0,inf,482.0,TEXT,JointEmbedding,CLIP: A man in a yellow shirt climbing up a rock.,{},cvhunter
+vbse042,cvhunter3,3,1668173290267,19742.0,50785.0,2.0,inf,53.0,IMAGE,feedbackModel,Bayes CLIP 15102:231_11789:30637_7381:7158_15102:750_7381:7110_8086:1394_14918:62592_15102:1631_7925:16755_8665:869_| group:1|15102:6669_11110:4050_,{},cvhunter
+vbse042,cvhunter3,3,1668173312094,41569.0,50785.0,1.0,inf,5.0,IMAGE,feedbackModel,Bayes CLIP 15102:6669_13810:21544_11110:9981_6806:31439_15102:8650_5589:6196_15102:1631_15102:7200_15102:4481_4655:689_| group:1|11110:4050_11110:3875_,{},cvhunter
+vbse043,cvhunter3,3,1668173573590,6283.0,11288.0,1.0,1.0,1.0,TEXT,JointEmbedding,CLIP: A man playing a banjo and singing in front of a restaurant.,{},cvhunter
+vbse043,cvhunter3,3,1668173574642,7335.0,11288.0,1.0,1.0,1.0,TEXT,JointEmbedding,CLIP: A man playing a banjo and singing in front of a restaurant.,{},cvhunter
+vbse044,cvhunter3,3,1668173819877,6507.0,58773.0,325.0,587.0,441.0,TEXT,JointEmbedding,CLIP: A shark swimming at the sea floor.,{},cvhunter
+vbse044,cvhunter3,3,1668173821142,7772.0,58773.0,325.0,587.0,441.0,TEXT,JointEmbedding,CLIP: A shark swimming at the sea floor.,{},cvhunter
+vbse044,cvhunter3,3,1668173837222,23852.0,58773.0,13.0,74.0,26.0,IMAGE,feedbackModel,Bayes CLIP 8617:19350_3174:4518_6894:5417_8301:4525_15324:6204_13836:5040_10542:7043_535:17275_2908:4735_674:3791_| group:1|13369:20912_13836:3442_12543:914_,{},cvhunter
+vbse045,cvhunter3,3,1668174105798,8823.0,174538.0,42.0,1365.0,1365.0,TEXT,JointEmbedding,CLIP: Zoom-in to a large old tree with lots of leaves on the ground.,{},cvhunter
+vbse045,cvhunter3,3,1668174107068,10093.0,174538.0,42.0,1365.0,1365.0,TEXT,JointEmbedding,CLIP: Zoom-in to a large old tree with lots of leaves on the ground.,{},cvhunter
+vbse045,cvhunter3,3,1668174117203,20228.0,174538.0,1013.0,3782.0,3782.0,IMAGE,feedbackModel,Bayes CLIP 15994:4381_5887:4444_12103:3222_4510:21738_8691:5331_4538:22178_7010:5417_14520:18881_14304:3128_4587:2315_| group:1|5138:1836_11326:4588_,{},cvhunter
+vbse045,cvhunter3,3,1668174138348,41373.0,174538.0,631.0,2277.0,2277.0,IMAGE,feedbackModel,Bayes CLIP 11326:4588_14154:7372_2769:14607_8691:3950_2705:2667_3918:22545_2769:14865_2769:40082_7335:3438_11326:4700_| group:1|12704:10909_2013:5237_,{},cvhunter
+vbse045,cvhunter3,3,1668174179223,82248.0,174538.0,2760.0,2916.0,2916.0,IMAGE,feedbackModel,Bayes CLIP 11326:4588_12704:10714_6430:33866_2013:6968_2991:9075_2769:17940_11948:400_4938:2919_2013:5372_11614:10522_| group:1|2769:20505_4938:2700_11522:13000_4938:3144_9990:5937_2669:4639_,{},cvhunter
+vbse045,cvhunter3,3,1668174215964,118989.0,174538.0,2134.0,2134.0,2134.0,IMAGE,feedbackModel,Bayes CLIP 9990:5937_4938:3144_15994:4225_14627:706_4471:1821_7963:31969_6508:7319_2259:2615_11112:21625_6508:10731_| group:1|7788:1056_6776:1775_,{},cvhunter
+vbse045,cvhunter3,3,1668174236715,139740.0,174538.0,49.0,2476.0,2476.0,TEXT,JointEmbedding,CLIP: Zoom-in to a large old tree with lots of leaves on the ground and a road towards the left,{},cvhunter
+vbse045,cvhunter3,3,1668174238133,141158.0,174538.0,49.0,2476.0,2476.0,TEXT,JointEmbedding,CLIP: Zoom-in to a large old tree with lots of leaves on the ground and a road towards the left,{},cvhunter
+vbse046,cvhunter3,3,1668174480194,6121.0,290012.0,inf,inf,inf,TEXT,JointEmbedding,CLIP: Close-up of a singer of whom you cannot see the mouth.,{},cvhunter
+vbse046,cvhunter3,3,1668174481300,7227.0,290012.0,inf,inf,inf,TEXT,JointEmbedding,CLIP: Close-up of a singer of whom you cannot see the mouth.,{},cvhunter
+vbse046,cvhunter3,3,1668174523388,49315.0,290012.0,2020.0,inf,inf,IMAGE,feedbackModel,Bayes CLIP 16649:4444_11443:45006_4186:30556_10578:650_6180:3344_10272:4662_9489:10894_8893:1049_16649:3231_13959:3856_| group:1|13156:1034_,{},cvhunter
+vbse046,cvhunter3,3,1668174537513,63440.0,290012.0,4717.0,9138.0,9138.0,TEXT,JointEmbedding,CLIP: Close-up of a singer with only eyes visible and brown hairs,{},cvhunter
+vbse046,cvhunter3,3,1668174538806,64733.0,290012.0,4717.0,9138.0,9138.0,TEXT,JointEmbedding,CLIP: Close-up of a singer with only eyes visible and brown hairs,{},cvhunter
+vbse046,cvhunter3,3,1668174552620,78547.0,290012.0,4496.0,8328.0,8328.0,TEXT,JointEmbedding,CLIP: face Close-up of a singer with only eyes visible and brown hairs,{},cvhunter
+vbse046,cvhunter3,3,1668174553712,79639.0,290012.0,4496.0,8328.0,8328.0,TEXT,JointEmbedding,CLIP: face Close-up of a singer with only eyes visible and brown hairs,{},cvhunter
+vbse046,cvhunter3,3,1668174563425,89352.0,290012.0,1660.0,2473.0,2473.0,IMAGE,feedbackModel,Bayes CLIP 1264:3606_16649:4444_8022:5874_6493:6438_2851:3831_9809:1723_12884:7594_16401:9120_7370:20625_7893:4500_| group:1|12677:21682_,{},cvhunter
+vbse046,cvhunter3,3,1668174576477,102404.0,290012.0,4496.0,8328.0,8328.0,TEXT,JointEmbedding,CLIP: face Close-up of a singer with only eyes visible and brown hairs,{},cvhunter
+vbse046,cvhunter3,3,1668174592217,118144.0,290012.0,336.0,869.0,869.0,IMAGE,feedbackModel,Bayes CLIP 1264:3606_337:6000_10490:9463_6493:6438_2851:3831_9809:1723_12884:7594_16401:9120_16649:4488_5910:3483_| group:1|9809:3012_9541:10481_,{},cvhunter
+vbse046,cvhunter3,3,1668174633275,159202.0,290012.0,6720.0,inf,inf,IMAGE,feedbackModel,Bayes CLIP 9541:10481_14037:44700_7640:3525_10254:4888_7229:16430_9904:4394_16992:7455_9948:10112_15698:1069_1714:8050_| group:1|3939:2015_9212:852_3939:4428_13887:1669_,{},cvhunter
+vbse046,cvhunter3,3,1668174659254,185181.0,290012.0,422.0,422.0,422.0,IMAGE,feedbackModel,Bayes CLIP 3939:4428_2575:2575_7027:15481_9809:3776_535:30331_1535:650_14879:7816_11061:17212_9809:1723_535:22325_| group:1|13887:1706_13887:1719_13887:1694_13887:1681_,{},cvhunter
+vbse046,cvhunter3,3,1668174716791,242718.0,290012.0,565.0,2003.0,2003.0,IMAGE,feedbackModel,Bayes CLIP 13887:1706_10603:3994_10489:17906_10397:8356_11448:5292_14062:2862_172:3256_12677:21682_1832:817_10603:4794_| group:1|1602:48725_9256:1825_16630:4394_,{},cvhunter
+vbse047,cvhunter3,3,1668174962608,6403.0,30464.0,60.0,220.0,60.0,TEXT,JointEmbedding,CLIP: A fir tree with a blurred lake in the background.,{},cvhunter
+vbse047,cvhunter3,3,1668174963801,7596.0,30464.0,60.0,220.0,60.0,TEXT,JointEmbedding,CLIP: A fir tree with a blurred lake in the background.,{},cvhunter
+vbse048,cvhunter3,3,1668176179815,5434.0,83066.0,2149.0,6183.0,3820.0,TEXT,JointEmbedding,CLIP: A zoom-in to large old mushroom-shaped trees.,{},cvhunter
+vbse048,cvhunter3,3,1668176180988,6607.0,83066.0,2149.0,6183.0,3820.0,TEXT,JointEmbedding,CLIP: A zoom-in to large old mushroom-shaped trees.,{},cvhunter
+vbse048,cvhunter3,3,1668176208120,33739.0,83066.0,94.0,400.0,400.0,IMAGE,feedbackModel,Bayes CLIP 14004:7838_199:8775_7384:14138_10839:14753_11395:11606_3262:3900_11887:7627_12667:2256_13789:13771_16710:15412_| group:1|11389:6756_3935:2650_4370:738_,{},cvhunter
+vbse048,cvhunter3,3,1668176232725,58344.0,83066.0,4.0,1083.0,326.0,TEXT,JointEmbedding,CLIP: A zoom-in to large old cone-shaped trees.,{},cvhunter
+vbse048,cvhunter3,3,1668176233994,59613.0,83066.0,4.0,1083.0,326.0,TEXT,JointEmbedding,CLIP: A zoom-in to large old cone-shaped trees.,{},cvhunter
+vbse048,cvhunter3,3,1668176249106,74725.0,83066.0,1.0,26.0,5.0,IMAGE,feedbackModel,Bayes CLIP 17208:7125_14520:12655_11829:2612_3914:16454_10839:14648_2357:9343_3914:2116_3914:16340_9408:3181_1062:1650_| group:1|11208:1800_,{},cvhunter
+vbse049,cvhunter3,3,1668176377864,7157.0,55709.0,1.0,596.0,1.0,TEXT,JointEmbedding,CLIP:  man in a white t-shirt playing guitar and singing at night in a room.,{},cvhunter
+vbse049,cvhunter3,3,1668176378925,8218.0,55709.0,1.0,596.0,1.0,TEXT,JointEmbedding,CLIP:  man in a white t-shirt playing guitar and singing at night in a room.,{},cvhunter
+vbse049,cvhunter3,3,1668176393985,23278.0,55709.0,1.0,17.0,1.0,IMAGE,feedbackModel,Bayes CLIP 2575:200_2575:5319_10609:3462_2575:7069_2575:5475_2575:3825_7345:2135_9550:3671_454:3142_12239:8302_| group:1|12798:2550_12798:3712_,{},cvhunter
+vbse050,cvhunter3,3,1668176627101,7713.0,66920.0,127.0,127.0,127.0,TEXT,JointEmbedding,CLIP:  man in black clothes is introducing a camera stand.,{},cvhunter
+vbse050,cvhunter3,3,1668176628215,8827.0,66920.0,127.0,127.0,127.0,TEXT,JointEmbedding,CLIP:  man in black clothes is introducing a camera stand.,{},cvhunter
+vbse050,cvhunter3,3,1668176664960,45572.0,66920.0,25.0,106.0,106.0,IMAGE,feedbackModel,Bayes CLIP 2033:15950_13296:40675_9799:11136_5727:12619_16688:331_1024:7_2315:953_12524:532_7085:36081_14950:2355_| group:1|9799:12546_9799:2100_,{},cvhunter
+vbse051,cvhunter3,3,1668176826620,8759.0,249158.0,652.0,5399.0,5399.0,TEXT,JointEmbedding,CLIP: A man is setting up a starting ramp for a model airplane.,{},cvhunter
+vbse051,cvhunter3,3,1668176827651,9790.0,249158.0,652.0,5399.0,5399.0,TEXT,JointEmbedding,CLIP: A man is setting up a starting ramp for a model airplane.,{},cvhunter
+vbse051,cvhunter3,3,1668176843950,26089.0,249158.0,89.0,1671.0,1671.0,IMAGE,feedbackModel,Bayes CLIP 6079:17203_3021:1701_11014:18536_9031:1131_9417:11670_16395:39144_3094:7178_2718:26425_3132:9388_1601:899_| group:1|16395:4494_5373:5327_,{},cvhunter
+vbse051,cvhunter3,3,1668176888944,71083.0,249158.0,475.0,4882.0,4882.0,TEXT,JointEmbedding,Temporal CLIP: A man is setting up a ramp on grassy field >  model airplane on a ramp.,{},cvhunter
+vbse051,cvhunter3,3,1668176890808,72947.0,249158.0,475.0,4882.0,4882.0,TEXT,JointEmbedding,Temporal CLIP: A man is setting up a ramp on grassy field >  model airplane on a ramp.,{},cvhunter
+vbse051,cvhunter3,3,1668176927584,109723.0,249158.0,44.0,342.0,342.0,TEXT,JointEmbedding,CLIP: model plane on a metal ramp on a grassy field,{},cvhunter
+vbse051,cvhunter3,3,1668176928702,110841.0,249158.0,44.0,342.0,342.0,TEXT,JointEmbedding,CLIP: model plane on a metal ramp on a grassy field,{},cvhunter
+vbse051,cvhunter3,3,1668176977303,159442.0,249158.0,51.0,83.0,83.0,IMAGE,feedbackModel,Bayes CLIP 10586:352_16395:20925_17160:2369_10432:6675_12792:15728_14722:6818_16848:255_12900:1531_703:1071_16907:2240_| group:1|15482:1626_14722:2517_,{},cvhunter
+vbse051,cvhunter3,3,1668177003264,185403.0,249158.0,96.0,869.0,869.0,TEXT,JointEmbedding,Temporal CLIP: man on a grassy field with a ramp >model plane on a metal ramp on a grassy field,{},cvhunter
+vbse051,cvhunter3,3,1668177005260,187399.0,249158.0,96.0,869.0,869.0,TEXT,JointEmbedding,Temporal CLIP: man on a grassy field with a ramp >model plane on a metal ramp on a grassy field,{},cvhunter
+vbse051,cvhunter3,3,1668177032268,214407.0,249158.0,47.0,103.0,103.0,IMAGE,feedbackModel,Temporal Bayes CLIP 16395:25500_5374:24_16395:24406_3377:8650_16395:20500_3521:9883_14722:742_3021:3409_16395:26988_1350:1519_| group:1|16395:27156_16395:48044_| group:2|15482:1551_,{},cvhunter
+vbse052,cvhunter3,3,1668177145404,5799.0,65309.0,20.0,26.0,26.0,TEXT,JointEmbedding,CLIP: Buildings carved into large rocks.,{},cvhunter
+vbse052,cvhunter3,3,1668177146493,6888.0,65309.0,20.0,26.0,26.0,TEXT,JointEmbedding,CLIP: Buildings carved into large rocks.,{},cvhunter
+vbse052,cvhunter3,3,1668177165498,25893.0,65309.0,53.0,69.0,67.0,IMAGE,feedbackModel,Bayes CLIP 759:500_1756:3660_759:925_14123:3812_10590:5844_759:2219_2773:6288_10355:6644_7626:2900_9689:3988_| group:1|759:3600_759:1350_,{},cvhunter
+vbse053,cvhunter3,3,1668177348405,7100.0,120394.0,226.0,2404.0,277.0,TEXT,JointEmbedding,CLIP: A group of rappers singing and dancing outside.,{},cvhunter
+vbse053,cvhunter3,3,1668177349504,8199.0,120394.0,226.0,2404.0,277.0,TEXT,JointEmbedding,CLIP: A group of rappers singing and dancing outside.,{},cvhunter
+vbse054,cvhunter3,3,1668177661770,5182.0,221133.0,4875.0,inf,inf,TEXT,JointEmbedding,CLIP: First-person view of a mountainbike downhill race.,{},cvhunter
+vbse054,cvhunter3,3,1668177663012,6424.0,221133.0,4875.0,inf,inf,TEXT,JointEmbedding,CLIP: First-person view of a mountainbike downhill race.,{},cvhunter
+vbse054,cvhunter3,3,1668177671985,15397.0,221133.0,4506.0,inf,inf,IMAGE,feedbackModel,Bayes CLIP 13590:11171_13590:16948_13590:12138_12192:2697_13590:10939_13590:11186_5802:5470_12192:4945_13590:11239_13590:25594_| group:1|12192:2015_,{},cvhunter
+vbse054,cvhunter3,3,1668177696191,39603.0,221133.0,inf,inf,inf,IMAGE,feedbackModel,Bayes CLIP 12192:2015_11255:7469_5019:4890_13343:1169_14467:9066_5553:8300_5802:5470_2113:6061_13590:3964_5104:5027_| group:1|2113:5994_10236:4522_,{},cvhunter
+vbse054,cvhunter3,3,1668177720735,64147.0,221133.0,137.0,2492.0,606.0,TEXT,JointEmbedding,CLIP: First-person view of a mountainbike downhill race. orange sleves and orange bike,{},cvhunter
+vbse054,cvhunter3,3,1668177721814,65226.0,221133.0,137.0,2492.0,606.0,TEXT,JointEmbedding,CLIP: First-person view of a mountainbike downhill race. orange sleves and orange bike,{},cvhunter
+vbse055,cvhunter3,3,1668177990924,7013.0,117707.0,5.0,inf,521.0,TEXT,JointEmbedding,CLIP: Close-up of a diving duck.,{},cvhunter
+vbse055,cvhunter3,3,1668177992076,8165.0,117707.0,5.0,inf,521.0,TEXT,JointEmbedding,CLIP: Close-up of a diving duck.,{},cvhunter
+vbse056,cvhunter3,3,1668178330335,8635.0,78562.0,inf,inf,inf,TEXT,JointEmbedding,CLIP: Two sisters sitting at a small table and introducing theirselves.,{},cvhunter
+vbse056,cvhunter3,3,1668178331501,9801.0,78562.0,inf,inf,inf,TEXT,JointEmbedding,CLIP: Two sisters sitting at a small table and introducing theirselves.,{},cvhunter
+vbse056,cvhunter3,3,1668178343554,21854.0,78562.0,13.0,inf,61.0,IMAGE,feedbackModel,Bayes CLIP 11664:5422_415:38369_3686:2825_441:7193_11350:4271_16294:1644_1512:15285_253:5572_5252:6264_7260:5138_| group:1|11122:3019_15889:7118_,{},cvhunter
+vbse057,cvhunter3,3,1668178654240,5397.0,,inf,inf,inf,TEXT,JointEmbedding,CLIP: Extremely zoomed recording of some written content.,{},cvhunter
+vbse057,cvhunter3,3,1668178655376,6533.0,,inf,inf,inf,TEXT,JointEmbedding,CLIP: Extremely zoomed recording of some written content.,{},cvhunter
+vbse057,cvhunter3,3,1668178673915,25072.0,,inf,inf,inf,IMAGE,feedbackModel,Bayes CLIP 13515:15517_16107:29535_9878:15599_12470:8766_5827:16176_7876:2817_16851:26122_7563:1900_10348:6653_8531:9568_| group:1|13956:5719_3321:5117_,{},cvhunter
+vbse057,cvhunter3,3,1668178728034,79191.0,,inf,inf,inf,IMAGE,feedbackModel,Bayes CLIP 3321:5117_9336:1726_6351:4762_15547:14798_6608:32894_5723:1134_13129:8038_16697:3986_337:27962_13956:5675_| group:1|10696:4600_,{},cvhunter
+vbse057,cvhunter3,3,1668178746209,97366.0,,inf,inf,inf,IMAGE,feedbackModel,Bayes CLIP 10696:4600_9973:19044_3025:360_1222:1286_9838:4590_301:4728_13419:1409_12590:5031_6351:4625_5171:10800_| group:1|3321:5102_12590:4875_,{},cvhunter
+vbse057,cvhunter3,3,1668178811025,162182.0,,inf,inf,inf,TEXT,JointEmbedding,CLIP: circular view of zoomed signs with black border,{},cvhunter
+vbse057,cvhunter3,3,1668178812049,163206.0,,inf,inf,inf,TEXT,JointEmbedding,CLIP: circular view of zoomed signs with black border,{},cvhunter
+vbse057,cvhunter3,3,1668178822410,173567.0,,inf,inf,inf,TEXT,JointEmbedding,CLIP: circular view of zoomed textwith black border,{},cvhunter
+vbse057,cvhunter3,3,1668178823510,174667.0,,inf,inf,inf,TEXT,JointEmbedding,CLIP: circular view of zoomed textwith black border,{},cvhunter
+vbse057,cvhunter3,3,1668178829063,180220.0,,inf,inf,inf,TEXT,JointEmbedding,CLIP: circular view of zoomed text with black border,{},cvhunter
+vbse057,cvhunter3,3,1668178842034,193191.0,,inf,inf,inf,TEXT,JointEmbedding,CLIP: Extremely zoomed recording of some written content.,{},cvhunter
+vbse057,cvhunter3,3,1668178872310,223467.0,,inf,inf,inf,IMAGE,feedbackModel,Bayes CLIP 13515:15517_16107:29535_14885:5131_4852:71491_6079:4501_7876:2817_16851:26122_7563:1900_10348:6653_8531:9568_| group:1|3321:5125_3321:5117_6351:4625_,{},cvhunter
+vbse057,cvhunter3,3,1668178917560,268717.0,,inf,inf,inf,IMAGE,feedbackModel,Bayes CLIP 6351:4625_6351:1325_6351:2650_3078:8864_7526:40340_9488:1206_7271:1756_10407:32762_10348:6653_12170:3042_| group:1|3321:5125_3321:5117_5688:6489_3321:5140_3321:5102_,{},cvhunter
+vbse058,cvhunter3,3,1668178991024,6924.0,182273.0,16.0,26.0,24.0,TEXT,JointEmbedding,CLIP: A freestyle downhill skier jumping down rocks between trees.,{},cvhunter
+vbse058,cvhunter3,3,1668178992242,8142.0,182273.0,16.0,26.0,24.0,TEXT,JointEmbedding,CLIP: A freestyle downhill skier jumping down rocks between trees.,{},cvhunter
+vbse058,cvhunter3,3,1668179009014,24914.0,182273.0,4.0,4.0,4.0,IMAGE,feedbackModel,Bayes CLIP 2313:14588_3274:3486_2199:19455_14233:1440_15641:27700_6118:6775_1940:4699_5800:1450_4742:630_11261:3025_| group:1|13495:3600_4955:3034_,{},cvhunter
+vbse058,cvhunter3,3,1668179024003,39903.0,182273.0,7.0,7.0,7.0,IMAGE,feedbackModel,Bayes CLIP 13495:3600_2313:14556_1940:8272_1419:4425_4739:4451_1419:2412_8466:4854_10225:1031_14233:1440_13317:50288_| group:1|10225:5325_,{},cvhunter
+vbse058,cvhunter3,3,1668179045244,61144.0,182273.0,10.0,10.0,10.0,TEXT,JointEmbedding,CLIP: A freestyle downhill skier with black jacket and blue trousers jumping down rocks between trees.,{},cvhunter
+vbse058,cvhunter3,3,1668179046401,62301.0,182273.0,10.0,10.0,10.0,TEXT,JointEmbedding,CLIP: A freestyle downhill skier with black jacket and blue trousers jumping down rocks between trees.,{},cvhunter
+vbse058,cvhunter3,3,1668179062987,78887.0,182273.0,4.0,4.0,4.0,TEXT,JointEmbedding,CLIP: A  skier with black jacket and blue trousers jumping down rocks between trees.,{},cvhunter
+vbse058,cvhunter3,3,1668179064287,80187.0,182273.0,4.0,4.0,4.0,TEXT,JointEmbedding,CLIP: A  skier with black jacket and blue trousers jumping down rocks between trees.,{},cvhunter
+vbse058,cvhunter3,3,1668179075679,91579.0,182273.0,86.0,101.0,101.0,TEXT,JointEmbedding,CLIP: A  skier with black jacket and blue trousers going between trees.,{},cvhunter
+vbse058,cvhunter3,3,1668179076870,92770.0,182273.0,86.0,101.0,101.0,TEXT,JointEmbedding,CLIP: A  skier with black jacket and blue trousers going between trees.,{},cvhunter
+vbse058,cvhunter3,3,1668179092379,108279.0,182273.0,47.0,59.0,59.0,IMAGE,feedbackModel,Bayes CLIP 13317:13838_2199:19455_4268:931_3274:7134_16443:2345_10163:4681_9622:9006_2040:15844_2199:6930_15641:33154_| group:1|13881:1948_,{},cvhunter
+vbse058,cvhunter3,3,1668179109950,125850.0,182273.0,1.0,31.0,18.0,TEXT,JointEmbedding,Temporal CLIP: A  skier with black jacket and blue trousers going between trees. >skier jumping over rocks,{},cvhunter
+vbse058,cvhunter3,3,1668179111862,127762.0,182273.0,1.0,31.0,18.0,TEXT,JointEmbedding,Temporal CLIP: A  skier with black jacket and blue trousers going between trees. >skier jumping over rocks,{},cvhunter
+vbse058,cvhunter3,3,1668179152733,168633.0,182273.0,1.0,17.0,8.0,IMAGE,feedbackModel,Temporal Bayes CLIP 2249:4000_1632:2721_4164:8525_1632:5323_13495:3531_425:6450_4739:4136_425:19212_4268:2681_4341:23250_| group:1|2249:4025_1266:2862_,{},cvhunter
+vbse059,cvhunter3,3,1668179394976,6673.0,218089.0,125.0,531.0,531.0,TEXT,JointEmbedding,CLIP: A skier flying down a mountain with a parachute.,{},cvhunter
+vbse059,cvhunter3,3,1668179396178,7875.0,218089.0,125.0,531.0,531.0,TEXT,JointEmbedding,CLIP: A skier flying down a mountain with a parachute.,{},cvhunter
+vbse059,cvhunter3,3,1668179412946,24643.0,218089.0,332.0,355.0,355.0,IMAGE,feedbackModel,Bayes CLIP 6118:5869_12735:33162_13869:2200_2668:42003_12735:1219_8382:2050_3594:46331_12735:36719_6021:4275_12735:15406_| group:1|1390:5831_6021:3881_,{},cvhunter
+vbse059,cvhunter3,3,1668179461729,73426.0,218089.0,82.0,535.0,284.0,TEXT,JointEmbedding,Temporal CLIP: A skier flying down a mountain with a parachute. >first person of a parashooter looking into sun in the winter,{},cvhunter
+vbse059,cvhunter3,3,1668179463795,75492.0,218089.0,82.0,535.0,284.0,TEXT,JointEmbedding,Temporal CLIP: A skier flying down a mountain with a parachute. >first person of a parashooter looking into sun in the winter,{},cvhunter
+vbse059,cvhunter3,3,1668179500171,111868.0,218089.0,129.0,491.0,430.0,IMAGE,feedbackModel,Temporal Bayes CLIP 4341:15217_7873:9553_14960:967_7873:12483_7873:8302_15392:9538_17200:2225_7873:7687_4341:5972_7729:1825_| group:1|13361:6893_,{},cvhunter
+vbse059,cvhunter3,3,1668179517232,128929.0,218089.0,30.0,304.0,88.0,TEXT,JointEmbedding,CLIP: A skier flying down a mountain with a parachute facing to sun. ,{},cvhunter
+vbse059,cvhunter3,3,1668179518470,130167.0,218089.0,30.0,304.0,88.0,TEXT,JointEmbedding,CLIP: A skier flying down a mountain with a parachute facing to sun. ,{},cvhunter
+vbse059,cvhunter3,3,1668179560623,172320.0,218089.0,2.0,6.0,2.0,IMAGE,feedbackModel,Bayes CLIP 2296:7208_7873:12520_12549:3006_4752:2000_8939:794_13671:25_3858:3282_4752:2885_8725:5206_4752:3994_| group:1|4752:3694_8939:1004_,{},cvhunter
+vbse060,cvhunter3,3,1668179734449,8236.0,234493.0,8459.0,inf,inf,TEXT,JointEmbedding,CLIP: A crowd of people sitting in a cinema / theatre.,{},cvhunter
+vbse060,cvhunter3,3,1668179735619,9406.0,234493.0,8459.0,inf,inf,TEXT,JointEmbedding,CLIP: A crowd of people sitting in a cinema / theatre.,{},cvhunter
+vbse060,cvhunter3,3,1668179774026,47813.0,234493.0,16.0,16.0,16.0,TEXT,JointEmbedding,CLIP: A crowd of people sitting in a cinema or theatre in dark with bluish face,{},cvhunter
+vbse060,cvhunter3,3,1668179775101,48888.0,234493.0,16.0,16.0,16.0,TEXT,JointEmbedding,CLIP: A crowd of people sitting in a cinema or theatre in dark with bluish face,{},cvhunter
+vbse060,cvhunter3,3,1668179802952,76739.0,234493.0,413.0,1139.0,1139.0,IMAGE,feedbackModel,Bayes CLIP 9970:23009_9970:1776_11001:4444_16645:5694_9970:50777_7929:6556_6557:3812_12987:11881_11001:18081_5555:29694_| group:1|3457:1231_9644:4162_17083:2300_,{},cvhunter
+vbse060,cvhunter3,3,1668179877744,151531.0,234493.0,59.0,68.0,59.0,IMAGE,feedbackModel,Bayes CLIP 3457:1231_3457:494_3435:1912_4505:15186_13354:12744_16695:15442_16293:498_1694:3728_16987:7481_3435:5544_| group:1|9644:4162_17083:2300_1762:3700_,{},cvhunter
+vbse060,cvhunter3,3,1668179938538,212325.0,234493.0,21.0,21.0,21.0,TEXT,JointEmbedding,Temporal CLIP: A crowd of people sitting in a cinema or theatre in dark with bluish face > white light on dark background,{},cvhunter
+vbse060,cvhunter3,3,1668179940261,214048.0,234493.0,21.0,21.0,21.0,TEXT,JointEmbedding,Temporal CLIP: A crowd of people sitting in a cinema or theatre in dark with bluish face > white light on dark background,{},cvhunter
