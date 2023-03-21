@@ -44,10 +44,10 @@ def dres_KIS_score(index_firstCorrect,time_correct_submission, tDur):
         """
         :param index_firstCorrect: index of first CORRECT submission. It is -1 if there are no corret submission,  ortherwise it is equal to the number of WRONG submissions before the CORRECT one
         :param time_correct_submission:
-        :param tDur: actual duration of task (in case it was extended during competition)
+        :param tDur: duration of the task
         :return: score assigned to the team
         """
-        #todo: to be checked I used a formula found at https://github.com/dres-dev/DRES/blob/37bfa448852a090c564b7519b8c08292f71ede36/backend/src/main/kotlin/dev/dres/run/score/scorer/KisTaskScorer.kt
+        #We used a formula found at https://github.com/dres-dev/DRES/blob/37bfa448852a090c564b7519b8c08292f71ede36/backend/src/main/kotlin/dev/dres/run/score/scorer/KisTaskScorer.kt
         maxPointsPerTask = 100.0
         maxPointsAtTaskEnd = 50.0
         penaltyPerWrongSubmission = 10.0
@@ -81,7 +81,7 @@ def compute_team_scores(task_list, teams_list,sub_df):
                                 firstCorrect=correct_sub.iloc[0]
                                 timestamp=firstCorrect['timestamp']
                                 time_correct_submission=timestamp-firstCorrect['task_start'] #milliseconds
-                                tDur=firstCorrect['task_end']-firstCorrect['task_start']
+                                tDur=max(firstCorrect['task_end']-firstCorrect['task_start'], 300*1000) #in vbse all tasks duration where 300s, we use the max in case the task was extended during competition
                                 index_firstCorrect=firstCorrect['index']
                                 score_team_task=dres_KIS_score(index_firstCorrect,time_correct_submission, tDur)
 
