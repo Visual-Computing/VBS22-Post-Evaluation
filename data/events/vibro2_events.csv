@@ -1,351 +1,351 @@
-task,team,user,timestamp,elapsed_since_task_start_ms,correct_submission_time_ms,rank_video,rank_shot_margin_0,rank_shot_margin_5,category,type,value,additionals,teamFamily
-vbse001,vibro2,2,1668157255000,6633.0,64518.0,47.0,47.0,47.0,TEXT,jointEmbedding,A woman holding a steaming mug close to the camera.,{},vibro
-vbse001,vibro2,2,1668157303000,54633.0,64518.0,25.0,25.0,25.0,TEXT,jointEmbedding,A woman holding a steaming mug ,{},vibro
-vbse002,vibro2,2,1668157577000,5026.0,145872.0,inf,inf,inf,TEXT,jointEmbedding,Viewer moving fast backwards on railway tracks.,{},vibro
-vbse002,vibro2,2,1668157594000,22026.0,145872.0,1281.0,1281.0,1281.0,IMAGE,globalFeatures, video 01814 at 00:26:35:50 (Frame #47865),{},vibro
-vbse002,vibro2,2,1668157604000,32026.0,145872.0,4343.0,4343.0,4343.0,IMAGE,globalFeatures, video 11588 at 00:09:24:00 (Frame #8460),{},vibro
-vbse002,vibro2,2,1668157615000,43026.0,145872.0,inf,inf,inf,IMAGE,globalFeatures, video 11588 at 00:09:24:00 (Frame #8460),{},vibro
-vbse002,vibro2,2,1668157620000,48026.0,145872.0,4343.0,4343.0,4343.0,IMAGE,globalFeatures, video 11588 at 00:09:24:00 (Frame #8460),{},vibro
-vbse002,vibro2,2,1668157629000,57026.0,145872.0,1123.0,1123.0,1123.0,IMAGE,globalFeatures, video 11588 at 00:09:24:00 (Frame #8460),{},vibro
-vbse002,vibro2,2,1668157639000,67026.0,145872.0,737.0,737.0,737.0,IMAGE,globalFeatures, video 10335 at 00:27:52:50 (Frame #41812),{},vibro
-vbse002,vibro2,2,1668157642000,70026.0,145872.0,1123.0,1123.0,1123.0,IMAGE,globalFeatures, video 11588 at 00:09:24:00 (Frame #8460),{},vibro
-vbse002,vibro2,2,1668157653000,81026.0,145872.0,2018.0,2018.0,2018.0,IMAGE,globalFeatures, video 14665 at 00:08:58:50 (Frame #13462),{},vibro
-vbse002,vibro2,2,1668157656000,84026.0,145872.0,1123.0,1123.0,1123.0,IMAGE,globalFeatures, video 11588 at 00:09:24:00 (Frame #8460),{},vibro
-vbse002,vibro2,2,1668157658000,86026.0,145872.0,233.0,233.0,233.0,IMAGE,globalFeatures, video 06568 at 00:01:42:00 (Frame #3056),{},vibro
-vbse002,vibro2,2,1668157668000,96026.0,145872.0,1123.0,1123.0,1123.0,IMAGE,globalFeatures, video 11588 at 00:09:24:00 (Frame #8460),{},vibro
-vbse002,vibro2,2,1668157685000,113026.0,145872.0,4.0,4.0,4.0,IMAGE,globalFeatures, video 04858 at 00:00:03:50 (Frame #105),{},vibro
-vbse002,vibro2,2,1668157704000,132026.0,145872.0,1.0,1.0,1.0,IMAGE,globalFeatures, video 16670 at 00:03:30:50 (Frame #5262),{},vibro
-vbse003,vibro2,2,1668157945000,2423.0,67960.0,4.0,inf,inf,TEXT,jointEmbedding,Close-up shot of water waves reflecting the sun.,{},vibro
-vbse003,vibro2,2,1668157951000,8423.0,67960.0,1.0,inf,4.0,IMAGE,globalFeatures, video 11237 at 00:02:41:00 (Frame #3864),{},vibro
-vbse003,vibro2,2,1668157991000,48423.0,67960.0,1.0,inf,1.0,IMAGE,globalFeatures, video 11237 at 00:02:00:50 (Frame #2892),{},vibro
-vbse004,vibro2,2,1668158278000,3413.0,13730.0,6.0,6.0,6.0,TEXT,jointEmbedding,A woman having a mobile phone call in bed,{},vibro
-vbse005,vibro2,2,1668158404000,2187.0,16120.0,1.0,inf,1.0,TEXT,jointEmbedding,A red seaplane on a lake with forests around.,{},vibro
-vbse006,vibro2,2,1668158459000,2721.0,33321.0,10.0,10.0,10.0,TEXT,jointEmbedding,Woman in yellow shirt standing in a room with a yellow sofa.,{},vibro
-vbse007,vibro2,2,1668158712000,6410.0,15017.0,27.0,27.0,27.0,TEXT,jointEmbedding,Four people waving on a mountain summit.,{},vibro
-vbse008,vibro2,2,1668158777000,5061.0,126593.0,21.0,876.0,876.0,TEXT,jointEmbedding,A white van driving between ruins.,{},vibro
-vbse008,vibro2,2,1668158815000,43061.0,126593.0,524.0,2120.0,2120.0,IMAGE,globalFeatures, video 11062 at 00:03:29:50 (Frame #6278),{},vibro
-vbse008,vibro2,2,1668158818000,46061.0,126593.0,48.0,469.0,469.0,IMAGE,globalFeatures, video 11062 at 00:03:29:50 (Frame #6278),{},vibro
-vbse008,vibro2,2,1668158840000,68061.0,126593.0,131.0,199.0,199.0,IMAGE,globalFeatures, video 11062 at 00:03:29:50 (Frame #6278),{},vibro
-vbse008,vibro2,2,1668158865000,93061.0,126593.0,75.0,75.0,75.0,IMAGE,globalFeatures, video 11062 at 00:03:29:50 (Frame #6278),{},vibro
-vbse008,vibro2,2,1668158875000,103061.0,126593.0,59.0,6313.0,4594.0,IMAGE,globalFeatures, video 14123 at 00:01:07:50 (Frame #1687),{},vibro
-vbse008,vibro2,2,1668158893000,121061.0,126593.0,1.0,1.0,1.0,IMAGE,globalFeatures, video 14123 at 00:01:07:50 (Frame #1687),{},vibro
-vbse009,vibro2,2,1668159099000,2928.0,48642.0,99.0,inf,99.0,IMAGE,globalFeatures, video 14123 at 00:01:07:50 (Frame #1687),{},vibro
-vbse009,vibro2,2,1668159132000,35928.0,48642.0,26.0,26.0,26.0,IMAGE,globalFeatures, video 04650 at 00:06:31:00 (Frame #9384),{},vibro
-vbse010,vibro2,2,1668159232000,5517.0,181539.0,251.0,251.0,251.0,TEXT,jointEmbedding,People dancing and drumming on the street at night.,{},vibro
-vbse010,vibro2,2,1668159275000,48517.0,181539.0,4115.0,4115.0,4115.0,IMAGE,globalFeatures, video 15312 at 00:02:46:00 (Frame #9950),{},vibro
-vbse010,vibro2,2,1668159291000,64517.0,181539.0,5870.0,5870.0,5870.0,IMAGE,globalFeatures, video 08248 at 00:04:57:50 (Frame #7132),{},vibro
-vbse010,vibro2,2,1668159295000,68517.0,181539.0,inf,inf,inf,IMAGE,globalFeatures, video 15312 at 00:02:46:00 (Frame #9950),{},vibro
-vbse010,vibro2,2,1668159305000,78517.0,181539.0,inf,inf,inf,IMAGE,globalFeatures, video 08248 at 00:04:57:50 (Frame #7132),{},vibro
-vbse010,vibro2,2,1668159315000,88517.0,181539.0,inf,inf,inf,IMAGE,globalFeatures, video 15312 at 00:02:46:00 (Frame #9950),{},vibro
-vbse010,vibro2,2,1668159325000,98517.0,181539.0,inf,inf,inf,IMAGE,globalFeatures, video 13813 at 00:00:34:50 (Frame #828),{},vibro
-vbse010,vibro2,2,1668159334000,107517.0,181539.0,1542.0,1542.0,1542.0,IMAGE,globalFeatures, video 13813 at 00:00:34:50 (Frame #828),{},vibro
-vbse010,vibro2,2,1668159363000,136517.0,181539.0,2426.0,2426.0,2426.0,TEXT,jointEmbedding,Woman dancing on the street at night.,{},vibro
-vbse010,vibro2,2,1668159367000,140517.0,181539.0,inf,inf,inf,IMAGE,globalFeatures, video 03912 at 00:06:54:50 (Frame #9948),{},vibro
-vbse010,vibro2,2,1668159368000,141517.0,181539.0,inf,inf,inf,TEMPORAL,frame > text,frame 0070.jpg in video 13813 at 00:00:34:50 (Frame #828)  >  Woman dancing on the street at night.,{},vibro
-vbse010,vibro2,2,1668159387000,160517.0,181539.0,24.0,222.0,222.0,TEMPORAL,frame > frame,frame 0070.jpg in video 13813 at 00:00:34:50 (Frame #828)  >  frame 0830.jpg in video 03912 at 00:06:54:50 (Frame #9948),{},vibro
-vbse010,vibro2,2,1668159390000,163517.0,181539.0,1.0,inf,inf,TEMPORAL,frame > text,frame 0070.jpg in video 13813 at 00:00:34:50 (Frame #828)  >  lemondequiteourne,{},vibro
-vbse012,vibro2,2,1668159648000,5808.0,43101.0,55.0,62.0,62.0,TEXT,jointEmbedding,View of a volcano with clouds moving in from the right.,{},vibro
-vbse012,vibro2,2,1668159663000,20808.0,43101.0,90.0,90.0,90.0,IMAGE,globalFeatures, video 03914 at 00:02:16:00 (Frame #3260),{},vibro
-vbse013,vibro2,2,1668160029000,4042.0,,9463.0,inf,inf,TEXT,jointEmbedding,Flashing shots of a man on a bed and in front of a wall.,{},vibro
-vbse013,vibro2,2,1668160058000,33042.0,,2367.0,2367.0,2367.0,IMAGE,globalFeatures, video 09225 at 00:17:10:00 (Frame #30869),{},vibro
-vbse013,vibro2,2,1668160079000,54042.0,,inf,inf,inf,TEXT,jointEmbedding,Men in front of a wall.,{},vibro
-vbse013,vibro2,2,1668160089000,64042.0,,2650.0,inf,inf,TEXT,jointEmbedding,Men in front of a wall in the dark,{},vibro
-vbse013,vibro2,2,1668160095000,70042.0,,2438.0,inf,inf,TEMPORAL,text > text,Flashing shots of a man on a bed and in front of a wall.  >  Men in front of a wall in the dark,{},vibro
-vbse013,vibro2,2,1668160116000,91042.0,,3346.0,8811.0,8811.0,TEMPORAL,text > text,Flashing shots of a man on a bed and in front of a wall.  >  Men in front of a wall in the dark,{},vibro
-vbse013,vibro2,2,1668160137000,112042.0,,2130.0,3714.0,3714.0,TEMPORAL,frame > text,frame 0229.jpg in video 06215 at 00:01:54:00 (Frame #2850)  >  Men in front of a wall in the dark,{},vibro
-vbse013,vibro2,2,1668160142000,117042.0,,274.0,inf,1610.0,TEMPORAL,text > text,Man on a bed and in front of a wall.  >  Men in front of a wall in the dark,{},vibro
-vbse013,vibro2,2,1668160152000,127042.0,,2503.0,3488.0,3488.0,TEMPORAL,frame > text,frame 1257.jpg in video 00606 at 00:10:28:00 (Frame #15056)  >  Men in front of a wall in the dark,{},vibro
-vbse013,vibro2,2,1668160159000,134042.0,,1717.0,4276.0,4276.0,TEMPORAL,frame > text,frame 1257.jpg in video 00606 at 00:10:28:00 (Frame #15056)  >  Men in front of a wall in the dark,{},vibro
-vbse013,vibro2,2,1668160166000,141042.0,,2438.0,inf,inf,TEMPORAL,text > text,Face of a Man on a bed.  >  Men in front of a wall in the dark,{},vibro
-vbse013,vibro2,2,1668160187000,162042.0,,1054.0,1054.0,1054.0,TEMPORAL,text > frame,Face of a Man on a bed.  >  frame 2141.jpg in video 10335 at 00:17:50:00 (Frame #26750),{},vibro
-vbse013,vibro2,2,1668160204000,179042.0,,2913.0,5081.0,5081.0,TEMPORAL,text > text,Face of a Man on a bed.  >  Hand in the dark in front of a wall,{},vibro
-vbse013,vibro2,2,1668160217000,192042.0,,3606.0,8716.0,8716.0,TEMPORAL,text > text,Face of a Man on a bed.  >  Hand in the dark in front of a wall,{},vibro
-vbse013,vibro2,2,1668160252000,227042.0,,inf,inf,inf,TEMPORAL,text > text,Face of a Man on a bed.  >  Hand in the dark in front of a wall,{},vibro
-vbse013,vibro2,2,1668160266000,241042.0,,1953.0,inf,inf,TEMPORAL,text > text,Face of a Man on a bed.  >  Hand in the dark in front of a wall,{},vibro
-vbse013,vibro2,2,1668160280000,255042.0,,2290.0,6623.0,6623.0,TEMPORAL,text > text,Face of a Man on a bed.  >  Hand in the dark in front of a wall,{},vibro
-vbse013,vibro2,2,1668160300000,275042.0,,1684.0,5366.0,1684.0,TEMPORAL,text > text,Face of a Man on a bed.  >  Hand in the dark in front of a wall,{},vibro
-vbse013,vibro2,2,1668160305000,280042.0,,9707.0,9707.0,9707.0,IMAGE,globalFeatures, video 16596 at 00:01:52:50 (Frame #2700),{},vibro
-vbse013,vibro2,2,1668160306000,281042.0,,914.0,1309.0,914.0,TEMPORAL,frame > text,frame 0226.jpg in video 16596 at 00:01:52:50 (Frame #2700)  >  Hand in the dark in front of a wall,{},vibro
-vbse013,vibro2,2,1668160314000,289042.0,,2619.0,2939.0,2939.0,TEMPORAL,text > text,Face of a Man on a bed.  >  Hand in the dark in front of a wall,{},vibro
-vbse013,vibro2,2,1668160322000,297042.0,,3252.0,4690.0,4690.0,TEMPORAL,text > text,Face of a Man on a bed.  >  Hand in the dark in front of a wall,{},vibro
-vbse014,vibro2,2,1668160411000,3483.0,20182.0,29.0,29.0,29.0,TEXT,jointEmbedding,A white dress is waving in the wind over the floor.,{},vibro
-vbse015,vibro2,2,1668161586000,3405.0,20899.0,1.0,1.0,1.0,TEXT,jointEmbedding,A man lighting at a piano with a flashlight.,{},vibro
-vbse015,vibro2,2,1668161594000,11405.0,20899.0,1.0,inf,1.0,IMAGE,globalFeatures, video 03184 at 00:01:29:50 (Frame #2237),{},vibro
-vbse016,vibro2,2,1668161938000,2188.0,8421.0,8.0,8.0,8.0,TEXT,jointEmbedding,Small boats tied in the harbour in front of a cruise ship.,{},vibro
-vbse017,vibro2,2,1668162575000,2538.0,38394.0,38.0,38.0,38.0,TEXT,jointEmbedding,A person roasting coffee beans.,{},vibro
-vbse018,vibro2,2,1668163563000,2323.0,17801.0,3.0,3.0,3.0,TEXT,jointEmbedding,A black-haired woman in a red dress walks down stairs.,{},vibro
-vbse019,vibro2,2,1668163682000,2104.0,55085.0,237.0,237.0,237.0,TEXT,jointEmbedding,A couple in black clothes kisses outside.,{},vibro
-vbse019,vibro2,2,1668163720000,40104.0,55085.0,118.0,118.0,118.0,IMAGE,globalFeatures, video 15536 at 00:03:50:00 (Frame #6915),{},vibro
-vbse019,vibro2,2,1668163726000,46104.0,55085.0,11.0,11.0,11.0,IMAGE,globalFeatures, video 14537 at 00:01:36:00 (Frame #2301),{},vibro
-vbse020,vibro2,2,1668163901000,3609.0,87542.0,62.0,266.0,266.0,TEXT,jointEmbedding,Actors in historic costumes celebrate their theater performance.,{},vibro
-vbse020,vibro2,2,1668163944000,46609.0,87542.0,210.0,980.0,980.0,IMAGE,globalFeatures, video 09065 at 00:01:01:00 (Frame #1537),{},vibro
-vbse020,vibro2,2,1668163953000,55609.0,87542.0,774.0,774.0,774.0,IMAGE,globalFeatures, video 09065 at 00:01:01:00 (Frame #1537),{},vibro
-vbse020,vibro2,2,1668163975000,77609.0,87542.0,1.0,4.0,4.0,IMAGE,globalFeatures, video 09065 at 00:01:01:00 (Frame #1537),{},vibro
-vbse021,vibro2,2,1668164275000,3577.0,10011.0,1.0,inf,1.0,TEXT,jointEmbedding,Men cutting and sculpting ice blocks with a chain saw.,{},vibro
-vbse022,vibro2,2,1668164330000,2127.0,13789.0,8.0,9.0,9.0,TEXT,jointEmbedding,People playing table tennis in an office space.,{},vibro
-vbse023,vibro2,2,1668164506000,2067.0,174447.0,384.0,inf,1928.0,TEXT,jointEmbedding,Pan between two motocross tracks with bikers moving from/to the camera.,{},vibro
-vbse023,vibro2,2,1668164517000,13067.0,174447.0,3002.0,inf,3002.0,IMAGE,globalFeatures, video 11039 at 00:06:07:00 (Frame #8811),{},vibro
-vbse023,vibro2,2,1668164520000,16067.0,174447.0,284.0,inf,1820.0,IMAGE,globalFeatures, video 11039 at 00:06:07:00 (Frame #8811),{},vibro
-vbse023,vibro2,2,1668164522000,18067.0,174447.0,280.0,inf,1766.0,IMAGE,globalFeatures, video 11039 at 00:06:07:00 (Frame #8811),{},vibro
-vbse023,vibro2,2,1668164524000,20067.0,174447.0,362.0,inf,1841.0,IMAGE,globalFeatures, video 11039 at 00:06:07:00 (Frame #8811),{},vibro
-vbse023,vibro2,2,1668164554000,50067.0,174447.0,68.0,inf,68.0,IMAGE,globalFeatures, video 11039 at 00:06:07:00 (Frame #8811),{},vibro
-vbse023,vibro2,2,1668164575000,71067.0,174447.0,1899.0,inf,inf,IMAGE,globalFeatures, video 11039 at 00:06:07:00 (Frame #8811),{},vibro
-vbse023,vibro2,2,1668164580000,76067.0,174447.0,117.0,inf,inf,IMAGE,globalFeatures, video 06777 at 00:01:41:00 (Frame #2537),{},vibro
-vbse023,vibro2,2,1668164585000,81067.0,174447.0,241.0,inf,inf,IMAGE,globalFeatures, video 06777 at 00:01:41:00 (Frame #2537),{},vibro
-vbse023,vibro2,2,1668164587000,83067.0,174447.0,1224.0,inf,inf,IMAGE,globalFeatures, video 06777 at 00:01:41:00 (Frame #2537),{},vibro
-vbse023,vibro2,2,1668164600000,96067.0,174447.0,35.0,inf,inf,IMAGE,globalFeatures, video 06777 at 00:01:41:00 (Frame #2537),{},vibro
-vbse023,vibro2,2,1668164608000,104067.0,174447.0,3.0,3.0,3.0,IMAGE,globalFeatures, video 05255 at 00:01:14:00 (Frame #1850),{},vibro
-vbse023,vibro2,2,1668164655000,151067.0,174447.0,1.0,1.0,1.0,IMAGE,globalFeatures, video 04984 at 00:02:19:00 (Frame #3487),{},vibro
-vbse024,vibro2,2,1668164830000,2456.0,26014.0,44.0,44.0,44.0,TEXT,jointEmbedding,Red oldtimer truck and bride getting in.,{},vibro
-vbse025,vibro2,2,1668164958000,2789.0,166481.0,781.0,1139.0,1139.0,TEXT,jointEmbedding,Aerial shot moving up a parking lot over the trees.,{},vibro
-vbse025,vibro2,2,1668164970000,14789.0,166481.0,2871.0,2871.0,2871.0,IMAGE,globalFeatures, video 00939 at 00:03:58:00 (Frame #7132),{},vibro
-vbse025,vibro2,2,1668164971000,15789.0,166481.0,325.0,325.0,325.0,IMAGE,globalFeatures, video 00939 at 00:03:58:00 (Frame #7132),{},vibro
-vbse025,vibro2,2,1668164988000,32789.0,166481.0,1396.0,1396.0,1396.0,TEMPORAL,frame > text,frame 0477.jpg in video 00939 at 00:03:58:00 (Frame #7132)  >  ,{},vibro
-vbse025,vibro2,2,1668165016000,60789.0,166481.0,46.0,46.0,46.0,TEMPORAL,frame > text,frame 0477.jpg in video 00939 at 00:03:58:00 (Frame #7132)  >  ,{},vibro
-vbse025,vibro2,2,1668165043000,87789.0,166481.0,78.0,78.0,78.0,TEMPORAL,frame > text,frame 0477.jpg in video 00939 at 00:03:58:00 (Frame #7132)  >  ,{},vibro
-vbse025,vibro2,2,1668165049000,93789.0,166481.0,61.0,61.0,61.0,TEMPORAL,frame > text,frame 0477.jpg in video 00939 at 00:03:58:00 (Frame #7132)  >  ,{},vibro
-vbse025,vibro2,2,1668165056000,100789.0,166481.0,392.0,392.0,392.0,TEMPORAL,text > text,Aerial shot moving up a parking cars and trees.  >  ,{},vibro
-vbse025,vibro2,2,1668165061000,105789.0,166481.0,85.0,85.0,85.0,TEMPORAL,text > text,Aerial shot moving up a parking cars and trees.  >  ,{},vibro
-vbse025,vibro2,2,1668165086000,130789.0,166481.0,37.0,37.0,37.0,TEMPORAL,frame > text,frame 0038.jpg in video 02891 at 00:00:18:00 (Frame #554)  >  ,{},vibro
-vbse025,vibro2,2,1668165091000,135789.0,166481.0,163.0,163.0,163.0,TEMPORAL,text > text,White and black cars on a street with trees in the background.  >  ,{},vibro
-vbse025,vibro2,2,1668165110000,154789.0,166481.0,6.0,30.0,6.0,TEMPORAL,text > text,White and black cars on a street with trees in the background.  >  ,{},vibro
-vbse026,vibro2,2,1668165367000,2744.0,39232.0,141.0,228.0,228.0,TEXT,jointEmbedding,A man ski touring an pulling a red sledge.,{},vibro
-vbse026,vibro2,2,1668165375000,10744.0,39232.0,73.0,73.0,73.0,IMAGE,globalFeatures, video 04739 at 00:01:50:00 (Frame #3311),{},vibro
-vbse026,vibro2,2,1668165393000,28744.0,39232.0,10.0,10.0,10.0,IMAGE,globalFeatures, video 04739 at 00:01:42:00 (Frame #3056),{},vibro
-vbse028,vibro2,2,1668165748000,3266.0,51276.0,15.0,15.0,15.0,TEXT,jointEmbedding,View from a car driving cross country and through a dirty side window.,{},vibro
-vbse028,vibro2,2,1668165752000,7266.0,51276.0,1.0,1.0,1.0,IMAGE,globalFeatures, video 12309 at 00:01:05:00 (Frame #1963),{},vibro
-vbse029,vibro2,2,1668166051000,2515.0,23077.0,121.0,121.0,121.0,TEXT,jointEmbedding,Bride getting dressed by three women in front of a mirror.,{},vibro
-vbse029,vibro2,2,1668166059000,10515.0,23077.0,9.0,9.0,9.0,IMAGE,globalFeatures, video 00599 at 00:01:04:00 (Frame #1612),{},vibro
-vbse029,vibro2,2,1668166062000,13515.0,23077.0,4.0,4.0,4.0,IMAGE,globalFeatures, video 00599 at 00:01:04:00 (Frame #1612),{},vibro
-vbse030,vibro2,2,1668166380000,2957.0,10761.0,9.0,9.0,9.0,TEXT,jointEmbedding,View of two bridges in Venice from the water.,{},vibro
-vbse031,vibro2,2,1668170067000,1677.0,98699.0,1449.0,1765.0,1765.0,TEXT,jointEmbedding,"Close-ups of drum and guitar playing, and shots of people standing by the bushes.",{},vibro
-vbse031,vibro2,2,1668170087000,21677.0,98699.0,1747.0,8070.0,4368.0,TEXT,jointEmbedding,"Close-ups of drum and guitar playing, and shots of people standing by the bushes.",{},vibro
-vbse031,vibro2,2,1668170117000,51677.0,98699.0,3852.0,9339.0,9339.0,TEMPORAL,text > text,"Close-ups of drum and guitar playing, and shots of people standing by the bushes.  >  ",{},vibro
-vbse031,vibro2,2,1668170136000,70677.0,98699.0,2777.0,5148.0,5148.0,TEMPORAL,text > frame,"Close-ups of drum and guitar playing, and shots of people standing by the bushes.  >  frame 0571.jpg in video 02960 at 00:04:45:00 (Frame #7125)",{},vibro
-vbse031,vibro2,2,1668170143000,77677.0,98699.0,10.0,509.0,509.0,TEMPORAL,text > text,"Close-ups of drum and guitar playing, and shots of people standing by the bushes.  >  close-up of a black man with a leave in front.",{},vibro
-vbse031,vibro2,2,1668170152000,86677.0,98699.0,5.0,6.0,6.0,TEMPORAL,frame > text,frame 0163.jpg in video 17159 at 00:01:21:00 (Frame #2025)  >  close-up of a black man with a leave in front.,{},vibro
-vbse032,vibro2,2,1668170415000,3478.0,46476.0,19.0,inf,936.0,TEXT,jointEmbedding,A person interacting with a sound-effects keyboard.,{},vibro
-vbse033,vibro2,2,1668170949000,3754.0,82510.0,68.0,68.0,68.0,TEXT,jointEmbedding,Close-ups of ochre rocks with curvy carvings.,{},vibro
-vbse033,vibro2,2,1668170962000,16754.0,82510.0,1465.0,2234.0,1465.0,IMAGE,globalFeatures, video 08541 at 00:06:51:00 (Frame #9876),{},vibro
-vbse033,vibro2,2,1668170983000,37754.0,82510.0,3819.0,3819.0,3819.0,IMAGE,globalFeatures, video 08541 at 00:06:51:00 (Frame #9876),{},vibro
-vbse033,vibro2,2,1668170989000,43754.0,82510.0,1465.0,2234.0,1465.0,IMAGE,globalFeatures, video 08541 at 00:06:51:00 (Frame #9876),{},vibro
-vbse033,vibro2,2,1668171007000,61754.0,82510.0,3150.0,3150.0,3150.0,IMAGE,globalFeatures, video 11059 at 00:05:01:00 (Frame #7224),{},vibro
-vbse033,vibro2,2,1668171013000,67754.0,82510.0,97.0,97.0,97.0,IMAGE,globalFeatures, video 08541 at 00:06:51:00 (Frame #9876),{},vibro
-vbse033,vibro2,2,1668171017000,71754.0,82510.0,41.0,41.0,41.0,IMAGE,globalFeatures, video 08541 at 00:06:51:00 (Frame #9876),{},vibro
-vbse033,vibro2,2,1668171018000,72754.0,82510.0,32.0,32.0,32.0,IMAGE,globalFeatures, video 08541 at 00:06:51:00 (Frame #9876),{},vibro
-vbse033,vibro2,2,1668171020000,74754.0,82510.0,1.0,1.0,1.0,IMAGE,globalFeatures, video 02808 at 00:03:39:00 (Frame #6578),{},vibro
-vbse034,vibro2,2,1668171295000,2787.0,20318.0,11.0,11.0,11.0,TEXT,jointEmbedding,A black-and-white video showing a diver moving upwards.,{},vibro
-vbse035,vibro2,2,1668171415000,1911.0,113546.0,56.0,inf,56.0,TEXT,jointEmbedding,"A moving ferris wheel, recorded from the front and below.",{},vibro
-vbse035,vibro2,2,1668171433000,19911.0,113546.0,12.0,inf,12.0,TEXT,jointEmbedding,"A moving ferris wheel, recorded from the front and below.",{},vibro
-vbse035,vibro2,2,1668171458000,44911.0,113546.0,36.0,inf,36.0,TEMPORAL,text > text,"A moving ferris wheel, recorded from the front and below.  >  ",{},vibro
-vbse035,vibro2,2,1668171470000,56911.0,113546.0,159.0,inf,159.0,TEMPORAL,text > text,"A moving ferris wheel, recorded from the front and below.  >  ",{},vibro
-vbse035,vibro2,2,1668171489000,75911.0,113546.0,66.0,inf,66.0,TEMPORAL,text > text,"A moving ferris wheel, recorded from the front and below.  >  ",{},vibro
-vbse035,vibro2,2,1668171490000,76911.0,113546.0,29.0,inf,29.0,TEMPORAL,frame > text,frame 0292.jpg in video 02241 at 00:02:25:00 (Frame #3637)  >  ,{},vibro
-vbse035,vibro2,2,1668171491000,77911.0,113546.0,27.0,inf,27.0,TEMPORAL,frame > text,frame 0292.jpg in video 02241 at 00:02:25:00 (Frame #3637)  >  ,{},vibro
-vbse035,vibro2,2,1668171495000,81911.0,113546.0,152.0,inf,152.0,TEMPORAL,text > text,"A moving ferris wheel, recorded from the front and below.  >  ",{},vibro
-vbse037,vibro2,2,1668171774000,2204.0,109317.0,16.0,inf,16.0,TEXT,jointEmbedding,A group of people paddling in a boat at night.,{},vibro
-vbse037,vibro2,2,1668171779000,7204.0,109317.0,223.0,7156.0,7155.0,IMAGE,globalFeatures, video 03806 at 00:06:40:00 (Frame #10012),{},vibro
-vbse037,vibro2,2,1668171782000,10204.0,109317.0,105.0,inf,991.0,IMAGE,globalFeatures, video 03806 at 00:06:40:00 (Frame #10012),{},vibro
-vbse037,vibro2,2,1668171807000,35204.0,109317.0,16.0,inf,16.0,TEXT,jointEmbedding,A group of people paddling in a boat at night.,{},vibro
-vbse037,vibro2,2,1668171815000,43204.0,109317.0,3.0,inf,2571.0,IMAGE,globalFeatures, video 15417 at 00:01:53:00 (Frame #3401),{},vibro
-vbse037,vibro2,2,1668171834000,62204.0,109317.0,1.0,4701.0,6.0,IMAGE,globalFeatures, video 07542 at 00:17:36:00 (Frame #25330),{},vibro
-vbse037,vibro2,2,1668171841000,69204.0,109317.0,1.0,inf,3.0,IMAGE,globalFeatures, video 07542 at 00:17:36:00 (Frame #25330),{},vibro
-vbse038,vibro2,2,1668172158000,2197.0,166767.0,253.0,3321.0,3321.0,TEXT,jointEmbedding,A demonstration of the setup of a metal oven flue through the roof.,{},vibro
-vbse038,vibro2,2,1668172209000,53197.0,166767.0,inf,inf,inf,TEXT,jointEmbedding,Twist to lock,{},vibro
-vbse038,vibro2,2,1668172216000,60197.0,166767.0,253.0,3321.0,363.0,TEXT,jointEmbedding,A demonstration of the setup of a metal oven flue through the roof.,{},vibro
-vbse038,vibro2,2,1668172233000,77197.0,166767.0,inf,inf,inf,TEXT,jointEmbedding,Twist to lock,{},vibro
-vbse038,vibro2,2,1668172238000,82197.0,166767.0,253.0,3321.0,363.0,TEXT,jointEmbedding,A demonstration of the setup of a metal oven flue through the roof.,{},vibro
-vbse038,vibro2,2,1668172256000,100197.0,166767.0,9110.0,inf,inf,TEXT,jointEmbedding,metal plate on white background,{},vibro
-vbse038,vibro2,2,1668172268000,112197.0,166767.0,719.0,8668.0,8668.0,IMAGE,globalFeatures, video 02806 at 00:06:36:00 (Frame #23736),{},vibro
-vbse038,vibro2,2,1668172269000,113197.0,166767.0,94.0,4035.0,94.0,TEXT,jointEmbedding,A demonstration of the setup of a metal oven flue through the roof.,{},vibro
-vbse038,vibro2,2,1668172272000,116197.0,166767.0,5916.0,5916.0,5916.0,IMAGE,globalFeatures, video 02806 at 00:06:36:00 (Frame #23736),{},vibro
-vbse038,vibro2,2,1668172273000,117197.0,166767.0,14.0,203.0,14.0,TEXT,jointEmbedding,A demonstration of the setup of a metal oven flue through the roof.,{},vibro
-vbse038,vibro2,2,1668172282000,126197.0,166767.0,910.0,inf,inf,TEMPORAL,text > frame,A demonstration of the setup of a metal oven flue through the roof.  >  frame 0793.jpg in video 02806 at 00:06:36:00 (Frame #23736),{},vibro
-vbse038,vibro2,2,1668172293000,137197.0,166767.0,159.0,3413.0,159.0,TEMPORAL,frame > frame,frame 0035.jpg in video 00360 at 00:00:17:00 (Frame #425)  >  frame 0793.jpg in video 02806 at 00:06:36:00 (Frame #23736),{},vibro
-vbse039,vibro2,2,1668172347000,2589.0,22682.0,140.0,140.0,140.0,TEXT,jointEmbedding,A rock carving followed by a picture of a stone/rock sculpture.,{},vibro
-vbse040,vibro2,2,1668172597000,2636.0,53398.0,730.0,inf,inf,TEXT,jointEmbedding,A black-dressed woman interviews another black-dressed woman.,{},vibro
-vbse040,vibro2,2,1668172610000,15636.0,53398.0,853.0,inf,inf,IMAGE,globalFeatures, video 16088 at 00:04:29:00 (Frame #6725),{},vibro
-vbse040,vibro2,2,1668172613000,18636.0,53398.0,179.0,inf,379.0,IMAGE,globalFeatures, video 16088 at 00:04:29:00 (Frame #6725),{},vibro
-vbse040,vibro2,2,1668172636000,41636.0,53398.0,1.0,inf,2.0,IMAGE,globalFeatures, video 08503 at 00:07:44:00 (Frame #11600),{},vibro
-vbse041,vibro2,2,1668172935000,2883.0,157935.0,627.0,inf,inf,TEXT,jointEmbedding,A sunrise or sunset at the ocean recorded while paragliding.,{},vibro
-vbse041,vibro2,2,1668172955000,22883.0,157935.0,1813.0,inf,inf,IMAGE,globalFeatures, video 11420 at 00:04:08:00 (Frame #3723),{},vibro
-vbse041,vibro2,2,1668172957000,24883.0,157935.0,1037.0,inf,inf,IMAGE,globalFeatures, video 11420 at 00:04:08:00 (Frame #3723),{},vibro
-vbse041,vibro2,2,1668172961000,28883.0,157935.0,1041.0,inf,inf,IMAGE,globalFeatures, video 11420 at 00:04:08:00 (Frame #3723),{},vibro
-vbse041,vibro2,2,1668172963000,30883.0,157935.0,1082.0,inf,inf,IMAGE,globalFeatures, video 11420 at 00:04:08:00 (Frame #3723),{},vibro
-vbse041,vibro2,2,1668172967000,34883.0,157935.0,inf,inf,inf,IMAGE,globalFeatures, video 11420 at 00:04:08:00 (Frame #3723),{},vibro
-vbse041,vibro2,2,1668172970000,37883.0,157935.0,8946.0,inf,inf,IMAGE,globalFeatures, video 11420 at 00:04:08:00 (Frame #3723),{},vibro
-vbse041,vibro2,2,1668172971000,38883.0,157935.0,649.0,inf,inf,IMAGE,globalFeatures, video 11420 at 00:04:08:00 (Frame #3723),{},vibro
-vbse041,vibro2,2,1668172972000,39883.0,157935.0,601.0,inf,inf,IMAGE,globalFeatures, video 11420 at 00:04:08:00 (Frame #3723),{},vibro
-vbse041,vibro2,2,1668172985000,52883.0,157935.0,343.0,inf,inf,IMAGE,globalFeatures, video 11420 at 00:04:08:00 (Frame #3723),{},vibro
-vbse041,vibro2,2,1668172996000,63883.0,157935.0,208.0,inf,inf,IMAGE,globalFeatures, video 11420 at 00:04:08:00 (Frame #3723),{},vibro
-vbse041,vibro2,2,1668172997000,64883.0,157935.0,197.0,inf,inf,IMAGE,globalFeatures, video 11420 at 00:04:08:00 (Frame #3723),{},vibro
-vbse041,vibro2,2,1668173005000,72883.0,157935.0,2161.0,inf,inf,IMAGE,globalFeatures, video 10038 at 00:02:22:00 (Frame #4255),{},vibro
-vbse041,vibro2,2,1668173009000,76883.0,157935.0,inf,inf,inf,IMAGE,globalFeatures, video 10038 at 00:02:22:00 (Frame #4255),{},vibro
-vbse041,vibro2,2,1668173010000,77883.0,157935.0,7493.0,inf,inf,IMAGE,globalFeatures, video 10038 at 00:02:22:00 (Frame #4255),{},vibro
-vbse041,vibro2,2,1668173013000,80883.0,157935.0,1505.0,inf,inf,IMAGE,globalFeatures, video 10038 at 00:02:22:00 (Frame #4255),{},vibro
-vbse041,vibro2,2,1668173023000,90883.0,157935.0,335.0,inf,inf,IMAGE,globalFeatures, video 10038 at 00:01:34:00 (Frame #2832),{},vibro
-vbse041,vibro2,2,1668173033000,100883.0,157935.0,630.0,inf,9819.0,TEMPORAL,text > text,A sunrise  at the ocean recorded while paragliding.  >  ,{},vibro
-vbse041,vibro2,2,1668173049000,116883.0,157935.0,29.0,inf,311.0,TEMPORAL,frame > text,frame 0190.jpg in video 10038 at 00:01:34:00 (Frame #2832)  >  ,{},vibro
-vbse041,vibro2,2,1668173052000,119883.0,157935.0,2.0,184.0,184.0,TEMPORAL,text > text,A pink sunrise  at the ocean.  >  ,{},vibro
-vbse041,vibro2,2,1668173058000,125883.0,157935.0,1.0,inf,10.0,TEMPORAL,text > text,A pink sunrise  at the ocean.  >  ,{},vibro
-vbse042,vibro2,2,1668173274000,3475.0,56302.0,41.0,inf,306.0,TEXT,jointEmbedding,A man in a yellow shirt climbing up a rock.,{},vibro
-vbse042,vibro2,2,1668173303000,32475.0,56302.0,15.0,inf,15.0,IMAGE,globalFeatures, video 02030 at 00:05:33:00 (Frame #7992),{},vibro
-vbse043,vibro2,2,1668173570000,2693.0,16721.0,9.0,9.0,9.0,TEXT,jointEmbedding,A man playing a banjo and singing in front of a,{},vibro
-vbse044,vibro2,2,1668173815000,1630.0,101601.0,120.0,inf,inf,TEXT,jointEmbedding,A shark swimming at the sea floor.,{},vibro
-vbse044,vibro2,2,1668173829000,15630.0,101601.0,80.0,inf,inf,IMAGE,globalFeatures, video 12543 at 00:01:21:00 (Frame #2427),{},vibro
-vbse044,vibro2,2,1668173858000,44630.0,101601.0,90.0,inf,inf,IMAGE,globalFeatures, video 05119 at 00:04:06:00 (Frame #6162),{},vibro
-vbse044,vibro2,2,1668173868000,54630.0,101601.0,1.0,inf,inf,IMAGE,globalFeatures, video 06273 at 00:04:24:00 (Frame #7912),{},vibro
-vbse045,vibro2,2,1668174099000,2025.0,190081.0,711.0,inf,711.0,TEXT,jointEmbedding,Zoom-in to a large old tree with lots of leaves on the ground.,{},vibro
-vbse045,vibro2,2,1668174109000,12025.0,190081.0,1478.0,inf,1478.0,IMAGE,globalFeatures, video 04510 at 00:01:09:00 (Frame #1725),{},vibro
-vbse045,vibro2,2,1668174113000,16025.0,190081.0,420.0,420.0,420.0,IMAGE,globalFeatures, video 04510 at 00:01:09:00 (Frame #1725),{},vibro
-vbse045,vibro2,2,1668174114000,17025.0,190081.0,437.0,437.0,437.0,IMAGE,globalFeatures, video 04510 at 00:01:09:00 (Frame #1725),{},vibro
-vbse045,vibro2,2,1668174122000,25025.0,190081.0,1097.0,inf,inf,IMAGE,globalFeatures, video 04510 at 00:00:53:00 (Frame #1337),{},vibro
-vbse045,vibro2,2,1668174188000,91025.0,190081.0,282.0,643.0,304.0,TEMPORAL,text > text,Zoom-in to a large old tree with lots of leaves on the ground.  >  ,{},vibro
-vbse045,vibro2,2,1668174209000,112025.0,190081.0,1054.0,1054.0,1054.0,TEMPORAL,text > text,Zoom-in to a large old tree with lots of leaves on the ground.  >  ,{},vibro
-vbse045,vibro2,2,1668174219000,122025.0,190081.0,4.0,79.0,36.0,TEMPORAL,frame > text,frame 0030.jpg in video 04510 at 00:00:14:00 (Frame #362)  >  ,{},vibro
-vbse045,vibro2,2,1668174224000,127025.0,190081.0,9.0,108.0,75.0,TEMPORAL,frame > text,frame 0030.jpg in video 04510 at 00:00:14:00 (Frame #362)  >  ,{},vibro
-vbse045,vibro2,2,1668174242000,145025.0,190081.0,13.0,40.0,21.0,TEMPORAL,text > text,Large old tree with lots of leaves on the ground.  >  ,{},vibro
-vbse045,vibro2,2,1668174250000,153025.0,190081.0,36.0,36.0,36.0,IMAGE,globalFeatures, video 05971 at 00:03:31:00 (Frame #5064),{},vibro
-vbse045,vibro2,2,1668174251000,154025.0,190081.0,6.0,38.0,19.0,TEMPORAL,frame > text,frame 0423.jpg in video 05971 at 00:03:31:00 (Frame #5064)  >  ,{},vibro
-vbse046,vibro2,2,1668174476000,1927.0,155197.0,inf,inf,inf,TEXT,jointEmbedding,Close-up of a singer of whom you cannot see the mouth.,{},vibro
-vbse046,vibro2,2,1668174498000,23927.0,155197.0,inf,inf,inf,IMAGE,globalFeatures, video 07792 at 00:03:19:00 (Frame #4975),{},vibro
-vbse046,vibro2,2,1668174502000,27927.0,155197.0,7605.0,inf,inf,IMAGE,globalFeatures, video 07792 at 00:03:19:00 (Frame #4975),{},vibro
-vbse046,vibro2,2,1668174509000,34927.0,155197.0,inf,inf,inf,IMAGE,globalFeatures, video 13219 at 00:02:33:00 (Frame #4600),{},vibro
-vbse046,vibro2,2,1668174511000,36927.0,155197.0,6958.0,inf,inf,IMAGE,globalFeatures, video 13219 at 00:02:33:00 (Frame #4600),{},vibro
-vbse046,vibro2,2,1668174528000,53927.0,155197.0,inf,inf,inf,IMAGE,globalFeatures, video 13219 at 00:02:33:00 (Frame #4600),{},vibro
-vbse046,vibro2,2,1668174533000,58927.0,155197.0,inf,inf,inf,TEXT,jointEmbedding,Close-up of a singer of seeing only the eyes.,{},vibro
-vbse046,vibro2,2,1668174540000,65927.0,155197.0,2297.0,inf,inf,IMAGE,globalFeatures, video 04993 at 00:06:47:00 (Frame #9768),{},vibro
-vbse046,vibro2,2,1668174545000,70927.0,155197.0,145.0,inf,inf,IMAGE,globalFeatures, video 08097 at 00:11:55:00 (Frame #17154),{},vibro
-vbse046,vibro2,2,1668174560000,85927.0,155197.0,322.0,inf,322.0,IMAGE,globalFeatures, video 05690 at 00:00:43:00 (Frame #1075),{},vibro
-vbse046,vibro2,2,1668174573000,98927.0,155197.0,479.0,inf,494.0,IMAGE,globalFeatures, video 11964 at 00:21:01:00 (Frame #31525),{},vibro
-vbse046,vibro2,2,1668174583000,108927.0,155197.0,95.0,inf,95.0,IMAGE,globalFeatures, video 14771 at 00:00:17:00 (Frame #425),{},vibro
-vbse047,vibro2,2,1668174958000,1795.0,42445.0,432.0,inf,432.0,TEXT,jointEmbedding,A fir tree with a blurred lake in the background.,{},vibro
-vbse047,vibro2,2,1668174968000,11795.0,42445.0,118.0,inf,118.0,IMAGE,globalFeatures, video 01810 at 00:02:53:00 (Frame #5199),{},vibro
-vbse047,vibro2,2,1668174972000,15795.0,42445.0,28.0,inf,28.0,IMAGE,globalFeatures, video 01810 at 00:02:53:00 (Frame #5199),{},vibro
-vbse047,vibro2,2,1668174984000,27795.0,42445.0,5.0,5.0,5.0,IMAGE,globalFeatures, video 11432 at 00:05:35:00 (Frame #8375),{},vibro
-vbse048,vibro2,2,1668176176000,1619.0,51752.0,65.0,inf,896.0,TEXT,jointEmbedding,A zoom-in to large old mushroom-shaped trees.,{},vibro
-vbse049,vibro2,2,1668176374000,3293.0,99922.0,216.0,inf,1796.0,TEXT,jointEmbedding,A man in a white t-shirt playing guitar and singing,{},vibro
-vbse049,vibro2,2,1668176391000,20293.0,99922.0,3033.0,inf,6998.0,IMAGE,globalFeatures, video 02575 at 00:01:39:00 (Frame #2487),{},vibro
-vbse049,vibro2,2,1668176392000,21293.0,99922.0,329.0,inf,2494.0,IMAGE,globalFeatures, video 02575 at 00:01:39:00 (Frame #2487),{},vibro
-vbse049,vibro2,2,1668176440000,69293.0,99922.0,705.0,inf,2215.0,IMAGE,globalFeatures, video 09514 at 00:00:56:00 (Frame #1680),{},vibro
-vbse049,vibro2,2,1668176454000,83293.0,99922.0,10.0,inf,25.0,IMAGE,globalFeatures, video 09514 at 00:00:56:00 (Frame #1680),{},vibro
-vbse050,vibro2,2,1668176621000,1612.0,33920.0,14.0,3112.0,3112.0,TEXT,jointEmbedding,A man in black clothes is introducing a camera stand.,{},vibro
-vbse051,vibro2,2,1668176820000,2139.0,89734.0,19.0,51.0,51.0,TEXT,jointEmbedding,A man is setting up a starting ramp for a model airplane.,{},vibro
-vbse051,vibro2,2,1668176834000,16139.0,89734.0,62.0,inf,1272.0,IMAGE,globalFeatures, video 16395 at 00:32:02:00 (Frame #48062),{},vibro
-vbse051,vibro2,2,1668176839000,21139.0,89734.0,47.0,47.0,47.0,IMAGE,globalFeatures, video 16395 at 00:32:02:00 (Frame #48062),{},vibro
-vbse051,vibro2,2,1668176863000,45139.0,89734.0,62.0,inf,1272.0,IMAGE,globalFeatures, video 16395 at 00:32:02:00 (Frame #48062),{},vibro
-vbse051,vibro2,2,1668176868000,50139.0,89734.0,19.0,51.0,51.0,TEXT,jointEmbedding,A man is setting up a starting ramp for a model airplane.,{},vibro
-vbse052,vibro2,2,1668177141000,1395.0,56668.0,38.0,inf,81.0,TEXT,jointEmbedding,Buildings carved into large rocks.,{},vibro
-vbse052,vibro2,2,1668177171000,31395.0,56668.0,1.0,3.0,1.0,IMAGE,globalFeatures, video 14080 at 00:02:31:00 (Frame #4525),{},vibro
-vbse052,vibro2,2,1668177177000,37395.0,56668.0,1.0,7.0,5.0,IMAGE,globalFeatures, video 14080 at 00:04:05:00 (Frame #7342),{},vibro
-vbse052,vibro2,2,1668177181000,41395.0,56668.0,1.0,5.0,3.0,IMAGE,globalFeatures, video 14080 at 00:04:05:00 (Frame #7342),{},vibro
-vbse052,vibro2,2,1668177182000,42395.0,56668.0,1.0,5.0,3.0,IMAGE,globalFeatures, video 14080 at 00:04:05:00 (Frame #7342),{},vibro
-vbse053,vibro2,2,1668177343000,1695.0,47428.0,45.0,inf,326.0,TEXT,jointEmbedding,A group of rappers singing and dancing outside.,{},vibro
-vbse053,vibro2,2,1668177367000,25695.0,47428.0,3.0,inf,7.0,IMAGE,globalFeatures, video 14844 at 00:00:43:00 (Frame #1042),{},vibro
-vbse054,vibro2,2,1668177659000,2412.0,80220.0,630.0,inf,951.0,TEXT,jointEmbedding,First-person view of a mountainbike downhill race.,{},vibro
-vbse054,vibro2,2,1668177672000,15412.0,80220.0,113.0,inf,inf,IMAGE,globalFeatures, video 02113 at 00:02:17:00 (Frame #4120),{},vibro
-vbse054,vibro2,2,1668177683000,26412.0,80220.0,14.0,inf,35.0,IMAGE,globalFeatures, video 02113 at 00:01:08:00 (Frame #2052),{},vibro
-vbse054,vibro2,2,1668177686000,29412.0,80220.0,1.0,inf,inf,IMAGE,globalFeatures, video 10701 at 00:01:37:00 (Frame #2425),{},vibro
-vbse055,vibro2,2,1668177986000,2089.0,48415.0,2.0,inf,inf,TEXT,jointEmbedding,Close-up of a diving duck.,{},vibro
-vbse055,vibro2,2,1668177990000,6089.0,48415.0,1.0,inf,inf,IMAGE,globalFeatures, video 03662 at 00:02:51:00 (Frame #4287),{},vibro
-vbse056,vibro2,2,1668178324000,2300.0,,582.0,3020.0,3020.0,TEXT,jointEmbedding,Two sisters sitting at a small table and introducing theirselves.,{},vibro
-vbse056,vibro2,2,1668178344000,22300.0,,inf,inf,inf,IMAGE,globalFeatures, video 01512 at 00:08:28:00 (Frame #15224),{},vibro
-vbse056,vibro2,2,1668178347000,25300.0,,6531.0,inf,inf,IMAGE,globalFeatures, video 01512 at 00:08:28:00 (Frame #15224),{},vibro
-vbse056,vibro2,2,1668178351000,29300.0,,1404.0,8490.0,8490.0,IMAGE,globalFeatures, video 01512 at 00:08:28:00 (Frame #15224),{},vibro
-vbse056,vibro2,2,1668178356000,34300.0,,inf,inf,inf,IMAGE,globalFeatures, video 06886 at 00:02:01:00 (Frame #2901),{},vibro
-vbse056,vibro2,2,1668178357000,35300.0,,1711.0,7889.0,7889.0,IMAGE,globalFeatures, video 06886 at 00:02:01:00 (Frame #2901),{},vibro
-vbse056,vibro2,2,1668178359000,37300.0,,inf,inf,inf,IMAGE,globalFeatures, video 06886 at 00:02:01:00 (Frame #2901),{},vibro
-vbse056,vibro2,2,1668178368000,46300.0,,108.0,2728.0,1943.0,IMAGE,globalFeatures, video 06886 at 00:02:01:00 (Frame #2901),{},vibro
-vbse056,vibro2,2,1668178378000,56300.0,,240.0,4048.0,2819.0,IMAGE,globalFeatures, video 06886 at 00:02:01:00 (Frame #2901),{},vibro
-vbse056,vibro2,2,1668178382000,60300.0,,240.0,4048.0,2819.0,TEXT,jointEmbedding,Two woman sitting at a small table and in front of a picture.,{},vibro
-vbse056,vibro2,2,1668178385000,63300.0,,240.0,4048.0,2819.0,TEXT,jointEmbedding,Two woman sitting at a small table and in front of a picture.,{},vibro
-vbse056,vibro2,2,1668178392000,70300.0,,422.0,6207.0,4581.0,TEXT,jointEmbedding,Two woman sitting at a table in front of a picture.,{},vibro
-vbse056,vibro2,2,1668178398000,76300.0,,208.0,3690.0,3426.0,TEXT,jointEmbedding,Two woman sitting at a table in front of a frame.,{},vibro
-vbse056,vibro2,2,1668178414000,92300.0,,inf,inf,inf,IMAGE,globalFeatures, video 01889 at 00:02:42:00 (Frame #3900),{},vibro
-vbse056,vibro2,2,1668178417000,95300.0,,749.0,7487.0,6802.0,IMAGE,globalFeatures, video 01889 at 00:02:42:00 (Frame #3900),{},vibro
-vbse056,vibro2,2,1668178422000,100300.0,,201.0,3402.0,3140.0,IMAGE,globalFeatures, video 01889 at 00:02:42:00 (Frame #3900),{},vibro
-vbse056,vibro2,2,1668178440000,118300.0,,204.0,1199.0,942.0,IMAGE,globalFeatures, video 01889 at 00:02:42:00 (Frame #3900),{},vibro
-vbse056,vibro2,2,1668178462000,140300.0,,205.0,730.0,579.0,IMAGE,globalFeatures, video 01889 at 00:02:42:00 (Frame #3900),{},vibro
-vbse056,vibro2,2,1668178483000,161300.0,,inf,inf,inf,IMAGE,globalFeatures, video 11195 at 00:28:36:00 (Frame #42900),{},vibro
-vbse056,vibro2,2,1668178486000,164300.0,,185.0,572.0,572.0,IMAGE,globalFeatures, video 11195 at 00:28:36:00 (Frame #42900),{},vibro
-vbse056,vibro2,2,1668178488000,166300.0,,186.0,626.0,567.0,IMAGE,globalFeatures, video 11195 at 00:28:36:00 (Frame #42900),{},vibro
-vbse056,vibro2,2,1668178492000,170300.0,,222.0,682.0,486.0,IMAGE,globalFeatures, video 11195 at 00:28:36:00 (Frame #42900),{},vibro
-vbse056,vibro2,2,1668178496000,174300.0,,222.0,682.0,486.0,TEXT,jointEmbedding,Two woman sitting in front of a white picture frame.,{},vibro
-vbse056,vibro2,2,1668178515000,193300.0,,2786.0,4782.0,4782.0,TEXT,jointEmbedding,Two sisters sitting at a small table with a white wall and black curtains.,{},vibro
-vbse056,vibro2,2,1668178539000,217300.0,,1826.0,3837.0,3837.0,TEXT,jointEmbedding,Two sisters at a small table with a white wall and black curtains.,{},vibro
-vbse056,vibro2,2,1668178542000,220300.0,,1695.0,4749.0,4749.0,TEXT,jointEmbedding,Two sisters at a table with a white wall and black curtains.,{},vibro
-vbse056,vibro2,2,1668178554000,232300.0,,1113.0,inf,inf,TEXT,jointEmbedding,Two woman at a table with a white wall and black curtains.,{},vibro
-vbse056,vibro2,2,1668178559000,237300.0,,inf,inf,inf,IMAGE,globalFeatures, video 11122 at 00:01:57:00 (Frame #2937),{},vibro
-vbse056,vibro2,2,1668178565000,243300.0,,1028.0,9069.0,9069.0,IMAGE,globalFeatures, video 11122 at 00:01:57:00 (Frame #2937),{},vibro
-vbse056,vibro2,2,1668178590000,268300.0,,inf,inf,inf,IMAGE,globalFeatures, video 09449 at 00:04:15:00 (Frame #6375),{},vibro
-vbse056,vibro2,2,1668178591000,269300.0,,2526.0,inf,inf,IMAGE,globalFeatures, video 09449 at 00:04:15:00 (Frame #6375),{},vibro
-vbse056,vibro2,2,1668178594000,272300.0,,1290.0,inf,inf,IMAGE,globalFeatures, video 09449 at 00:04:15:00 (Frame #6375),{},vibro
-vbse056,vibro2,2,1668178601000,279300.0,,inf,inf,inf,IMAGE,globalFeatures, video 05451 at 00:02:06:00 (Frame #3032),{},vibro
-vbse056,vibro2,2,1668178603000,281300.0,,856.0,8596.0,8595.0,IMAGE,globalFeatures, video 05451 at 00:02:06:00 (Frame #3032),{},vibro
-vbse056,vibro2,2,1668178609000,287300.0,,inf,inf,inf,IMAGE,globalFeatures, video 11697 at 00:03:27:00 (Frame #5175),{},vibro
-vbse056,vibro2,2,1668178612000,290300.0,,1679.0,inf,inf,IMAGE,globalFeatures, video 11697 at 00:03:27:00 (Frame #5175),{},vibro
-vbse056,vibro2,2,1668178613000,291300.0,,1645.0,inf,inf,IMAGE,globalFeatures, video 11697 at 00:03:27:00 (Frame #5175),{},vibro
-vbse057,vibro2,2,1668178650000,1157.0,229892.0,9617.0,inf,inf,TEXT,jointEmbedding,Two woman in front of a white picture and black curtains.,{},vibro
-vbse057,vibro2,2,1668178655000,6157.0,229892.0,inf,inf,inf,TEXT,jointEmbedding,Extremely zoomed recording of some written content.,{},vibro
-vbse057,vibro2,2,1668178663000,14157.0,229892.0,8602.0,inf,inf,IMAGE,globalFeatures, video 15603 at 00:00:26:00 (Frame #636),{},vibro
-vbse057,vibro2,2,1668178665000,16157.0,229892.0,3857.0,inf,inf,SKETCH,color,color,{},vibro
-vbse057,vibro2,2,1668178667000,18157.0,229892.0,8602.0,inf,inf,IMAGE,globalFeatures, video 15603 at 00:00:26:00 (Frame #636),{},vibro
-vbse057,vibro2,2,1668178670000,21157.0,229892.0,3970.0,inf,inf,SKETCH,color,color,{},vibro
-vbse057,vibro2,2,1668178673000,24157.0,229892.0,8602.0,inf,inf,IMAGE,globalFeatures, video 15603 at 00:00:26:00 (Frame #636),{},vibro
-vbse057,vibro2,2,1668178677000,28157.0,229892.0,2177.0,inf,inf,IMAGE,globalFeatures, video 15603 at 00:00:26:00 (Frame #636),{},vibro
-vbse057,vibro2,2,1668178679000,30157.0,229892.0,inf,inf,inf,IMAGE,globalFeatures, video 01088 at 00:03:37:00 (Frame #6503),{},vibro
-vbse057,vibro2,2,1668178682000,33157.0,229892.0,inf,inf,inf,IMAGE,globalFeatures, video 01088 at 00:03:37:00 (Frame #6503),{},vibro
-vbse057,vibro2,2,1668178684000,35157.0,229892.0,inf,inf,inf,IMAGE,globalFeatures, video 01088 at 00:03:37:00 (Frame #6503),{},vibro
-vbse057,vibro2,2,1668178697000,48157.0,229892.0,15.0,inf,8662.0,IMAGE,globalFeatures, video 08973 at 00:02:56:00 (Frame #5274),{},vibro
-vbse057,vibro2,2,1668178704000,55157.0,229892.0,inf,inf,inf,IMAGE,globalFeatures, video 08973 at 00:02:56:00 (Frame #5274),{},vibro
-vbse057,vibro2,2,1668178708000,59157.0,229892.0,inf,inf,inf,IMAGE,globalFeatures, video 08973 at 00:02:56:00 (Frame #5274),{},vibro
-vbse057,vibro2,2,1668178713000,64157.0,229892.0,5679.0,inf,inf,IMAGE,globalFeatures, video 08973 at 00:02:56:00 (Frame #5274),{},vibro
-vbse057,vibro2,2,1668178716000,67157.0,229892.0,1959.0,inf,inf,IMAGE,globalFeatures, video 08973 at 00:02:56:00 (Frame #5274),{},vibro
-vbse057,vibro2,2,1668178725000,76157.0,229892.0,975.0,inf,7633.0,IMAGE,globalFeatures, video 08973 at 00:03:47:00 (Frame #6818),{},vibro
-vbse057,vibro2,2,1668178729000,80157.0,229892.0,1325.0,inf,inf,IMAGE,globalFeatures, video 08973 at 00:03:47:00 (Frame #6818),{},vibro
-vbse057,vibro2,2,1668178742000,93157.0,229892.0,180.0,inf,inf,IMAGE,globalFeatures, video 08973 at 00:03:47:00 (Frame #6818),{},vibro
-vbse057,vibro2,2,1668178764000,115157.0,229892.0,151.0,3242.0,3242.0,IMAGE,globalFeatures, video 08973 at 00:03:47:00 (Frame #6818),{},vibro
-vbse057,vibro2,2,1668178770000,121157.0,229892.0,79.0,inf,1416.0,IMAGE,globalFeatures, video 04731 at 00:00:05:00 (Frame #125),{},vibro
-vbse057,vibro2,2,1668178773000,124157.0,229892.0,60.0,364.0,364.0,IMAGE,globalFeatures, video 04731 at 00:00:05:00 (Frame #125),{},vibro
-vbse057,vibro2,2,1668178778000,129157.0,229892.0,inf,inf,inf,IMAGE,globalFeatures, video 04731 at 00:00:05:00 (Frame #125),{},vibro
-vbse057,vibro2,2,1668178780000,131157.0,229892.0,1630.0,inf,inf,IMAGE,globalFeatures, video 04731 at 00:00:05:00 (Frame #125),{},vibro
-vbse057,vibro2,2,1668178789000,140157.0,229892.0,928.0,inf,3238.0,IMAGE,globalFeatures, video 09286 at 00:01:13:00 (Frame #1837),{},vibro
-vbse057,vibro2,2,1668178794000,145157.0,229892.0,inf,inf,inf,IMAGE,globalFeatures, video 09286 at 00:01:13:00 (Frame #1837),{},vibro
-vbse057,vibro2,2,1668178797000,148157.0,229892.0,5598.0,inf,5996.0,IMAGE,globalFeatures, video 09286 at 00:01:13:00 (Frame #1837),{},vibro
-vbse057,vibro2,2,1668178847000,198157.0,229892.0,11.0,inf,163.0,IMAGE,globalFeatures, video 09143 at 00:06:01:00 (Frame #8667),{},vibro
-vbse057,vibro2,2,1668178864000,215157.0,229892.0,1.0,2.0,2.0,IMAGE,globalFeatures, video 11836 at 00:03:11:00 (Frame #5739),{},vibro
-vbse058,vibro2,2,1668178986000,1900.0,,87.0,inf,87.0,TEXT,jointEmbedding,A freestyle downhill skier jumping down rocks between trees.,{},vibro
-vbse058,vibro2,2,1668178991000,6900.0,,505.0,1035.0,623.0,IMAGE,globalFeatures, video 09291 at 00:04:11:00 (Frame #7530),{},vibro
-vbse058,vibro2,2,1668179011000,26900.0,,1642.0,1901.0,1642.0,TEMPORAL,text > text,A freestyle downhill skier jumping down rocks between trees.  >  ,{},vibro
-vbse058,vibro2,2,1668179046000,61900.0,,53.0,503.0,53.0,IMAGE,globalFeatures, video 05223 at 00:01:12:00 (Frame #1812),{},vibro
-vbse058,vibro2,2,1668179047000,62900.0,,1110.0,1110.0,1110.0,TEMPORAL,text > text,A freestyle downhill skier jumping down rocks between trees.  >  ,{},vibro
-vbse058,vibro2,2,1668179087000,102900.0,,631.0,1493.0,631.0,TEMPORAL,frame > text,frame 0146.jpg in video 05223 at 00:01:12:00 (Frame #1812)  >  ,{},vibro
-vbse058,vibro2,2,1668179107000,122900.0,,583.0,583.0,583.0,TEMPORAL,text > text,A freestyle downhill skier  between trees.  >  ,{},vibro
-vbse058,vibro2,2,1668179120000,135900.0,,415.0,562.0,562.0,TEMPORAL,text > text,A freestyle downhill skier  between trees.  >  ,{},vibro
-vbse058,vibro2,2,1668179140000,155900.0,,14.0,14.0,14.0,IMAGE,globalFeatures, video 07895 at 00:03:24:00 (Frame #5112),{},vibro
-vbse058,vibro2,2,1668179141000,156900.0,,41.0,104.0,104.0,TEMPORAL,text > text,A freestyle downhill skier  between trees.  >  ,{},vibro
-vbse058,vibro2,2,1668179163000,178900.0,,57.0,57.0,57.0,IMAGE,globalFeatures, video 07895 at 00:03:24:00 (Frame #5112),{},vibro
-vbse058,vibro2,2,1668179164000,179900.0,,139.0,1331.0,234.0,TEMPORAL,frame > text,frame 0410.jpg in video 07895 at 00:03:24:00 (Frame #5112)  >  ,{},vibro
-vbse058,vibro2,2,1668179182000,197900.0,,129.0,496.0,496.0,TEMPORAL,text > text,A freestyle downhill skier  between trees and blue sky  >  ,{},vibro
-vbse058,vibro2,2,1668179200000,215900.0,,339.0,339.0,339.0,IMAGE,globalFeatures, video 16004 at 00:02:18:00 (Frame #4135),{},vibro
-vbse058,vibro2,2,1668179201000,216900.0,,115.0,126.0,115.0,TEMPORAL,text > text,A freestyle downhill skier  between trees and blue sky  >  ,{},vibro
-vbse058,vibro2,2,1668179227000,242900.0,,86.0,86.0,86.0,TEMPORAL,text > text,A freestyle downhill skier  between trees and blue sky  >  ,{},vibro
-vbse058,vibro2,2,1668179248000,263900.0,,18.0,2643.0,18.0,TEMPORAL,text > text,A freestyle downhill skier  between trees and blue sky  >  ,{},vibro
-vbse058,vibro2,2,1668179264000,279900.0,,57.0,292.0,57.0,TEMPORAL,text > text,A freestyle downhill skier  between trees and blue sky  >  ,{},vibro
-vbse059,vibro2,2,1668179391000,2697.0,200939.0,79.0,863.0,492.0,TEXT,jointEmbedding,A skier flying down a mountain with a parachute.,{},vibro
-vbse059,vibro2,2,1668179401000,12697.0,200939.0,1199.0,1199.0,1199.0,IMAGE,globalFeatures, video 14730 at 00:04:34:00 (Frame #8211),{},vibro
-vbse059,vibro2,2,1668179407000,18697.0,200939.0,169.0,615.0,373.0,IMAGE,globalFeatures, video 14730 at 00:04:34:00 (Frame #8211),{},vibro
-vbse059,vibro2,2,1668179472000,83697.0,200939.0,3952.0,inf,inf,TEXT,jointEmbedding,Two skies flying down a mountain.,{},vibro
-vbse059,vibro2,2,1668179482000,93697.0,200939.0,3757.0,6586.0,6586.0,TEXT,jointEmbedding,Two skies flying down a show mountain.,{},vibro
-vbse059,vibro2,2,1668179496000,107697.0,200939.0,2068.0,6700.0,3794.0,IMAGE,globalFeatures, video 11749 at 00:04:16:00 (Frame #7687),{},vibro
-vbse059,vibro2,2,1668179497000,108697.0,200939.0,2231.0,2817.0,2817.0,TEMPORAL,frame > text,frame 0549.jpg in video 14730 at 00:04:34:00 (Frame #8211)  >  Two skies flying down a show mountain.,{},vibro
-vbse059,vibro2,2,1668179522000,133697.0,200939.0,3018.0,4143.0,4143.0,TEMPORAL,frame > text,frame 0549.jpg in video 14730 at 00:04:34:00 (Frame #8211)  >  Two skies flying down a show mountain.,{},vibro
-vbse059,vibro2,2,1668179546000,157697.0,200939.0,2607.0,2607.0,2607.0,TEMPORAL,frame > text,frame 0549.jpg in video 14730 at 00:04:34:00 (Frame #8211)  >  Two skies flying down a show mountain.,{},vibro
-vbse060,vibro2,2,1668179728000,1787.0,69282.0,9.0,inf,192.0,TEXT,jointEmbedding,A crowd of people sitting in a cinema / theatre.,{},vibro
-vbse060,vibro2,2,1668179736000,9787.0,69282.0,750.0,750.0,750.0,IMAGE,globalFeatures, video 02825 at 00:05:40:00 (Frame #8512),{},vibro
-vbse060,vibro2,2,1668179741000,14787.0,69282.0,97.0,97.0,97.0,IMAGE,globalFeatures, video 02825 at 00:05:40:00 (Frame #8512),{},vibro
-vbse060,vibro2,2,1668179749000,22787.0,69282.0,520.0,inf,520.0,IMAGE,globalFeatures, video 08324 at 00:03:24:00 (Frame #5100),{},vibro
-vbse060,vibro2,2,1668179753000,26787.0,69282.0,67.0,67.0,67.0,IMAGE,globalFeatures, video 08324 at 00:03:24:00 (Frame #5100),{},vibro
-vbse060,vibro2,2,1668179762000,35787.0,69282.0,6950.0,6950.0,6950.0,IMAGE,globalFeatures, video 15768 at 00:02:59:00 (Frame #4291),{},vibro
-vbse060,vibro2,2,1668179764000,37787.0,69282.0,261.0,261.0,261.0,IMAGE,globalFeatures, video 15768 at 00:02:59:00 (Frame #4291),{},vibro
-vbse060,vibro2,2,1668179784000,57787.0,69282.0,188.0,610.0,188.0,TEXT,jointEmbedding,The light of a movie lense in the dark.,{},vibro
+task,team,user,timestamp,elapsed_since_task_start_ms,correct_submission_time_ms,rank_video,rank_shot_margin_0,rank_shot_margin_5,max_rank,category,type,value,additionals,teamFamily
+vbse001,vibro2,2,1668157255000,6633.0,64518.0,47.0,47.0,47.0,10000.0,TEXT,jointEmbedding,A woman holding a steaming mug close to the camera.,{},vibro
+vbse001,vibro2,2,1668157303000,54633.0,64518.0,25.0,25.0,25.0,10000.0,TEXT,jointEmbedding,A woman holding a steaming mug ,{},vibro
+vbse002,vibro2,2,1668157577000,5026.0,145872.0,inf,inf,inf,10000.0,TEXT,jointEmbedding,Viewer moving fast backwards on railway tracks.,{},vibro
+vbse002,vibro2,2,1668157594000,22026.0,145872.0,1281.0,1281.0,1281.0,10000.0,IMAGE,globalFeatures, video 01814 at 00:26:35:50 (Frame #47865),{},vibro
+vbse002,vibro2,2,1668157604000,32026.0,145872.0,4343.0,4343.0,4343.0,10000.0,IMAGE,globalFeatures, video 11588 at 00:09:24:00 (Frame #8460),{},vibro
+vbse002,vibro2,2,1668157615000,43026.0,145872.0,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 11588 at 00:09:24:00 (Frame #8460),{},vibro
+vbse002,vibro2,2,1668157620000,48026.0,145872.0,4343.0,4343.0,4343.0,10000.0,IMAGE,globalFeatures, video 11588 at 00:09:24:00 (Frame #8460),{},vibro
+vbse002,vibro2,2,1668157629000,57026.0,145872.0,1123.0,1123.0,1123.0,10000.0,IMAGE,globalFeatures, video 11588 at 00:09:24:00 (Frame #8460),{},vibro
+vbse002,vibro2,2,1668157639000,67026.0,145872.0,737.0,737.0,737.0,10000.0,IMAGE,globalFeatures, video 10335 at 00:27:52:50 (Frame #41812),{},vibro
+vbse002,vibro2,2,1668157642000,70026.0,145872.0,1123.0,1123.0,1123.0,10000.0,IMAGE,globalFeatures, video 11588 at 00:09:24:00 (Frame #8460),{},vibro
+vbse002,vibro2,2,1668157653000,81026.0,145872.0,2018.0,2018.0,2018.0,10000.0,IMAGE,globalFeatures, video 14665 at 00:08:58:50 (Frame #13462),{},vibro
+vbse002,vibro2,2,1668157656000,84026.0,145872.0,1123.0,1123.0,1123.0,10000.0,IMAGE,globalFeatures, video 11588 at 00:09:24:00 (Frame #8460),{},vibro
+vbse002,vibro2,2,1668157658000,86026.0,145872.0,233.0,233.0,233.0,10000.0,IMAGE,globalFeatures, video 06568 at 00:01:42:00 (Frame #3056),{},vibro
+vbse002,vibro2,2,1668157668000,96026.0,145872.0,1123.0,1123.0,1123.0,10000.0,IMAGE,globalFeatures, video 11588 at 00:09:24:00 (Frame #8460),{},vibro
+vbse002,vibro2,2,1668157685000,113026.0,145872.0,4.0,4.0,4.0,10000.0,IMAGE,globalFeatures, video 04858 at 00:00:03:50 (Frame #105),{},vibro
+vbse002,vibro2,2,1668157704000,132026.0,145872.0,1.0,1.0,1.0,10000.0,IMAGE,globalFeatures, video 16670 at 00:03:30:50 (Frame #5262),{},vibro
+vbse003,vibro2,2,1668157945000,2423.0,67960.0,4.0,inf,inf,10000.0,TEXT,jointEmbedding,Close-up shot of water waves reflecting the sun.,{},vibro
+vbse003,vibro2,2,1668157951000,8423.0,67960.0,1.0,inf,4.0,10000.0,IMAGE,globalFeatures, video 11237 at 00:02:41:00 (Frame #3864),{},vibro
+vbse003,vibro2,2,1668157991000,48423.0,67960.0,1.0,inf,1.0,10000.0,IMAGE,globalFeatures, video 11237 at 00:02:00:50 (Frame #2892),{},vibro
+vbse004,vibro2,2,1668158278000,3413.0,13730.0,6.0,6.0,6.0,10000.0,TEXT,jointEmbedding,A woman having a mobile phone call in bed,{},vibro
+vbse005,vibro2,2,1668158404000,2187.0,16120.0,1.0,inf,1.0,10000.0,TEXT,jointEmbedding,A red seaplane on a lake with forests around.,{},vibro
+vbse006,vibro2,2,1668158459000,2721.0,33321.0,10.0,10.0,10.0,10000.0,TEXT,jointEmbedding,Woman in yellow shirt standing in a room with a yellow sofa.,{},vibro
+vbse007,vibro2,2,1668158712000,6410.0,15017.0,27.0,27.0,27.0,10000.0,TEXT,jointEmbedding,Four people waving on a mountain summit.,{},vibro
+vbse008,vibro2,2,1668158777000,5061.0,126593.0,21.0,876.0,876.0,10000.0,TEXT,jointEmbedding,A white van driving between ruins.,{},vibro
+vbse008,vibro2,2,1668158815000,43061.0,126593.0,524.0,2120.0,2120.0,10000.0,IMAGE,globalFeatures, video 11062 at 00:03:29:50 (Frame #6278),{},vibro
+vbse008,vibro2,2,1668158818000,46061.0,126593.0,48.0,469.0,469.0,10000.0,IMAGE,globalFeatures, video 11062 at 00:03:29:50 (Frame #6278),{},vibro
+vbse008,vibro2,2,1668158840000,68061.0,126593.0,131.0,199.0,199.0,10000.0,IMAGE,globalFeatures, video 11062 at 00:03:29:50 (Frame #6278),{},vibro
+vbse008,vibro2,2,1668158865000,93061.0,126593.0,75.0,75.0,75.0,10000.0,IMAGE,globalFeatures, video 11062 at 00:03:29:50 (Frame #6278),{},vibro
+vbse008,vibro2,2,1668158875000,103061.0,126593.0,59.0,6313.0,4594.0,10000.0,IMAGE,globalFeatures, video 14123 at 00:01:07:50 (Frame #1687),{},vibro
+vbse008,vibro2,2,1668158893000,121061.0,126593.0,1.0,1.0,1.0,10000.0,IMAGE,globalFeatures, video 14123 at 00:01:07:50 (Frame #1687),{},vibro
+vbse009,vibro2,2,1668159099000,2928.0,48642.0,99.0,inf,99.0,10000.0,IMAGE,globalFeatures, video 14123 at 00:01:07:50 (Frame #1687),{},vibro
+vbse009,vibro2,2,1668159132000,35928.0,48642.0,26.0,26.0,26.0,10000.0,IMAGE,globalFeatures, video 04650 at 00:06:31:00 (Frame #9384),{},vibro
+vbse010,vibro2,2,1668159232000,5517.0,181539.0,251.0,251.0,251.0,10000.0,TEXT,jointEmbedding,People dancing and drumming on the street at night.,{},vibro
+vbse010,vibro2,2,1668159275000,48517.0,181539.0,4115.0,4115.0,4115.0,10000.0,IMAGE,globalFeatures, video 15312 at 00:02:46:00 (Frame #9950),{},vibro
+vbse010,vibro2,2,1668159291000,64517.0,181539.0,5870.0,5870.0,5870.0,10000.0,IMAGE,globalFeatures, video 08248 at 00:04:57:50 (Frame #7132),{},vibro
+vbse010,vibro2,2,1668159295000,68517.0,181539.0,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 15312 at 00:02:46:00 (Frame #9950),{},vibro
+vbse010,vibro2,2,1668159305000,78517.0,181539.0,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 08248 at 00:04:57:50 (Frame #7132),{},vibro
+vbse010,vibro2,2,1668159315000,88517.0,181539.0,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 15312 at 00:02:46:00 (Frame #9950),{},vibro
+vbse010,vibro2,2,1668159325000,98517.0,181539.0,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 13813 at 00:00:34:50 (Frame #828),{},vibro
+vbse010,vibro2,2,1668159334000,107517.0,181539.0,1542.0,1542.0,1542.0,10000.0,IMAGE,globalFeatures, video 13813 at 00:00:34:50 (Frame #828),{},vibro
+vbse010,vibro2,2,1668159363000,136517.0,181539.0,2426.0,2426.0,2426.0,10000.0,TEXT,jointEmbedding,Woman dancing on the street at night.,{},vibro
+vbse010,vibro2,2,1668159367000,140517.0,181539.0,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 03912 at 00:06:54:50 (Frame #9948),{},vibro
+vbse010,vibro2,2,1668159368000,141517.0,181539.0,inf,inf,inf,10000.0,TEMPORAL,frame > text,frame 0070.jpg in video 13813 at 00:00:34:50 (Frame #828)  >  Woman dancing on the street at night.,{},vibro
+vbse010,vibro2,2,1668159387000,160517.0,181539.0,24.0,222.0,222.0,10000.0,TEMPORAL,frame > frame,frame 0070.jpg in video 13813 at 00:00:34:50 (Frame #828)  >  frame 0830.jpg in video 03912 at 00:06:54:50 (Frame #9948),{},vibro
+vbse010,vibro2,2,1668159390000,163517.0,181539.0,1.0,inf,inf,10000.0,TEMPORAL,frame > text,frame 0070.jpg in video 13813 at 00:00:34:50 (Frame #828)  >  lemondequiteourne,{},vibro
+vbse012,vibro2,2,1668159648000,5808.0,43101.0,55.0,62.0,62.0,10000.0,TEXT,jointEmbedding,View of a volcano with clouds moving in from the right.,{},vibro
+vbse012,vibro2,2,1668159663000,20808.0,43101.0,90.0,90.0,90.0,10000.0,IMAGE,globalFeatures, video 03914 at 00:02:16:00 (Frame #3260),{},vibro
+vbse013,vibro2,2,1668160029000,4042.0,,9463.0,inf,inf,10000.0,TEXT,jointEmbedding,Flashing shots of a man on a bed and in front of a wall.,{},vibro
+vbse013,vibro2,2,1668160058000,33042.0,,2367.0,2367.0,2367.0,10000.0,IMAGE,globalFeatures, video 09225 at 00:17:10:00 (Frame #30869),{},vibro
+vbse013,vibro2,2,1668160079000,54042.0,,inf,inf,inf,10000.0,TEXT,jointEmbedding,Men in front of a wall.,{},vibro
+vbse013,vibro2,2,1668160089000,64042.0,,2650.0,inf,inf,10000.0,TEXT,jointEmbedding,Men in front of a wall in the dark,{},vibro
+vbse013,vibro2,2,1668160095000,70042.0,,2438.0,inf,inf,10000.0,TEMPORAL,text > text,Flashing shots of a man on a bed and in front of a wall.  >  Men in front of a wall in the dark,{},vibro
+vbse013,vibro2,2,1668160116000,91042.0,,3346.0,8811.0,8811.0,10000.0,TEMPORAL,text > text,Flashing shots of a man on a bed and in front of a wall.  >  Men in front of a wall in the dark,{},vibro
+vbse013,vibro2,2,1668160137000,112042.0,,2130.0,3714.0,3714.0,10000.0,TEMPORAL,frame > text,frame 0229.jpg in video 06215 at 00:01:54:00 (Frame #2850)  >  Men in front of a wall in the dark,{},vibro
+vbse013,vibro2,2,1668160142000,117042.0,,274.0,inf,1610.0,10000.0,TEMPORAL,text > text,Man on a bed and in front of a wall.  >  Men in front of a wall in the dark,{},vibro
+vbse013,vibro2,2,1668160152000,127042.0,,2503.0,3488.0,3488.0,10000.0,TEMPORAL,frame > text,frame 1257.jpg in video 00606 at 00:10:28:00 (Frame #15056)  >  Men in front of a wall in the dark,{},vibro
+vbse013,vibro2,2,1668160159000,134042.0,,1717.0,4276.0,4276.0,10000.0,TEMPORAL,frame > text,frame 1257.jpg in video 00606 at 00:10:28:00 (Frame #15056)  >  Men in front of a wall in the dark,{},vibro
+vbse013,vibro2,2,1668160166000,141042.0,,2438.0,inf,inf,10000.0,TEMPORAL,text > text,Face of a Man on a bed.  >  Men in front of a wall in the dark,{},vibro
+vbse013,vibro2,2,1668160187000,162042.0,,1054.0,1054.0,1054.0,10000.0,TEMPORAL,text > frame,Face of a Man on a bed.  >  frame 2141.jpg in video 10335 at 00:17:50:00 (Frame #26750),{},vibro
+vbse013,vibro2,2,1668160204000,179042.0,,2913.0,5081.0,5081.0,10000.0,TEMPORAL,text > text,Face of a Man on a bed.  >  Hand in the dark in front of a wall,{},vibro
+vbse013,vibro2,2,1668160217000,192042.0,,3606.0,8716.0,8716.0,10000.0,TEMPORAL,text > text,Face of a Man on a bed.  >  Hand in the dark in front of a wall,{},vibro
+vbse013,vibro2,2,1668160252000,227042.0,,inf,inf,inf,10000.0,TEMPORAL,text > text,Face of a Man on a bed.  >  Hand in the dark in front of a wall,{},vibro
+vbse013,vibro2,2,1668160266000,241042.0,,1953.0,inf,inf,10000.0,TEMPORAL,text > text,Face of a Man on a bed.  >  Hand in the dark in front of a wall,{},vibro
+vbse013,vibro2,2,1668160280000,255042.0,,2290.0,6623.0,6623.0,10000.0,TEMPORAL,text > text,Face of a Man on a bed.  >  Hand in the dark in front of a wall,{},vibro
+vbse013,vibro2,2,1668160300000,275042.0,,1684.0,5366.0,1684.0,10000.0,TEMPORAL,text > text,Face of a Man on a bed.  >  Hand in the dark in front of a wall,{},vibro
+vbse013,vibro2,2,1668160305000,280042.0,,9707.0,9707.0,9707.0,10000.0,IMAGE,globalFeatures, video 16596 at 00:01:52:50 (Frame #2700),{},vibro
+vbse013,vibro2,2,1668160306000,281042.0,,914.0,1309.0,914.0,10000.0,TEMPORAL,frame > text,frame 0226.jpg in video 16596 at 00:01:52:50 (Frame #2700)  >  Hand in the dark in front of a wall,{},vibro
+vbse013,vibro2,2,1668160314000,289042.0,,2619.0,2939.0,2939.0,10000.0,TEMPORAL,text > text,Face of a Man on a bed.  >  Hand in the dark in front of a wall,{},vibro
+vbse013,vibro2,2,1668160322000,297042.0,,3252.0,4690.0,4690.0,10000.0,TEMPORAL,text > text,Face of a Man on a bed.  >  Hand in the dark in front of a wall,{},vibro
+vbse014,vibro2,2,1668160411000,3483.0,20182.0,29.0,29.0,29.0,10000.0,TEXT,jointEmbedding,A white dress is waving in the wind over the floor.,{},vibro
+vbse015,vibro2,2,1668161586000,3405.0,20899.0,1.0,1.0,1.0,10000.0,TEXT,jointEmbedding,A man lighting at a piano with a flashlight.,{},vibro
+vbse015,vibro2,2,1668161594000,11405.0,20899.0,1.0,inf,1.0,10000.0,IMAGE,globalFeatures, video 03184 at 00:01:29:50 (Frame #2237),{},vibro
+vbse016,vibro2,2,1668161938000,2188.0,8421.0,8.0,8.0,8.0,10000.0,TEXT,jointEmbedding,Small boats tied in the harbour in front of a cruise ship.,{},vibro
+vbse017,vibro2,2,1668162575000,2538.0,38394.0,38.0,38.0,38.0,10000.0,TEXT,jointEmbedding,A person roasting coffee beans.,{},vibro
+vbse018,vibro2,2,1668163563000,2323.0,17801.0,3.0,3.0,3.0,10000.0,TEXT,jointEmbedding,A black-haired woman in a red dress walks down stairs.,{},vibro
+vbse019,vibro2,2,1668163682000,2104.0,55085.0,237.0,237.0,237.0,10000.0,TEXT,jointEmbedding,A couple in black clothes kisses outside.,{},vibro
+vbse019,vibro2,2,1668163720000,40104.0,55085.0,118.0,118.0,118.0,10000.0,IMAGE,globalFeatures, video 15536 at 00:03:50:00 (Frame #6915),{},vibro
+vbse019,vibro2,2,1668163726000,46104.0,55085.0,11.0,11.0,11.0,10000.0,IMAGE,globalFeatures, video 14537 at 00:01:36:00 (Frame #2301),{},vibro
+vbse020,vibro2,2,1668163901000,3609.0,87542.0,62.0,266.0,266.0,10000.0,TEXT,jointEmbedding,Actors in historic costumes celebrate their theater performance.,{},vibro
+vbse020,vibro2,2,1668163944000,46609.0,87542.0,210.0,980.0,980.0,10000.0,IMAGE,globalFeatures, video 09065 at 00:01:01:00 (Frame #1537),{},vibro
+vbse020,vibro2,2,1668163953000,55609.0,87542.0,774.0,774.0,774.0,10000.0,IMAGE,globalFeatures, video 09065 at 00:01:01:00 (Frame #1537),{},vibro
+vbse020,vibro2,2,1668163975000,77609.0,87542.0,1.0,4.0,4.0,10000.0,IMAGE,globalFeatures, video 09065 at 00:01:01:00 (Frame #1537),{},vibro
+vbse021,vibro2,2,1668164275000,3577.0,10011.0,1.0,inf,1.0,10000.0,TEXT,jointEmbedding,Men cutting and sculpting ice blocks with a chain saw.,{},vibro
+vbse022,vibro2,2,1668164330000,2127.0,13789.0,8.0,9.0,9.0,10000.0,TEXT,jointEmbedding,People playing table tennis in an office space.,{},vibro
+vbse023,vibro2,2,1668164506000,2067.0,174447.0,384.0,inf,1928.0,10000.0,TEXT,jointEmbedding,Pan between two motocross tracks with bikers moving from/to the camera.,{},vibro
+vbse023,vibro2,2,1668164517000,13067.0,174447.0,3002.0,inf,3002.0,10000.0,IMAGE,globalFeatures, video 11039 at 00:06:07:00 (Frame #8811),{},vibro
+vbse023,vibro2,2,1668164520000,16067.0,174447.0,284.0,inf,1820.0,10000.0,IMAGE,globalFeatures, video 11039 at 00:06:07:00 (Frame #8811),{},vibro
+vbse023,vibro2,2,1668164522000,18067.0,174447.0,280.0,inf,1766.0,10000.0,IMAGE,globalFeatures, video 11039 at 00:06:07:00 (Frame #8811),{},vibro
+vbse023,vibro2,2,1668164524000,20067.0,174447.0,362.0,inf,1841.0,10000.0,IMAGE,globalFeatures, video 11039 at 00:06:07:00 (Frame #8811),{},vibro
+vbse023,vibro2,2,1668164554000,50067.0,174447.0,68.0,inf,68.0,10000.0,IMAGE,globalFeatures, video 11039 at 00:06:07:00 (Frame #8811),{},vibro
+vbse023,vibro2,2,1668164575000,71067.0,174447.0,1899.0,inf,inf,10000.0,IMAGE,globalFeatures, video 11039 at 00:06:07:00 (Frame #8811),{},vibro
+vbse023,vibro2,2,1668164580000,76067.0,174447.0,117.0,inf,inf,10000.0,IMAGE,globalFeatures, video 06777 at 00:01:41:00 (Frame #2537),{},vibro
+vbse023,vibro2,2,1668164585000,81067.0,174447.0,241.0,inf,inf,10000.0,IMAGE,globalFeatures, video 06777 at 00:01:41:00 (Frame #2537),{},vibro
+vbse023,vibro2,2,1668164587000,83067.0,174447.0,1224.0,inf,inf,10000.0,IMAGE,globalFeatures, video 06777 at 00:01:41:00 (Frame #2537),{},vibro
+vbse023,vibro2,2,1668164600000,96067.0,174447.0,35.0,inf,inf,10000.0,IMAGE,globalFeatures, video 06777 at 00:01:41:00 (Frame #2537),{},vibro
+vbse023,vibro2,2,1668164608000,104067.0,174447.0,3.0,3.0,3.0,10000.0,IMAGE,globalFeatures, video 05255 at 00:01:14:00 (Frame #1850),{},vibro
+vbse023,vibro2,2,1668164655000,151067.0,174447.0,1.0,1.0,1.0,10000.0,IMAGE,globalFeatures, video 04984 at 00:02:19:00 (Frame #3487),{},vibro
+vbse024,vibro2,2,1668164830000,2456.0,26014.0,44.0,44.0,44.0,10000.0,TEXT,jointEmbedding,Red oldtimer truck and bride getting in.,{},vibro
+vbse025,vibro2,2,1668164958000,2789.0,166481.0,781.0,1139.0,1139.0,10000.0,TEXT,jointEmbedding,Aerial shot moving up a parking lot over the trees.,{},vibro
+vbse025,vibro2,2,1668164970000,14789.0,166481.0,2871.0,2871.0,2871.0,10000.0,IMAGE,globalFeatures, video 00939 at 00:03:58:00 (Frame #7132),{},vibro
+vbse025,vibro2,2,1668164971000,15789.0,166481.0,325.0,325.0,325.0,10000.0,IMAGE,globalFeatures, video 00939 at 00:03:58:00 (Frame #7132),{},vibro
+vbse025,vibro2,2,1668164988000,32789.0,166481.0,1396.0,1396.0,1396.0,10000.0,TEMPORAL,frame > text,frame 0477.jpg in video 00939 at 00:03:58:00 (Frame #7132)  >  ,{},vibro
+vbse025,vibro2,2,1668165016000,60789.0,166481.0,46.0,46.0,46.0,10000.0,TEMPORAL,frame > text,frame 0477.jpg in video 00939 at 00:03:58:00 (Frame #7132)  >  ,{},vibro
+vbse025,vibro2,2,1668165043000,87789.0,166481.0,78.0,78.0,78.0,10000.0,TEMPORAL,frame > text,frame 0477.jpg in video 00939 at 00:03:58:00 (Frame #7132)  >  ,{},vibro
+vbse025,vibro2,2,1668165049000,93789.0,166481.0,61.0,61.0,61.0,10000.0,TEMPORAL,frame > text,frame 0477.jpg in video 00939 at 00:03:58:00 (Frame #7132)  >  ,{},vibro
+vbse025,vibro2,2,1668165056000,100789.0,166481.0,392.0,392.0,392.0,10000.0,TEMPORAL,text > text,Aerial shot moving up a parking cars and trees.  >  ,{},vibro
+vbse025,vibro2,2,1668165061000,105789.0,166481.0,85.0,85.0,85.0,10000.0,TEMPORAL,text > text,Aerial shot moving up a parking cars and trees.  >  ,{},vibro
+vbse025,vibro2,2,1668165086000,130789.0,166481.0,37.0,37.0,37.0,10000.0,TEMPORAL,frame > text,frame 0038.jpg in video 02891 at 00:00:18:00 (Frame #554)  >  ,{},vibro
+vbse025,vibro2,2,1668165091000,135789.0,166481.0,163.0,163.0,163.0,10000.0,TEMPORAL,text > text,White and black cars on a street with trees in the background.  >  ,{},vibro
+vbse025,vibro2,2,1668165110000,154789.0,166481.0,6.0,30.0,6.0,10000.0,TEMPORAL,text > text,White and black cars on a street with trees in the background.  >  ,{},vibro
+vbse026,vibro2,2,1668165367000,2744.0,39232.0,141.0,228.0,228.0,10000.0,TEXT,jointEmbedding,A man ski touring an pulling a red sledge.,{},vibro
+vbse026,vibro2,2,1668165375000,10744.0,39232.0,73.0,73.0,73.0,10000.0,IMAGE,globalFeatures, video 04739 at 00:01:50:00 (Frame #3311),{},vibro
+vbse026,vibro2,2,1668165393000,28744.0,39232.0,10.0,10.0,10.0,10000.0,IMAGE,globalFeatures, video 04739 at 00:01:42:00 (Frame #3056),{},vibro
+vbse028,vibro2,2,1668165748000,3266.0,51276.0,15.0,15.0,15.0,10000.0,TEXT,jointEmbedding,View from a car driving cross country and through a dirty side window.,{},vibro
+vbse028,vibro2,2,1668165752000,7266.0,51276.0,1.0,1.0,1.0,10000.0,IMAGE,globalFeatures, video 12309 at 00:01:05:00 (Frame #1963),{},vibro
+vbse029,vibro2,2,1668166051000,2515.0,23077.0,121.0,121.0,121.0,10000.0,TEXT,jointEmbedding,Bride getting dressed by three women in front of a mirror.,{},vibro
+vbse029,vibro2,2,1668166059000,10515.0,23077.0,9.0,9.0,9.0,10000.0,IMAGE,globalFeatures, video 00599 at 00:01:04:00 (Frame #1612),{},vibro
+vbse029,vibro2,2,1668166062000,13515.0,23077.0,4.0,4.0,4.0,10000.0,IMAGE,globalFeatures, video 00599 at 00:01:04:00 (Frame #1612),{},vibro
+vbse030,vibro2,2,1668166380000,2957.0,10761.0,9.0,9.0,9.0,10000.0,TEXT,jointEmbedding,View of two bridges in Venice from the water.,{},vibro
+vbse031,vibro2,2,1668170067000,1677.0,98699.0,1449.0,1765.0,1765.0,10000.0,TEXT,jointEmbedding,"Close-ups of drum and guitar playing, and shots of people standing by the bushes.",{},vibro
+vbse031,vibro2,2,1668170087000,21677.0,98699.0,1747.0,8070.0,4368.0,10000.0,TEXT,jointEmbedding,"Close-ups of drum and guitar playing, and shots of people standing by the bushes.",{},vibro
+vbse031,vibro2,2,1668170117000,51677.0,98699.0,3852.0,9339.0,9339.0,10000.0,TEMPORAL,text > text,"Close-ups of drum and guitar playing, and shots of people standing by the bushes.  >  ",{},vibro
+vbse031,vibro2,2,1668170136000,70677.0,98699.0,2777.0,5148.0,5148.0,10000.0,TEMPORAL,text > frame,"Close-ups of drum and guitar playing, and shots of people standing by the bushes.  >  frame 0571.jpg in video 02960 at 00:04:45:00 (Frame #7125)",{},vibro
+vbse031,vibro2,2,1668170143000,77677.0,98699.0,10.0,509.0,509.0,10000.0,TEMPORAL,text > text,"Close-ups of drum and guitar playing, and shots of people standing by the bushes.  >  close-up of a black man with a leave in front.",{},vibro
+vbse031,vibro2,2,1668170152000,86677.0,98699.0,5.0,6.0,6.0,10000.0,TEMPORAL,frame > text,frame 0163.jpg in video 17159 at 00:01:21:00 (Frame #2025)  >  close-up of a black man with a leave in front.,{},vibro
+vbse032,vibro2,2,1668170415000,3478.0,46476.0,19.0,inf,936.0,10000.0,TEXT,jointEmbedding,A person interacting with a sound-effects keyboard.,{},vibro
+vbse033,vibro2,2,1668170949000,3754.0,82510.0,68.0,68.0,68.0,10000.0,TEXT,jointEmbedding,Close-ups of ochre rocks with curvy carvings.,{},vibro
+vbse033,vibro2,2,1668170962000,16754.0,82510.0,1465.0,2234.0,1465.0,10000.0,IMAGE,globalFeatures, video 08541 at 00:06:51:00 (Frame #9876),{},vibro
+vbse033,vibro2,2,1668170983000,37754.0,82510.0,3819.0,3819.0,3819.0,10000.0,IMAGE,globalFeatures, video 08541 at 00:06:51:00 (Frame #9876),{},vibro
+vbse033,vibro2,2,1668170989000,43754.0,82510.0,1465.0,2234.0,1465.0,10000.0,IMAGE,globalFeatures, video 08541 at 00:06:51:00 (Frame #9876),{},vibro
+vbse033,vibro2,2,1668171007000,61754.0,82510.0,3150.0,3150.0,3150.0,10000.0,IMAGE,globalFeatures, video 11059 at 00:05:01:00 (Frame #7224),{},vibro
+vbse033,vibro2,2,1668171013000,67754.0,82510.0,97.0,97.0,97.0,10000.0,IMAGE,globalFeatures, video 08541 at 00:06:51:00 (Frame #9876),{},vibro
+vbse033,vibro2,2,1668171017000,71754.0,82510.0,41.0,41.0,41.0,10000.0,IMAGE,globalFeatures, video 08541 at 00:06:51:00 (Frame #9876),{},vibro
+vbse033,vibro2,2,1668171018000,72754.0,82510.0,32.0,32.0,32.0,10000.0,IMAGE,globalFeatures, video 08541 at 00:06:51:00 (Frame #9876),{},vibro
+vbse033,vibro2,2,1668171020000,74754.0,82510.0,1.0,1.0,1.0,10000.0,IMAGE,globalFeatures, video 02808 at 00:03:39:00 (Frame #6578),{},vibro
+vbse034,vibro2,2,1668171295000,2787.0,20318.0,11.0,11.0,11.0,10000.0,TEXT,jointEmbedding,A black-and-white video showing a diver moving upwards.,{},vibro
+vbse035,vibro2,2,1668171415000,1911.0,113546.0,56.0,inf,56.0,10000.0,TEXT,jointEmbedding,"A moving ferris wheel, recorded from the front and below.",{},vibro
+vbse035,vibro2,2,1668171433000,19911.0,113546.0,12.0,inf,12.0,10000.0,TEXT,jointEmbedding,"A moving ferris wheel, recorded from the front and below.",{},vibro
+vbse035,vibro2,2,1668171458000,44911.0,113546.0,36.0,inf,36.0,10000.0,TEMPORAL,text > text,"A moving ferris wheel, recorded from the front and below.  >  ",{},vibro
+vbse035,vibro2,2,1668171470000,56911.0,113546.0,159.0,inf,159.0,10000.0,TEMPORAL,text > text,"A moving ferris wheel, recorded from the front and below.  >  ",{},vibro
+vbse035,vibro2,2,1668171489000,75911.0,113546.0,66.0,inf,66.0,10000.0,TEMPORAL,text > text,"A moving ferris wheel, recorded from the front and below.  >  ",{},vibro
+vbse035,vibro2,2,1668171490000,76911.0,113546.0,29.0,inf,29.0,10000.0,TEMPORAL,frame > text,frame 0292.jpg in video 02241 at 00:02:25:00 (Frame #3637)  >  ,{},vibro
+vbse035,vibro2,2,1668171491000,77911.0,113546.0,27.0,inf,27.0,10000.0,TEMPORAL,frame > text,frame 0292.jpg in video 02241 at 00:02:25:00 (Frame #3637)  >  ,{},vibro
+vbse035,vibro2,2,1668171495000,81911.0,113546.0,152.0,inf,152.0,10000.0,TEMPORAL,text > text,"A moving ferris wheel, recorded from the front and below.  >  ",{},vibro
+vbse037,vibro2,2,1668171774000,2204.0,109317.0,16.0,inf,16.0,10000.0,TEXT,jointEmbedding,A group of people paddling in a boat at night.,{},vibro
+vbse037,vibro2,2,1668171779000,7204.0,109317.0,223.0,7156.0,7155.0,10000.0,IMAGE,globalFeatures, video 03806 at 00:06:40:00 (Frame #10012),{},vibro
+vbse037,vibro2,2,1668171782000,10204.0,109317.0,105.0,inf,991.0,10000.0,IMAGE,globalFeatures, video 03806 at 00:06:40:00 (Frame #10012),{},vibro
+vbse037,vibro2,2,1668171807000,35204.0,109317.0,16.0,inf,16.0,10000.0,TEXT,jointEmbedding,A group of people paddling in a boat at night.,{},vibro
+vbse037,vibro2,2,1668171815000,43204.0,109317.0,3.0,inf,2571.0,10000.0,IMAGE,globalFeatures, video 15417 at 00:01:53:00 (Frame #3401),{},vibro
+vbse037,vibro2,2,1668171834000,62204.0,109317.0,1.0,4701.0,6.0,10000.0,IMAGE,globalFeatures, video 07542 at 00:17:36:00 (Frame #25330),{},vibro
+vbse037,vibro2,2,1668171841000,69204.0,109317.0,1.0,inf,3.0,10000.0,IMAGE,globalFeatures, video 07542 at 00:17:36:00 (Frame #25330),{},vibro
+vbse038,vibro2,2,1668172158000,2197.0,166767.0,253.0,3321.0,3321.0,10000.0,TEXT,jointEmbedding,A demonstration of the setup of a metal oven flue through the roof.,{},vibro
+vbse038,vibro2,2,1668172209000,53197.0,166767.0,inf,inf,inf,10000.0,TEXT,jointEmbedding,Twist to lock,{},vibro
+vbse038,vibro2,2,1668172216000,60197.0,166767.0,253.0,3321.0,363.0,10000.0,TEXT,jointEmbedding,A demonstration of the setup of a metal oven flue through the roof.,{},vibro
+vbse038,vibro2,2,1668172233000,77197.0,166767.0,inf,inf,inf,10000.0,TEXT,jointEmbedding,Twist to lock,{},vibro
+vbse038,vibro2,2,1668172238000,82197.0,166767.0,253.0,3321.0,363.0,10000.0,TEXT,jointEmbedding,A demonstration of the setup of a metal oven flue through the roof.,{},vibro
+vbse038,vibro2,2,1668172256000,100197.0,166767.0,9110.0,inf,inf,10000.0,TEXT,jointEmbedding,metal plate on white background,{},vibro
+vbse038,vibro2,2,1668172268000,112197.0,166767.0,719.0,8668.0,8668.0,10000.0,IMAGE,globalFeatures, video 02806 at 00:06:36:00 (Frame #23736),{},vibro
+vbse038,vibro2,2,1668172269000,113197.0,166767.0,94.0,4035.0,94.0,10000.0,TEXT,jointEmbedding,A demonstration of the setup of a metal oven flue through the roof.,{},vibro
+vbse038,vibro2,2,1668172272000,116197.0,166767.0,5916.0,5916.0,5916.0,10000.0,IMAGE,globalFeatures, video 02806 at 00:06:36:00 (Frame #23736),{},vibro
+vbse038,vibro2,2,1668172273000,117197.0,166767.0,14.0,203.0,14.0,10000.0,TEXT,jointEmbedding,A demonstration of the setup of a metal oven flue through the roof.,{},vibro
+vbse038,vibro2,2,1668172282000,126197.0,166767.0,910.0,inf,inf,10000.0,TEMPORAL,text > frame,A demonstration of the setup of a metal oven flue through the roof.  >  frame 0793.jpg in video 02806 at 00:06:36:00 (Frame #23736),{},vibro
+vbse038,vibro2,2,1668172293000,137197.0,166767.0,159.0,3413.0,159.0,10000.0,TEMPORAL,frame > frame,frame 0035.jpg in video 00360 at 00:00:17:00 (Frame #425)  >  frame 0793.jpg in video 02806 at 00:06:36:00 (Frame #23736),{},vibro
+vbse039,vibro2,2,1668172347000,2589.0,22682.0,140.0,140.0,140.0,10000.0,TEXT,jointEmbedding,A rock carving followed by a picture of a stone/rock sculpture.,{},vibro
+vbse040,vibro2,2,1668172597000,2636.0,53398.0,730.0,inf,inf,10000.0,TEXT,jointEmbedding,A black-dressed woman interviews another black-dressed woman.,{},vibro
+vbse040,vibro2,2,1668172610000,15636.0,53398.0,853.0,inf,inf,10000.0,IMAGE,globalFeatures, video 16088 at 00:04:29:00 (Frame #6725),{},vibro
+vbse040,vibro2,2,1668172613000,18636.0,53398.0,179.0,inf,379.0,10000.0,IMAGE,globalFeatures, video 16088 at 00:04:29:00 (Frame #6725),{},vibro
+vbse040,vibro2,2,1668172636000,41636.0,53398.0,1.0,inf,2.0,10000.0,IMAGE,globalFeatures, video 08503 at 00:07:44:00 (Frame #11600),{},vibro
+vbse041,vibro2,2,1668172935000,2883.0,157935.0,627.0,inf,inf,10000.0,TEXT,jointEmbedding,A sunrise or sunset at the ocean recorded while paragliding.,{},vibro
+vbse041,vibro2,2,1668172955000,22883.0,157935.0,1813.0,inf,inf,10000.0,IMAGE,globalFeatures, video 11420 at 00:04:08:00 (Frame #3723),{},vibro
+vbse041,vibro2,2,1668172957000,24883.0,157935.0,1037.0,inf,inf,10000.0,IMAGE,globalFeatures, video 11420 at 00:04:08:00 (Frame #3723),{},vibro
+vbse041,vibro2,2,1668172961000,28883.0,157935.0,1041.0,inf,inf,10000.0,IMAGE,globalFeatures, video 11420 at 00:04:08:00 (Frame #3723),{},vibro
+vbse041,vibro2,2,1668172963000,30883.0,157935.0,1082.0,inf,inf,10000.0,IMAGE,globalFeatures, video 11420 at 00:04:08:00 (Frame #3723),{},vibro
+vbse041,vibro2,2,1668172967000,34883.0,157935.0,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 11420 at 00:04:08:00 (Frame #3723),{},vibro
+vbse041,vibro2,2,1668172970000,37883.0,157935.0,8946.0,inf,inf,10000.0,IMAGE,globalFeatures, video 11420 at 00:04:08:00 (Frame #3723),{},vibro
+vbse041,vibro2,2,1668172971000,38883.0,157935.0,649.0,inf,inf,10000.0,IMAGE,globalFeatures, video 11420 at 00:04:08:00 (Frame #3723),{},vibro
+vbse041,vibro2,2,1668172972000,39883.0,157935.0,601.0,inf,inf,10000.0,IMAGE,globalFeatures, video 11420 at 00:04:08:00 (Frame #3723),{},vibro
+vbse041,vibro2,2,1668172985000,52883.0,157935.0,343.0,inf,inf,10000.0,IMAGE,globalFeatures, video 11420 at 00:04:08:00 (Frame #3723),{},vibro
+vbse041,vibro2,2,1668172996000,63883.0,157935.0,208.0,inf,inf,10000.0,IMAGE,globalFeatures, video 11420 at 00:04:08:00 (Frame #3723),{},vibro
+vbse041,vibro2,2,1668172997000,64883.0,157935.0,197.0,inf,inf,10000.0,IMAGE,globalFeatures, video 11420 at 00:04:08:00 (Frame #3723),{},vibro
+vbse041,vibro2,2,1668173005000,72883.0,157935.0,2161.0,inf,inf,10000.0,IMAGE,globalFeatures, video 10038 at 00:02:22:00 (Frame #4255),{},vibro
+vbse041,vibro2,2,1668173009000,76883.0,157935.0,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 10038 at 00:02:22:00 (Frame #4255),{},vibro
+vbse041,vibro2,2,1668173010000,77883.0,157935.0,7493.0,inf,inf,10000.0,IMAGE,globalFeatures, video 10038 at 00:02:22:00 (Frame #4255),{},vibro
+vbse041,vibro2,2,1668173013000,80883.0,157935.0,1505.0,inf,inf,10000.0,IMAGE,globalFeatures, video 10038 at 00:02:22:00 (Frame #4255),{},vibro
+vbse041,vibro2,2,1668173023000,90883.0,157935.0,335.0,inf,inf,10000.0,IMAGE,globalFeatures, video 10038 at 00:01:34:00 (Frame #2832),{},vibro
+vbse041,vibro2,2,1668173033000,100883.0,157935.0,630.0,inf,9819.0,10000.0,TEMPORAL,text > text,A sunrise  at the ocean recorded while paragliding.  >  ,{},vibro
+vbse041,vibro2,2,1668173049000,116883.0,157935.0,29.0,inf,311.0,10000.0,TEMPORAL,frame > text,frame 0190.jpg in video 10038 at 00:01:34:00 (Frame #2832)  >  ,{},vibro
+vbse041,vibro2,2,1668173052000,119883.0,157935.0,2.0,184.0,184.0,10000.0,TEMPORAL,text > text,A pink sunrise  at the ocean.  >  ,{},vibro
+vbse041,vibro2,2,1668173058000,125883.0,157935.0,1.0,inf,10.0,10000.0,TEMPORAL,text > text,A pink sunrise  at the ocean.  >  ,{},vibro
+vbse042,vibro2,2,1668173274000,3475.0,56302.0,41.0,inf,306.0,10000.0,TEXT,jointEmbedding,A man in a yellow shirt climbing up a rock.,{},vibro
+vbse042,vibro2,2,1668173303000,32475.0,56302.0,15.0,inf,15.0,10000.0,IMAGE,globalFeatures, video 02030 at 00:05:33:00 (Frame #7992),{},vibro
+vbse043,vibro2,2,1668173570000,2693.0,16721.0,9.0,9.0,9.0,10000.0,TEXT,jointEmbedding,A man playing a banjo and singing in front of a,{},vibro
+vbse044,vibro2,2,1668173815000,1630.0,101601.0,120.0,inf,inf,10000.0,TEXT,jointEmbedding,A shark swimming at the sea floor.,{},vibro
+vbse044,vibro2,2,1668173829000,15630.0,101601.0,80.0,inf,inf,10000.0,IMAGE,globalFeatures, video 12543 at 00:01:21:00 (Frame #2427),{},vibro
+vbse044,vibro2,2,1668173858000,44630.0,101601.0,90.0,inf,inf,10000.0,IMAGE,globalFeatures, video 05119 at 00:04:06:00 (Frame #6162),{},vibro
+vbse044,vibro2,2,1668173868000,54630.0,101601.0,1.0,inf,inf,10000.0,IMAGE,globalFeatures, video 06273 at 00:04:24:00 (Frame #7912),{},vibro
+vbse045,vibro2,2,1668174099000,2025.0,190081.0,711.0,inf,711.0,10000.0,TEXT,jointEmbedding,Zoom-in to a large old tree with lots of leaves on the ground.,{},vibro
+vbse045,vibro2,2,1668174109000,12025.0,190081.0,1478.0,inf,1478.0,10000.0,IMAGE,globalFeatures, video 04510 at 00:01:09:00 (Frame #1725),{},vibro
+vbse045,vibro2,2,1668174113000,16025.0,190081.0,420.0,420.0,420.0,10000.0,IMAGE,globalFeatures, video 04510 at 00:01:09:00 (Frame #1725),{},vibro
+vbse045,vibro2,2,1668174114000,17025.0,190081.0,437.0,437.0,437.0,10000.0,IMAGE,globalFeatures, video 04510 at 00:01:09:00 (Frame #1725),{},vibro
+vbse045,vibro2,2,1668174122000,25025.0,190081.0,1097.0,inf,inf,10000.0,IMAGE,globalFeatures, video 04510 at 00:00:53:00 (Frame #1337),{},vibro
+vbse045,vibro2,2,1668174188000,91025.0,190081.0,282.0,643.0,304.0,10000.0,TEMPORAL,text > text,Zoom-in to a large old tree with lots of leaves on the ground.  >  ,{},vibro
+vbse045,vibro2,2,1668174209000,112025.0,190081.0,1054.0,1054.0,1054.0,10000.0,TEMPORAL,text > text,Zoom-in to a large old tree with lots of leaves on the ground.  >  ,{},vibro
+vbse045,vibro2,2,1668174219000,122025.0,190081.0,4.0,79.0,36.0,10000.0,TEMPORAL,frame > text,frame 0030.jpg in video 04510 at 00:00:14:00 (Frame #362)  >  ,{},vibro
+vbse045,vibro2,2,1668174224000,127025.0,190081.0,9.0,108.0,75.0,10000.0,TEMPORAL,frame > text,frame 0030.jpg in video 04510 at 00:00:14:00 (Frame #362)  >  ,{},vibro
+vbse045,vibro2,2,1668174242000,145025.0,190081.0,13.0,40.0,21.0,10000.0,TEMPORAL,text > text,Large old tree with lots of leaves on the ground.  >  ,{},vibro
+vbse045,vibro2,2,1668174250000,153025.0,190081.0,36.0,36.0,36.0,10000.0,IMAGE,globalFeatures, video 05971 at 00:03:31:00 (Frame #5064),{},vibro
+vbse045,vibro2,2,1668174251000,154025.0,190081.0,6.0,38.0,19.0,10000.0,TEMPORAL,frame > text,frame 0423.jpg in video 05971 at 00:03:31:00 (Frame #5064)  >  ,{},vibro
+vbse046,vibro2,2,1668174476000,1927.0,155197.0,inf,inf,inf,10000.0,TEXT,jointEmbedding,Close-up of a singer of whom you cannot see the mouth.,{},vibro
+vbse046,vibro2,2,1668174498000,23927.0,155197.0,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 07792 at 00:03:19:00 (Frame #4975),{},vibro
+vbse046,vibro2,2,1668174502000,27927.0,155197.0,7605.0,inf,inf,10000.0,IMAGE,globalFeatures, video 07792 at 00:03:19:00 (Frame #4975),{},vibro
+vbse046,vibro2,2,1668174509000,34927.0,155197.0,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 13219 at 00:02:33:00 (Frame #4600),{},vibro
+vbse046,vibro2,2,1668174511000,36927.0,155197.0,6958.0,inf,inf,10000.0,IMAGE,globalFeatures, video 13219 at 00:02:33:00 (Frame #4600),{},vibro
+vbse046,vibro2,2,1668174528000,53927.0,155197.0,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 13219 at 00:02:33:00 (Frame #4600),{},vibro
+vbse046,vibro2,2,1668174533000,58927.0,155197.0,inf,inf,inf,10000.0,TEXT,jointEmbedding,Close-up of a singer of seeing only the eyes.,{},vibro
+vbse046,vibro2,2,1668174540000,65927.0,155197.0,2297.0,inf,inf,10000.0,IMAGE,globalFeatures, video 04993 at 00:06:47:00 (Frame #9768),{},vibro
+vbse046,vibro2,2,1668174545000,70927.0,155197.0,145.0,inf,inf,10000.0,IMAGE,globalFeatures, video 08097 at 00:11:55:00 (Frame #17154),{},vibro
+vbse046,vibro2,2,1668174560000,85927.0,155197.0,322.0,inf,322.0,10000.0,IMAGE,globalFeatures, video 05690 at 00:00:43:00 (Frame #1075),{},vibro
+vbse046,vibro2,2,1668174573000,98927.0,155197.0,479.0,inf,494.0,10000.0,IMAGE,globalFeatures, video 11964 at 00:21:01:00 (Frame #31525),{},vibro
+vbse046,vibro2,2,1668174583000,108927.0,155197.0,95.0,inf,95.0,10000.0,IMAGE,globalFeatures, video 14771 at 00:00:17:00 (Frame #425),{},vibro
+vbse047,vibro2,2,1668174958000,1795.0,42445.0,432.0,inf,432.0,10000.0,TEXT,jointEmbedding,A fir tree with a blurred lake in the background.,{},vibro
+vbse047,vibro2,2,1668174968000,11795.0,42445.0,118.0,inf,118.0,10000.0,IMAGE,globalFeatures, video 01810 at 00:02:53:00 (Frame #5199),{},vibro
+vbse047,vibro2,2,1668174972000,15795.0,42445.0,28.0,inf,28.0,10000.0,IMAGE,globalFeatures, video 01810 at 00:02:53:00 (Frame #5199),{},vibro
+vbse047,vibro2,2,1668174984000,27795.0,42445.0,5.0,5.0,5.0,10000.0,IMAGE,globalFeatures, video 11432 at 00:05:35:00 (Frame #8375),{},vibro
+vbse048,vibro2,2,1668176176000,1619.0,51752.0,65.0,inf,896.0,10000.0,TEXT,jointEmbedding,A zoom-in to large old mushroom-shaped trees.,{},vibro
+vbse049,vibro2,2,1668176374000,3293.0,99922.0,216.0,inf,1796.0,10000.0,TEXT,jointEmbedding,A man in a white t-shirt playing guitar and singing,{},vibro
+vbse049,vibro2,2,1668176391000,20293.0,99922.0,3033.0,inf,6998.0,10000.0,IMAGE,globalFeatures, video 02575 at 00:01:39:00 (Frame #2487),{},vibro
+vbse049,vibro2,2,1668176392000,21293.0,99922.0,329.0,inf,2494.0,10000.0,IMAGE,globalFeatures, video 02575 at 00:01:39:00 (Frame #2487),{},vibro
+vbse049,vibro2,2,1668176440000,69293.0,99922.0,705.0,inf,2215.0,10000.0,IMAGE,globalFeatures, video 09514 at 00:00:56:00 (Frame #1680),{},vibro
+vbse049,vibro2,2,1668176454000,83293.0,99922.0,10.0,inf,25.0,10000.0,IMAGE,globalFeatures, video 09514 at 00:00:56:00 (Frame #1680),{},vibro
+vbse050,vibro2,2,1668176621000,1612.0,33920.0,14.0,3112.0,3112.0,10000.0,TEXT,jointEmbedding,A man in black clothes is introducing a camera stand.,{},vibro
+vbse051,vibro2,2,1668176820000,2139.0,89734.0,19.0,51.0,51.0,10000.0,TEXT,jointEmbedding,A man is setting up a starting ramp for a model airplane.,{},vibro
+vbse051,vibro2,2,1668176834000,16139.0,89734.0,62.0,inf,1272.0,10000.0,IMAGE,globalFeatures, video 16395 at 00:32:02:00 (Frame #48062),{},vibro
+vbse051,vibro2,2,1668176839000,21139.0,89734.0,47.0,47.0,47.0,10000.0,IMAGE,globalFeatures, video 16395 at 00:32:02:00 (Frame #48062),{},vibro
+vbse051,vibro2,2,1668176863000,45139.0,89734.0,62.0,inf,1272.0,10000.0,IMAGE,globalFeatures, video 16395 at 00:32:02:00 (Frame #48062),{},vibro
+vbse051,vibro2,2,1668176868000,50139.0,89734.0,19.0,51.0,51.0,10000.0,TEXT,jointEmbedding,A man is setting up a starting ramp for a model airplane.,{},vibro
+vbse052,vibro2,2,1668177141000,1395.0,56668.0,38.0,inf,81.0,10000.0,TEXT,jointEmbedding,Buildings carved into large rocks.,{},vibro
+vbse052,vibro2,2,1668177171000,31395.0,56668.0,1.0,3.0,1.0,10000.0,IMAGE,globalFeatures, video 14080 at 00:02:31:00 (Frame #4525),{},vibro
+vbse052,vibro2,2,1668177177000,37395.0,56668.0,1.0,7.0,5.0,10000.0,IMAGE,globalFeatures, video 14080 at 00:04:05:00 (Frame #7342),{},vibro
+vbse052,vibro2,2,1668177181000,41395.0,56668.0,1.0,5.0,3.0,10000.0,IMAGE,globalFeatures, video 14080 at 00:04:05:00 (Frame #7342),{},vibro
+vbse052,vibro2,2,1668177182000,42395.0,56668.0,1.0,5.0,3.0,10000.0,IMAGE,globalFeatures, video 14080 at 00:04:05:00 (Frame #7342),{},vibro
+vbse053,vibro2,2,1668177343000,1695.0,47428.0,45.0,inf,326.0,10000.0,TEXT,jointEmbedding,A group of rappers singing and dancing outside.,{},vibro
+vbse053,vibro2,2,1668177367000,25695.0,47428.0,3.0,inf,7.0,10000.0,IMAGE,globalFeatures, video 14844 at 00:00:43:00 (Frame #1042),{},vibro
+vbse054,vibro2,2,1668177659000,2412.0,80220.0,630.0,inf,951.0,10000.0,TEXT,jointEmbedding,First-person view of a mountainbike downhill race.,{},vibro
+vbse054,vibro2,2,1668177672000,15412.0,80220.0,113.0,inf,inf,10000.0,IMAGE,globalFeatures, video 02113 at 00:02:17:00 (Frame #4120),{},vibro
+vbse054,vibro2,2,1668177683000,26412.0,80220.0,14.0,inf,35.0,10000.0,IMAGE,globalFeatures, video 02113 at 00:01:08:00 (Frame #2052),{},vibro
+vbse054,vibro2,2,1668177686000,29412.0,80220.0,1.0,inf,inf,10000.0,IMAGE,globalFeatures, video 10701 at 00:01:37:00 (Frame #2425),{},vibro
+vbse055,vibro2,2,1668177986000,2089.0,48415.0,2.0,inf,inf,10000.0,TEXT,jointEmbedding,Close-up of a diving duck.,{},vibro
+vbse055,vibro2,2,1668177990000,6089.0,48415.0,1.0,inf,inf,10000.0,IMAGE,globalFeatures, video 03662 at 00:02:51:00 (Frame #4287),{},vibro
+vbse056,vibro2,2,1668178324000,2300.0,,582.0,3020.0,3020.0,10000.0,TEXT,jointEmbedding,Two sisters sitting at a small table and introducing theirselves.,{},vibro
+vbse056,vibro2,2,1668178344000,22300.0,,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 01512 at 00:08:28:00 (Frame #15224),{},vibro
+vbse056,vibro2,2,1668178347000,25300.0,,6531.0,inf,inf,10000.0,IMAGE,globalFeatures, video 01512 at 00:08:28:00 (Frame #15224),{},vibro
+vbse056,vibro2,2,1668178351000,29300.0,,1404.0,8490.0,8490.0,10000.0,IMAGE,globalFeatures, video 01512 at 00:08:28:00 (Frame #15224),{},vibro
+vbse056,vibro2,2,1668178356000,34300.0,,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 06886 at 00:02:01:00 (Frame #2901),{},vibro
+vbse056,vibro2,2,1668178357000,35300.0,,1711.0,7889.0,7889.0,10000.0,IMAGE,globalFeatures, video 06886 at 00:02:01:00 (Frame #2901),{},vibro
+vbse056,vibro2,2,1668178359000,37300.0,,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 06886 at 00:02:01:00 (Frame #2901),{},vibro
+vbse056,vibro2,2,1668178368000,46300.0,,108.0,2728.0,1943.0,10000.0,IMAGE,globalFeatures, video 06886 at 00:02:01:00 (Frame #2901),{},vibro
+vbse056,vibro2,2,1668178378000,56300.0,,240.0,4048.0,2819.0,10000.0,IMAGE,globalFeatures, video 06886 at 00:02:01:00 (Frame #2901),{},vibro
+vbse056,vibro2,2,1668178382000,60300.0,,240.0,4048.0,2819.0,10000.0,TEXT,jointEmbedding,Two woman sitting at a small table and in front of a picture.,{},vibro
+vbse056,vibro2,2,1668178385000,63300.0,,240.0,4048.0,2819.0,10000.0,TEXT,jointEmbedding,Two woman sitting at a small table and in front of a picture.,{},vibro
+vbse056,vibro2,2,1668178392000,70300.0,,422.0,6207.0,4581.0,10000.0,TEXT,jointEmbedding,Two woman sitting at a table in front of a picture.,{},vibro
+vbse056,vibro2,2,1668178398000,76300.0,,208.0,3690.0,3426.0,10000.0,TEXT,jointEmbedding,Two woman sitting at a table in front of a frame.,{},vibro
+vbse056,vibro2,2,1668178414000,92300.0,,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 01889 at 00:02:42:00 (Frame #3900),{},vibro
+vbse056,vibro2,2,1668178417000,95300.0,,749.0,7487.0,6802.0,10000.0,IMAGE,globalFeatures, video 01889 at 00:02:42:00 (Frame #3900),{},vibro
+vbse056,vibro2,2,1668178422000,100300.0,,201.0,3402.0,3140.0,10000.0,IMAGE,globalFeatures, video 01889 at 00:02:42:00 (Frame #3900),{},vibro
+vbse056,vibro2,2,1668178440000,118300.0,,204.0,1199.0,942.0,10000.0,IMAGE,globalFeatures, video 01889 at 00:02:42:00 (Frame #3900),{},vibro
+vbse056,vibro2,2,1668178462000,140300.0,,205.0,730.0,579.0,10000.0,IMAGE,globalFeatures, video 01889 at 00:02:42:00 (Frame #3900),{},vibro
+vbse056,vibro2,2,1668178483000,161300.0,,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 11195 at 00:28:36:00 (Frame #42900),{},vibro
+vbse056,vibro2,2,1668178486000,164300.0,,185.0,572.0,572.0,10000.0,IMAGE,globalFeatures, video 11195 at 00:28:36:00 (Frame #42900),{},vibro
+vbse056,vibro2,2,1668178488000,166300.0,,186.0,626.0,567.0,10000.0,IMAGE,globalFeatures, video 11195 at 00:28:36:00 (Frame #42900),{},vibro
+vbse056,vibro2,2,1668178492000,170300.0,,222.0,682.0,486.0,10000.0,IMAGE,globalFeatures, video 11195 at 00:28:36:00 (Frame #42900),{},vibro
+vbse056,vibro2,2,1668178496000,174300.0,,222.0,682.0,486.0,10000.0,TEXT,jointEmbedding,Two woman sitting in front of a white picture frame.,{},vibro
+vbse056,vibro2,2,1668178515000,193300.0,,2786.0,4782.0,4782.0,10000.0,TEXT,jointEmbedding,Two sisters sitting at a small table with a white wall and black curtains.,{},vibro
+vbse056,vibro2,2,1668178539000,217300.0,,1826.0,3837.0,3837.0,10000.0,TEXT,jointEmbedding,Two sisters at a small table with a white wall and black curtains.,{},vibro
+vbse056,vibro2,2,1668178542000,220300.0,,1695.0,4749.0,4749.0,10000.0,TEXT,jointEmbedding,Two sisters at a table with a white wall and black curtains.,{},vibro
+vbse056,vibro2,2,1668178554000,232300.0,,1113.0,inf,inf,10000.0,TEXT,jointEmbedding,Two woman at a table with a white wall and black curtains.,{},vibro
+vbse056,vibro2,2,1668178559000,237300.0,,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 11122 at 00:01:57:00 (Frame #2937),{},vibro
+vbse056,vibro2,2,1668178565000,243300.0,,1028.0,9069.0,9069.0,10000.0,IMAGE,globalFeatures, video 11122 at 00:01:57:00 (Frame #2937),{},vibro
+vbse056,vibro2,2,1668178590000,268300.0,,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 09449 at 00:04:15:00 (Frame #6375),{},vibro
+vbse056,vibro2,2,1668178591000,269300.0,,2526.0,inf,inf,10000.0,IMAGE,globalFeatures, video 09449 at 00:04:15:00 (Frame #6375),{},vibro
+vbse056,vibro2,2,1668178594000,272300.0,,1290.0,inf,inf,10000.0,IMAGE,globalFeatures, video 09449 at 00:04:15:00 (Frame #6375),{},vibro
+vbse056,vibro2,2,1668178601000,279300.0,,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 05451 at 00:02:06:00 (Frame #3032),{},vibro
+vbse056,vibro2,2,1668178603000,281300.0,,856.0,8596.0,8595.0,10000.0,IMAGE,globalFeatures, video 05451 at 00:02:06:00 (Frame #3032),{},vibro
+vbse056,vibro2,2,1668178609000,287300.0,,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 11697 at 00:03:27:00 (Frame #5175),{},vibro
+vbse056,vibro2,2,1668178612000,290300.0,,1679.0,inf,inf,10000.0,IMAGE,globalFeatures, video 11697 at 00:03:27:00 (Frame #5175),{},vibro
+vbse056,vibro2,2,1668178613000,291300.0,,1645.0,inf,inf,10000.0,IMAGE,globalFeatures, video 11697 at 00:03:27:00 (Frame #5175),{},vibro
+vbse057,vibro2,2,1668178650000,1157.0,229892.0,9617.0,inf,inf,10000.0,TEXT,jointEmbedding,Two woman in front of a white picture and black curtains.,{},vibro
+vbse057,vibro2,2,1668178655000,6157.0,229892.0,inf,inf,inf,10000.0,TEXT,jointEmbedding,Extremely zoomed recording of some written content.,{},vibro
+vbse057,vibro2,2,1668178663000,14157.0,229892.0,8602.0,inf,inf,10000.0,IMAGE,globalFeatures, video 15603 at 00:00:26:00 (Frame #636),{},vibro
+vbse057,vibro2,2,1668178665000,16157.0,229892.0,3857.0,inf,inf,10000.0,SKETCH,color,color,{},vibro
+vbse057,vibro2,2,1668178667000,18157.0,229892.0,8602.0,inf,inf,10000.0,IMAGE,globalFeatures, video 15603 at 00:00:26:00 (Frame #636),{},vibro
+vbse057,vibro2,2,1668178670000,21157.0,229892.0,3970.0,inf,inf,10000.0,SKETCH,color,color,{},vibro
+vbse057,vibro2,2,1668178673000,24157.0,229892.0,8602.0,inf,inf,10000.0,IMAGE,globalFeatures, video 15603 at 00:00:26:00 (Frame #636),{},vibro
+vbse057,vibro2,2,1668178677000,28157.0,229892.0,2177.0,inf,inf,10000.0,IMAGE,globalFeatures, video 15603 at 00:00:26:00 (Frame #636),{},vibro
+vbse057,vibro2,2,1668178679000,30157.0,229892.0,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 01088 at 00:03:37:00 (Frame #6503),{},vibro
+vbse057,vibro2,2,1668178682000,33157.0,229892.0,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 01088 at 00:03:37:00 (Frame #6503),{},vibro
+vbse057,vibro2,2,1668178684000,35157.0,229892.0,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 01088 at 00:03:37:00 (Frame #6503),{},vibro
+vbse057,vibro2,2,1668178697000,48157.0,229892.0,15.0,inf,8662.0,10000.0,IMAGE,globalFeatures, video 08973 at 00:02:56:00 (Frame #5274),{},vibro
+vbse057,vibro2,2,1668178704000,55157.0,229892.0,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 08973 at 00:02:56:00 (Frame #5274),{},vibro
+vbse057,vibro2,2,1668178708000,59157.0,229892.0,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 08973 at 00:02:56:00 (Frame #5274),{},vibro
+vbse057,vibro2,2,1668178713000,64157.0,229892.0,5679.0,inf,inf,10000.0,IMAGE,globalFeatures, video 08973 at 00:02:56:00 (Frame #5274),{},vibro
+vbse057,vibro2,2,1668178716000,67157.0,229892.0,1959.0,inf,inf,10000.0,IMAGE,globalFeatures, video 08973 at 00:02:56:00 (Frame #5274),{},vibro
+vbse057,vibro2,2,1668178725000,76157.0,229892.0,975.0,inf,7633.0,10000.0,IMAGE,globalFeatures, video 08973 at 00:03:47:00 (Frame #6818),{},vibro
+vbse057,vibro2,2,1668178729000,80157.0,229892.0,1325.0,inf,inf,10000.0,IMAGE,globalFeatures, video 08973 at 00:03:47:00 (Frame #6818),{},vibro
+vbse057,vibro2,2,1668178742000,93157.0,229892.0,180.0,inf,inf,10000.0,IMAGE,globalFeatures, video 08973 at 00:03:47:00 (Frame #6818),{},vibro
+vbse057,vibro2,2,1668178764000,115157.0,229892.0,151.0,3242.0,3242.0,10000.0,IMAGE,globalFeatures, video 08973 at 00:03:47:00 (Frame #6818),{},vibro
+vbse057,vibro2,2,1668178770000,121157.0,229892.0,79.0,inf,1416.0,10000.0,IMAGE,globalFeatures, video 04731 at 00:00:05:00 (Frame #125),{},vibro
+vbse057,vibro2,2,1668178773000,124157.0,229892.0,60.0,364.0,364.0,10000.0,IMAGE,globalFeatures, video 04731 at 00:00:05:00 (Frame #125),{},vibro
+vbse057,vibro2,2,1668178778000,129157.0,229892.0,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 04731 at 00:00:05:00 (Frame #125),{},vibro
+vbse057,vibro2,2,1668178780000,131157.0,229892.0,1630.0,inf,inf,10000.0,IMAGE,globalFeatures, video 04731 at 00:00:05:00 (Frame #125),{},vibro
+vbse057,vibro2,2,1668178789000,140157.0,229892.0,928.0,inf,3238.0,10000.0,IMAGE,globalFeatures, video 09286 at 00:01:13:00 (Frame #1837),{},vibro
+vbse057,vibro2,2,1668178794000,145157.0,229892.0,inf,inf,inf,10000.0,IMAGE,globalFeatures, video 09286 at 00:01:13:00 (Frame #1837),{},vibro
+vbse057,vibro2,2,1668178797000,148157.0,229892.0,5598.0,inf,5996.0,10000.0,IMAGE,globalFeatures, video 09286 at 00:01:13:00 (Frame #1837),{},vibro
+vbse057,vibro2,2,1668178847000,198157.0,229892.0,11.0,inf,163.0,10000.0,IMAGE,globalFeatures, video 09143 at 00:06:01:00 (Frame #8667),{},vibro
+vbse057,vibro2,2,1668178864000,215157.0,229892.0,1.0,2.0,2.0,10000.0,IMAGE,globalFeatures, video 11836 at 00:03:11:00 (Frame #5739),{},vibro
+vbse058,vibro2,2,1668178986000,1900.0,,87.0,inf,87.0,10000.0,TEXT,jointEmbedding,A freestyle downhill skier jumping down rocks between trees.,{},vibro
+vbse058,vibro2,2,1668178991000,6900.0,,505.0,1035.0,623.0,10000.0,IMAGE,globalFeatures, video 09291 at 00:04:11:00 (Frame #7530),{},vibro
+vbse058,vibro2,2,1668179011000,26900.0,,1642.0,1901.0,1642.0,10000.0,TEMPORAL,text > text,A freestyle downhill skier jumping down rocks between trees.  >  ,{},vibro
+vbse058,vibro2,2,1668179046000,61900.0,,53.0,503.0,53.0,10000.0,IMAGE,globalFeatures, video 05223 at 00:01:12:00 (Frame #1812),{},vibro
+vbse058,vibro2,2,1668179047000,62900.0,,1110.0,1110.0,1110.0,10000.0,TEMPORAL,text > text,A freestyle downhill skier jumping down rocks between trees.  >  ,{},vibro
+vbse058,vibro2,2,1668179087000,102900.0,,631.0,1493.0,631.0,10000.0,TEMPORAL,frame > text,frame 0146.jpg in video 05223 at 00:01:12:00 (Frame #1812)  >  ,{},vibro
+vbse058,vibro2,2,1668179107000,122900.0,,583.0,583.0,583.0,10000.0,TEMPORAL,text > text,A freestyle downhill skier  between trees.  >  ,{},vibro
+vbse058,vibro2,2,1668179120000,135900.0,,415.0,562.0,562.0,10000.0,TEMPORAL,text > text,A freestyle downhill skier  between trees.  >  ,{},vibro
+vbse058,vibro2,2,1668179140000,155900.0,,14.0,14.0,14.0,10000.0,IMAGE,globalFeatures, video 07895 at 00:03:24:00 (Frame #5112),{},vibro
+vbse058,vibro2,2,1668179141000,156900.0,,41.0,104.0,104.0,10000.0,TEMPORAL,text > text,A freestyle downhill skier  between trees.  >  ,{},vibro
+vbse058,vibro2,2,1668179163000,178900.0,,57.0,57.0,57.0,10000.0,IMAGE,globalFeatures, video 07895 at 00:03:24:00 (Frame #5112),{},vibro
+vbse058,vibro2,2,1668179164000,179900.0,,139.0,1331.0,234.0,10000.0,TEMPORAL,frame > text,frame 0410.jpg in video 07895 at 00:03:24:00 (Frame #5112)  >  ,{},vibro
+vbse058,vibro2,2,1668179182000,197900.0,,129.0,496.0,496.0,10000.0,TEMPORAL,text > text,A freestyle downhill skier  between trees and blue sky  >  ,{},vibro
+vbse058,vibro2,2,1668179200000,215900.0,,339.0,339.0,339.0,10000.0,IMAGE,globalFeatures, video 16004 at 00:02:18:00 (Frame #4135),{},vibro
+vbse058,vibro2,2,1668179201000,216900.0,,115.0,126.0,115.0,10000.0,TEMPORAL,text > text,A freestyle downhill skier  between trees and blue sky  >  ,{},vibro
+vbse058,vibro2,2,1668179227000,242900.0,,86.0,86.0,86.0,10000.0,TEMPORAL,text > text,A freestyle downhill skier  between trees and blue sky  >  ,{},vibro
+vbse058,vibro2,2,1668179248000,263900.0,,18.0,2643.0,18.0,10000.0,TEMPORAL,text > text,A freestyle downhill skier  between trees and blue sky  >  ,{},vibro
+vbse058,vibro2,2,1668179264000,279900.0,,57.0,292.0,57.0,10000.0,TEMPORAL,text > text,A freestyle downhill skier  between trees and blue sky  >  ,{},vibro
+vbse059,vibro2,2,1668179391000,2697.0,200939.0,79.0,863.0,492.0,10000.0,TEXT,jointEmbedding,A skier flying down a mountain with a parachute.,{},vibro
+vbse059,vibro2,2,1668179401000,12697.0,200939.0,1199.0,1199.0,1199.0,10000.0,IMAGE,globalFeatures, video 14730 at 00:04:34:00 (Frame #8211),{},vibro
+vbse059,vibro2,2,1668179407000,18697.0,200939.0,169.0,615.0,373.0,10000.0,IMAGE,globalFeatures, video 14730 at 00:04:34:00 (Frame #8211),{},vibro
+vbse059,vibro2,2,1668179472000,83697.0,200939.0,3952.0,inf,inf,10000.0,TEXT,jointEmbedding,Two skies flying down a mountain.,{},vibro
+vbse059,vibro2,2,1668179482000,93697.0,200939.0,3757.0,6586.0,6586.0,10000.0,TEXT,jointEmbedding,Two skies flying down a show mountain.,{},vibro
+vbse059,vibro2,2,1668179496000,107697.0,200939.0,2068.0,6700.0,3794.0,10000.0,IMAGE,globalFeatures, video 11749 at 00:04:16:00 (Frame #7687),{},vibro
+vbse059,vibro2,2,1668179497000,108697.0,200939.0,2231.0,2817.0,2817.0,10000.0,TEMPORAL,frame > text,frame 0549.jpg in video 14730 at 00:04:34:00 (Frame #8211)  >  Two skies flying down a show mountain.,{},vibro
+vbse059,vibro2,2,1668179522000,133697.0,200939.0,3018.0,4143.0,4143.0,10000.0,TEMPORAL,frame > text,frame 0549.jpg in video 14730 at 00:04:34:00 (Frame #8211)  >  Two skies flying down a show mountain.,{},vibro
+vbse059,vibro2,2,1668179546000,157697.0,200939.0,2607.0,2607.0,2607.0,10000.0,TEMPORAL,frame > text,frame 0549.jpg in video 14730 at 00:04:34:00 (Frame #8211)  >  Two skies flying down a show mountain.,{},vibro
+vbse060,vibro2,2,1668179728000,1787.0,69282.0,9.0,inf,192.0,10000.0,TEXT,jointEmbedding,A crowd of people sitting in a cinema / theatre.,{},vibro
+vbse060,vibro2,2,1668179736000,9787.0,69282.0,750.0,750.0,750.0,10000.0,IMAGE,globalFeatures, video 02825 at 00:05:40:00 (Frame #8512),{},vibro
+vbse060,vibro2,2,1668179741000,14787.0,69282.0,97.0,97.0,97.0,10000.0,IMAGE,globalFeatures, video 02825 at 00:05:40:00 (Frame #8512),{},vibro
+vbse060,vibro2,2,1668179749000,22787.0,69282.0,520.0,inf,520.0,10000.0,IMAGE,globalFeatures, video 08324 at 00:03:24:00 (Frame #5100),{},vibro
+vbse060,vibro2,2,1668179753000,26787.0,69282.0,67.0,67.0,67.0,10000.0,IMAGE,globalFeatures, video 08324 at 00:03:24:00 (Frame #5100),{},vibro
+vbse060,vibro2,2,1668179762000,35787.0,69282.0,6950.0,6950.0,6950.0,10000.0,IMAGE,globalFeatures, video 15768 at 00:02:59:00 (Frame #4291),{},vibro
+vbse060,vibro2,2,1668179764000,37787.0,69282.0,261.0,261.0,261.0,10000.0,IMAGE,globalFeatures, video 15768 at 00:02:59:00 (Frame #4291),{},vibro
+vbse060,vibro2,2,1668179784000,57787.0,69282.0,188.0,610.0,188.0,10000.0,TEXT,jointEmbedding,The light of a movie lense in the dark.,{},vibro
